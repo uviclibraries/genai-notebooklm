@@ -1,15 +1,15 @@
-title: WORKSHOP NAME GOES HERE
+title: Intermediate GenAI
 remote_theme: pmarsceill/just-the-docs
 
 # Footer "Edit this page on GitHub" link text
-gh_edit_repository: "https://github.com/uviclibraries/WORKSHOP-DIR-HERE" # the github URL for your repo
+gh_edit_repository: "https://github.com/uviclibraries/genai-int" # the github URL for your repo
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_branch: "master" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
-# license information for workshop content - test
+# license information for workshop content
 license_name: "Creative Commons Attribution 4.0 International License"
 license_url: "http://creativecommons.org/licenses/by/4.0/"
 license_image_url: "https://i.creativecommons.org/l/by/4.0/88x31.png"
