@@ -62,4 +62,4 @@ Let's get started installing the LocalDocs plugin for GPT4All!
 > - Any factual errors?
 > - Any omissions?
   
-[NEXT STEP: Sentiment Analysis](sentiment-analysis.html){: .btn .btn-blue }
+[NEXT STEP: Sentiment Analysis](3-sentiment-analysis.html){: .btn .btn-blue }
