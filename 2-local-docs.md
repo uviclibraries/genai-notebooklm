@@ -41,11 +41,11 @@ Let's get started installing the LocalDocs plugin for GPT4All!
 ## Ask Questions of your LocalDocs Collection
 
 9. Click on the light green **Chats** button near the top of the left navigation bar.
-10. Click on the light green **LocalDocs** button on the top left of the application.<br>
-
-11. 
-8. Click on the checkbox beside the local document repository you just created (e.g. "Informal Credentials"), and then click on the green **X** in the top right corner. <img src="https://uviclibraries.github.io/gen-ai-research/images/8-repository-icon.png" style="float:right;width:280px;" alt="Repository icon">Note that there is now a thin yellow box around the Repository icon on the top right of the screen which indicates that a local document repository is going to be used for this chat.  
-8. Start a new chat by clicking on the green **+ New chat** button session on the top left of the screen.
+10. Click on the light green **LocalDocs** button on the top right of the application.
+11. Click the checkbox beside the name of your LocalDocs repository name.
+12. Click on the dark green Loal... button to select the Language Model you'd like to use.<br>
+<img src="images/2-local-repo.png" style="width:800px;" alt="Select a LocalDocs Respoitory"><br> 
+13. **UPDATE**: Start a new chat by clicking on the green **+ New chat** button session on the top left of the screen.
 9. Great job! Now we'll move on to selecting a Large Language Model to work with your local document repository, and then test it to see how well it can use the local document information in responding to your prompts.
 
 ## Test LocalDocs Accuracy & Speed
