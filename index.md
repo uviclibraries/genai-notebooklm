@@ -6,11 +6,11 @@ nav_order: 1
 **UPDATE PHOTO**
 <img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
 
-# WORKSHOP TITLE HERE (Use Regular Case Like this)
+# Generative AI for Research - Intermediate
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
+- Pre-workshop activities: 10 min 
+- Introductory presentation: 15 min
+- Active learning time: 60 min
 
 ## Why TOOL NAME HERE? 
 
