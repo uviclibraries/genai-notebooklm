@@ -22,5 +22,6 @@ At the end of this workshop, you will be able to:
 2. Use the local GenAI software and select a folder of documents on your computer to use as training data; then ask questions of the documents.
 3. Transcribe interviews using cloud-based AI transcription services and an AI-powered program that runs locally on your computer.
 4. Use GenAI tools to conduct Sentiment Analysis on free-form survey questions or social media posts.
+5. Upload an Excel spreadsheet, and then request a summary and insights from the data.
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
