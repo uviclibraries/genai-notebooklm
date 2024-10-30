@@ -15,7 +15,7 @@ DSC badges are awarded at the request of workshop participants after a DSC staff
 
 ### Earn an Informal Credential or Badge
 
-WE ARE CURRENTLY DEVELOPING THE CRITERIA FOR EARNING A BADGE FOR THIS WORKSHOP. 
+# WE ARE CURRENTLY DEVELOPING THE CRITERIA FOR EARNING A BADGE FOR THIS WORKSHOP. 
 
 ### Learn how you can share your DSC Badge
 To learn more about DSC badges and how you can share your them on LinkedIn profile, personal website, or resume, check our [DSC Badges webpage](https://onlineacademiccommunity.uvic.ca/dsc/badges/){:target="_blank"}.
