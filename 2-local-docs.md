@@ -43,14 +43,7 @@ Let's get started installing the LocalDocs plugin for GPT4All!
 11. Click the **checkbox** beside the name of your LocalDocs repository name.
 12. Click on the dark green **Local...** button to select the Language Model you'd like to use.<br>
 <img src="images/2-local-repo.png" style="width:800px;" alt="Select a LocalDocs Respoitory"><br> 
-13. Start a new chat by clicking on the light green **+ New chat** button session on the top left of the screen. Ask your document(s) a question that you know the answer to so you can see how well it performs with the language model you've selected.
-9. Great job! Now let's test it to see how well it can use the local document information in responding to other prompts.
-
-## Test LocalDocs Accuracy & Speed
-1. Before we can start testing, we need to tell GPT4All that we want to use the _Llama 3 Instruct_ model:
-  - Click on the **Choose a model...** drop-down box at the middle top of the window.
-  - Select **Llama 3 Instruct** model. Depending on the speed of your laptop it should take between take 10 to 60 seconds for the model to finish loading.
-2. Let's test _GPT4All & Llama 3 Instruct_ combined with your local document repository by asking it a question that you know the response to in your document library. For example, my local documents have information on informal credentials so I'll use the following query (**your prompte should be different**):<br>
+13. Let's test _GPT4All & Llama 3 Instruct_ combined with your local document repository by asking it a question that you know the response to in your document library. For example, my local documents have information on informal credentials so I'll use the following query (**your prompt should be different**):<br>
 ```﻿Are informal credentials students earn from academic makerspaces useful in helping them secure jobs?```<br>
   - How reasonable do the results look for your query?
   - Do you notice any significant errors or omissions that you know from what is in your local documents?
