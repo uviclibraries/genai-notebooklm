@@ -42,11 +42,11 @@ Let's get started installing the LocalDocs plugin for GPT4All!
 
 9. Click on the light green **Chats** button near the top of the left navigation bar.
 10. Click on the light green **LocalDocs** button on the top right of the application.
-11. Click the checkbox beside the name of your LocalDocs repository name.
-12. Click on the dark green Loal... button to select the Language Model you'd like to use.<br>
+11. Click the **checkbox** beside the name of your LocalDocs repository name.
+12. Click on the dark green **Local...** button to select the Language Model you'd like to use.<br>
 <img src="images/2-local-repo.png" style="width:800px;" alt="Select a LocalDocs Respoitory"><br> 
-13. **UPDATE**: Start a new chat by clicking on the green **+ New chat** button session on the top left of the screen.
-9. Great job! Now we'll move on to selecting a Large Language Model to work with your local document repository, and then test it to see how well it can use the local document information in responding to your prompts.
+13. Start a new chat by clicking on the light green **+ New chat** button session on the top left of the screen.
+9. Great job! Now let's test it to see how well it can use the local document information in responding to your prompts.
 
 ## Test LocalDocs Accuracy & Speed
 1. Before we can start testing, we need to tell GPT4All that we want to use the _Llama 3 Instruct_ model:
