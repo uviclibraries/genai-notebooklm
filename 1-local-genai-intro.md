@@ -74,7 +74,7 @@ Let's try installing a second Language Model so that we can compare the results 
   - Scroll down a ways and select **Nous Hermes 2 Mistral DPO** model. Depending on the speed of your laptop it should take between take 10 to 60 seconds for the model to finish loading.
 3. Let's test _GPT4All & Nous Hermes 2 Mistral DPO_ with a generic prompt to start with. Copy and paste the following text into the Send a Message field and review the results:<br>
 ```Why would someone want to attend the University of Victoria in Canada? Why might the university not be a good fit for someone? Provide citations.```<br>
-<img src="images/7-first-prompt2.png" style="width:800px;" alt="First prompt">
+<img src="images/1-first-prompt2.png" style="width:800px;" alt="First prompt">
   - How reasonable do the results look to you?
   - Do you notice any significant omissions from the "not be a good fit" section? 
   - Are there any major differences from the _Llama 3 Instruct_ response? Is there any mention of **Cost of living or Housing availability**?
