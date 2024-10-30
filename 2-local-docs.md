@@ -25,7 +25,7 @@ The main capabilities and limitations of the LocalDocs plugin include:
 - Answer general metadata queries (e.g. What documents do you know about?, Tell me about my documents)
 - **Summarize a single document** (e.g. Summarize my magna carta PDF.)
 
-## Installing the LocalDocs Plugin
+## Creating Your First LocalDocs Collection
 
 Let's get started installing the LocalDocs plugin for GPT4All!
 
@@ -35,9 +35,16 @@ Let's get started installing the LocalDocs plugin for GPT4All!
 <img src="images/2-local-docs-1.png" style="width:800px;" alt="LocalDocs buttons"><br>
 5. **Name**: Give your collection of documents on your laptop a descriptive name.
 6. **Folder**: Next, click on the light green Browse button and navigate with your file manager to the location of the folder you want GPT4All to use as local training data.
-7. Click on the green **Create Collection** button, to create your first local repository! 
+8. Click on the green **Create Collection** button, to create your first local repository! It may take a minute or two for GPT4All to analyse all of the documents in the folder you selected.
 > NOTE: You can set up multiple local document repositories.
-7. Click on the checkbox beside the local document repository you just created (e.g. "Informal Credentials"), and then click on the green **X** in the top right corner. <img src="https://uviclibraries.github.io/gen-ai-research/images/8-repository-icon.png" style="float:right;width:280px;" alt="Repository icon">Note that there is now a thin yellow box around the Repository icon on the top right of the screen which indicates that a local document repository is going to be used for this chat.  
+
+## Ask Questions of your LocalDocs Collection
+
+9. Click on the light green **Chats** button near the top of the left navigation bar.
+10. Click on the light green **LocalDocs** button on the top left of the application.<br>
+
+11. 
+8. Click on the checkbox beside the local document repository you just created (e.g. "Informal Credentials"), and then click on the green **X** in the top right corner. <img src="https://uviclibraries.github.io/gen-ai-research/images/8-repository-icon.png" style="float:right;width:280px;" alt="Repository icon">Note that there is now a thin yellow box around the Repository icon on the top right of the screen which indicates that a local document repository is going to be used for this chat.  
 8. Start a new chat by clicking on the green **+ New chat** button session on the top left of the screen.
 9. Great job! Now we'll move on to selecting a Large Language Model to work with your local document repository, and then test it to see how well it can use the local document information in responding to your prompts.
 
