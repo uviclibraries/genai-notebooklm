@@ -1,4 +1,4 @@
-# Intermediate GenAI
+# Intermediate GenAI for Research
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/genai-int/
