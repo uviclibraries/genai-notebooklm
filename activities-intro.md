@@ -15,6 +15,5 @@ To be ready to jump right into the interactive activities during the workshop, *
 
 - [Here's Why GPT4All Could Be A Real Game-Changer](https://www.youtube.com/watch?v=XNRcjdfkADI){:target="_blank"} (3 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XNRcjdfkADI" title="Here's Why GPT4All Could Be A Real GAME-CHANGER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- 
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
