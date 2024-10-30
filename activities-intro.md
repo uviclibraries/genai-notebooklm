@@ -4,16 +4,15 @@ title: Activities Introduction
 nav_order: 1
 parent: Workshop Activities
 ---
-## Pre-Workshop Videos & Activities
-This workshop consists of a small amount of instruction so that most of the scheduled time can be devoted to interactive practice with various Generative AI (GenAI) tools. This allows participants to learn to use key features of these GenAI tools for research purposes and indirectly for general productivity. Some of the GenAI tools included in the active learning portion of the workshop are:
-- [Microsoft CoPilot](https://copilot.microsoft.com/){:target="_blank"} (UVic licensed) (general purpose)
-- [Perplexity](https://www.perplexity.ai/){:target="_blank"} (general purpose)
-- [ChatGPT](https://chat.openai.com/){:target="_blank"} (general purpose)
-- [Google Gemini](https://gemini.google.com/){:target="_blank"} (general purpose)
+# Activities Introduction
 
-To be ready to jump right into the interactive activities during the workshop, **please watch these short videos beforehand**:
+Please review the following if you are working through the workshop materials without attending a live event:
+- A - Watch the Workshop Introduction Video (15 min)<br>
+**COMING SOON!**
+**-OR-**<br>
+- B - Read the Introductory Slides (**COMING SOON**) for the workshop, including the speaker notes at the bottom of the page as that is where a lot of the important information is (15 min)<br>
+**-AND-**<br>
+- Finish the workshop activities faster by [learning how to optimally resize your web browser windows for the workshop activity guides](https://www.youtube.com/watch?v=Igk5hZUfzN0){:target="_blank"} (2 min)<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- [Here's Why GPT4All Could Be A Real Game-Changer](https://www.youtube.com/watch?v=XNRcjdfkADI){:target="_blank"} (3 min)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XNRcjdfkADI" title="Here's Why GPT4All Could Be A Real GAME-CHANGER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
+[NEXT STEP: UPDATE HERERE](1-UPDATE.html){: .btn .btn-blue }
