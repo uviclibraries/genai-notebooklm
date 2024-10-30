@@ -30,11 +30,9 @@ The main capabilities and limitations of the LocalDocs plugin include:
 Let's get started installing the LocalDocs plugin for GPT4All!
 
 1. Open GPT4All on your laptop if you haven't already.
-2. Click on the **Settings** cog icon on the top right of the window.<br>
-<img src="https://uviclibraries.github.io/gen-ai-research/images/8-settings-icon.png" style="width:400px;" alt="Settings icon."><br>
-3. Select the **LocalDocs** button near the top right of the window (see #1 on the image below).
-4. Click on the **Download** button.<br>
-<img src="https://uviclibraries.github.io/gen-ai-research/images/8-sbert.png" style="width:500px;" alt="LocalDocs buttons."><br>
+2. Select the **LocalDocs** button near the bottom of the left navigation bar.
+4. Click on the green **+ Add Collection** button on the top right of the window.<br>
+<img src="images/2-local-docs-1.png" style="width:500px;" alt="LocalDocs buttons"><br>
 5. To the right the **SBert** model, click on the **Download** button. After SBert has downloaded click the green X in the top right to close the download window.<br>
 <img src="https://uviclibraries.github.io/gen-ai-research/images/8-sbert2.png" style="width:700px;" alt="SBert download button."><br>
 6. Next, using your laptop's file manager, identify an existing folder or create a folder in your file manager and put files into it that you want GPT4All to query when you ask it to. You can alter the contents of the folder/directory at any time. As you add more files to your collection, your LLM will dynamically be able to access them (after 1 or 2 minutes).
