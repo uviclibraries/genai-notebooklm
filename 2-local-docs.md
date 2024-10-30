@@ -26,7 +26,6 @@ The main capabilities and limitations of the LocalDocs plugin include:
 - **Summarize a single document** (e.g. Summarize my magna carta PDF.)
 
 ## Creating Your First LocalDocs Collection
-
 Let's get started installing the LocalDocs plugin for GPT4All!
 
 1. Open GPT4All on your laptop if you haven't already.
@@ -39,14 +38,13 @@ Let's get started installing the LocalDocs plugin for GPT4All!
 > NOTE: You can set up multiple local document repositories.
 
 ## Ask Questions of your LocalDocs Collection
-
 9. Click on the light green **Chats** button near the top of the left navigation bar.
 10. Click on the light green **LocalDocs** button on the top right of the application.
 11. Click the **checkbox** beside the name of your LocalDocs repository name.
 12. Click on the dark green **Local...** button to select the Language Model you'd like to use.<br>
 <img src="images/2-local-repo.png" style="width:800px;" alt="Select a LocalDocs Respoitory"><br> 
-13. Start a new chat by clicking on the light green **+ New chat** button session on the top left of the screen.
-9. Great job! Now let's test it to see how well it can use the local document information in responding to your prompts.
+13. Start a new chat by clicking on the light green **+ New chat** button session on the top left of the screen. Ask your document(s) a question that you know the answer to so you can see how well it performs with the language model you've selected.
+9. Great job! Now let's test it to see how well it can use the local document information in responding to other prompts.
 
 ## Test LocalDocs Accuracy & Speed
 1. Before we can start testing, we need to tell GPT4All that we want to use the _Llama 3 Instruct_ model:
