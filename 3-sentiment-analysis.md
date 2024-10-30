@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
 # Use GPT4All & Python to perform Sentiment Analysis on Survey Questions 
-<img src="https://uviclibraries.github.io/gen-ai-research/images/9-sentiment-analysis-visual.jpg" style="float:right;width:350px;padding:10px;" alt="Sentiment Analysis Visualization">
+<img src="images/3-sentiment-analysis-visual.jpg" style="float:right;width:350px;padding:10px;" alt="Sentiment Analysis Visualization">
 Years ago as a research assistant, I worked on a project to analyze social media posts related to a specific hashtag to identify the sentiment of the tweets. While the project was very interesting, the process of manually assigning a sentiment to over 2,000 tweets was not fun at all. The good news is that Generative AI can be a helpful & efficient tool for researchers wanting to conduct similar analyses today.
 
 In this workshop, we will explore how to use GPT4All & Python for sentiment analysis while being mindful of their limitations. If you have any questions or get stuck as you work through this GPT4All exercise, please ask the instructor for assistance.
@@ -32,19 +32,19 @@ Generative AI tools like GPT4All allow researchers to more quickly, efficiently,
 1. Before we can start testing, we need to tell GPT4All that we want to use the _Llama 3 Instruct_ model:
   - Click on the **Home** button on the top left of the screen.
   - Click on the green **Find Models** button on the **Home** screen.
-<img src="https://uviclibraries.github.io/gen-ai-research/images/9-home-models.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all select a GenAI model"><br>
+<img src="images/3-home-models.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all select a GenAI model"><br>
   - Select **Llama 3 Instruct** model, or the _latest Llama model_ if the _Llama 3 Instruct model_ is not available. Depending on the speed of your laptop and your internet connection, it should take between 10 seconds to 10 minutes for the model to finish loading.
 2. Let's test _GPT4All & Llama 3 Instruct_ for Sentiment Analysis by clicking the green **+ New Chat** button (top left of the app), then copy and paste the following prompt into the **Send a message...** field at the bottom of the app:<br>
 ```Analyze the following customer survey response to determine the overall sentiment of the instructor feedback. The sentiment categories I would like you to use are: Positive, Neutral, or Negative. Provide a bullet list of reasons for the sentiment classification Here is the survey response: I appreciated the reminders that everyone is working at their own pace. I would have preferred an introduction that addressed simple questions for beginners - while more advanced students could continue on with the workbook. I spent some time waiting for my turn to ask yet another simple question.```<br>
 
-<img src="https://uviclibraries.github.io/gen-ai-research/images/9-gpt4all-manual-2.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all manual sentiment analysis example"><br>
+<img src="images/3-gpt4all-manual-2.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all manual sentiment analysis example"><br>
 Let's take a closer look at the "Neutral" classification that the GenAI model assigned to the survey feedback: 
 > - Overall does the "Neutral" classification of the survey feedback look accurate?
 > - Do the reasons that the GenAI tool gave for the "Neutral" classification look reasonable to you?
 > - How would you have classified the feedback, Positive, Neutral, or Negative?
 > - Do you think that this type of automated sentiment analysis could be useful in any of your upcoming research projects?
 
-<img src="https://uviclibraries.github.io/gen-ai-research/images/9-gpt4all-manual.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all manual sentiment analysis example"><br>
+<img src="images/3-gpt4all-manual.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all manual sentiment analysis example"><br>
 
 ## Install Python 
 Python is a programming language that is often used by researchers to assist them in analyzing their research data.
@@ -52,7 +52,7 @@ Python is a programming language that is often used by researchers to assist the
   - [Mac](https://www.python.org/downloads/macos/){:target="_blank"}
   - Install Python on your computer by finding the location your web browser downloaded the Python install file to (usually a downloads folder or your desktop), and then Double click on the installer file.
 2. For Windows Computers (Note: If you have a computer that is managed by the University of Victoria, or the company you work for, you may need to contact your IT department to install Python on your computer):
-   - <img src="https://uviclibraries.github.io/gen-ai-research/images/9-win-start-icon.png" style="float:right;width:90px;padding:10px;" alt="Windows Start icon">Open the Start menu by **clicking on the Windows logo** at the bottom of your screen -OR- Press the Windows button on your keyboard.
+   - <img src="images/3-win-start-icon.png" style="float:right;width:90px;padding:10px;" alt="Windows Start icon">Open the Start menu by **clicking on the Windows logo** at the bottom of your screen -OR- Press the Windows button on your keyboard.
    - Type **Microsoft Store** in the Run command box and click the **Microsoft Store icon**.
    - In the search bar at the top, type **Python** and press **Enter** on your keyboard.
    - Click on the **Free** button beside the most recent version of Python.
@@ -65,9 +65,9 @@ In order for Python to have access to all the wonderful GPT4All tools, you need 
    - Once the _Spotlight Search_ box opens, type **terminal** into the search box and then press enter. You should now have a black terminal opened on your computer.
    - In the terminal type ```python3 -m pip install --upgrade pip``` and then press enter. If you get an error message, please ask the person leading the workshop for assistance.
    - In the terminal type ```pip install gpt4all``` and then press enter. If you get an error message, please ask the person leading the workshop for assistance.<br>
-<img src="https://uviclibraries.github.io/gen-ai-research/images/9-terminal-open.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all manual sentiment analysis example"><br>
+<img src="images/3-terminal-open.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all manual sentiment analysis example"><br>
 2. If you are using a **Windows computer** please do the following:
-   - <img src="https://uviclibraries.github.io/gen-ai-research/images/9-win-start-icon.png" style="float:right;width:90px;padding:10px;" alt="Windows Start icon">Open the Start menu by **clicking on the Windows logo** at the bottom of your screen -OR- Press the Windows button on your keyboard.
+   - <img src="images/3-win-start-icon.png" style="float:right;width:90px;padding:10px;" alt="Windows Start icon">Open the Start menu by **clicking on the Windows logo** at the bottom of your screen -OR- Press the Windows button on your keyboard.
    - Type **Cmd** in the search box, and then press **Enter** button on your keyboard.
    - Type ```python3.exe -m pip install gpt4all``` and then press **Enter** button on your keyboard.
 
@@ -79,18 +79,18 @@ If you have a preferred coded editor please go ahead and use it for the followin
 
 ## Create a Python script to test Sentiment Analysis on your Command Line
 1. Open the Visual Studio Code you just installed (or your favourite code editor if you have one) on your laptop if you haven't already.
-2. <img src="https://uviclibraries.github.io/gen-ai-research/images/9-vsc-open.png" style="float:right;width:260px;padding:10px;" alt="Open a folder in Visual Studio Code">Create a new Project in Visual Studio Code by clicking on the **Open Folder...** button.
+2. <img src="images/3-vsc-open.png" style="float:right;width:260px;padding:10px;" alt="Open a folder in Visual Studio Code">Create a new Project in Visual Studio Code by clicking on the **Open Folder...** button.
 3. You're now going to create a new folder for this project in a location on your computer where you'll be able to easily find it.
    - **If you are on a Mac computer**:
      - click on the **Documents** menu item on the left of the dialogue box.
      - Next click on the **New Folder** button on the bottom, and name your folder: **sentiment-analysis**, and click the blue **Create** button.
      - Lastly, click on the blue **Open** button on the bottom right of the dialogue box. Good job!
-<img src="https://uviclibraries.github.io/gen-ai-research/images/9-vsc-create-folder.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all manual sentiment analysis example"><br>
+<img src="images/3-vsc-create-folder.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all manual sentiment analysis example"><br>
    - **If you are on a Windows computer**:
      - In the left navigation bar, scroll down and click on the **Local Disk (C:)** button.
      - Next click on the **New Folder** button on the top left of the dialogue box, and name your folder: **sentiment-analysis**, and press **Enter** on your keyboard.
      - Press the **Select Folder** button on the bottom left of the dialogue box. Good job!
-<img src="https://uviclibraries.github.io/gen-ai-research/images/9-create-folder-pc.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Create a project folder on a Windows computer"><br>
+<img src="images/3-create-folder-pc.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Create a project folder on a Windows computer"><br>
 4. Next you're going to create a file to put your Python script in, and give it a descriptive name:
    - Go to the **File** menu and then select **New Text File**.
    - Click on the **Select a language** link in the new file, then scroll down the list of languages, and select **Python**.
@@ -136,7 +136,7 @@ with model.chat_session():
   - Next in the terminal type ```python3 analysis.py``` and then press enter. The first time you run the script is has to download 4.3GB model (it will save it for the future). After the model is downloaded, in an additional 15-60 seconds the script should output what it determines is the sentiment for each of the 4 pieces of feedback, along with two or three sentences explaining why it categorized the feedback the way it did.
   - Congratulations on getting this far!
 9. For a **Windows computer** you can run the script you just created by doing the following:
-  - <img src="https://uviclibraries.github.io/gen-ai-research/images/9-win-start-icon.png" style="float:right;width:90px;padding:10px;" alt="Windows Start icon">Open the Start menu by **clicking on the Windows logo** at the bottom of your screen -OR- Press the Windows button on your keyboard.
+  - <img src="images/3-win-start-icon.png" style="float:right;width:90px;padding:10px;" alt="Windows Start icon">Open the Start menu by **clicking on the Windows logo** at the bottom of your screen -OR- Press the Windows button on your keyboard.
   - Type **Cmd** in the search box, and then press **Enter** button on your keyboard.
   - Type ```cd C:\sentiment-analysis\``` and then press **Enter** button on your keyboard.
   - Next in the terminal type ```python3 analysis.py``` and then press enter. The first time you run the script is has to download 4.3GB model (it will save it for the future). After the model is downloaded, in an additional 15-60 seconds the script should output what it determines is the sentiment for each of the 4 pieces of feedback, along with two or three sentences explaining why it categorized the feedback the way it did.
@@ -184,7 +184,7 @@ with model.chat_session():
   - Next in the terminal type ```python3 analysis.py``` and then press enter. The first time you run the script is has to download 4.3GB model (it will save it for the future). After the model is downloaded, in an additional 15-60 seconds the script should output what it determines is the sentiment for each of the 4 pieces of feedback, along with two or three sentences explaining why it categorized the feedback the way it did.
   - Congratulations on getting this far!
 9. For a **Windows computer** you can run the script you just created by doing the following:
-  - <img src="https://uviclibraries.github.io/gen-ai-research/images/9-win-start-icon.png" style="float:right;width:90px;padding:10px;" alt="Windows Start icon">Open the Start menu by **clicking on the Windows logo** at the bottom of your screen -OR- Press the Windows button on your keyboard.
+  - <img src="images/3-win-start-icon.png" style="float:right;width:90px;padding:10px;" alt="Windows Start icon">Open the Start menu by **clicking on the Windows logo** at the bottom of your screen -OR- Press the Windows button on your keyboard.
   - Type **Cmd** in the search box, and then press **Enter** button on your keyboard.
   - Type ```cd C:\Users\YOUR-USER-NAME-HERE\Documents\sentiment-analysis``` and then press **Enter** button on your keyboard (replacing "YOUR-USER-NAME-HERE" with your user name on the computer of course).
   - Next in the terminal type ```python3 analysis-csv.py``` and then press enter. The first time you run the script is has to download 4.3GB model (it will save it for the future). After the model is downloaded, in an additional 15-60 seconds the script should output what it determines is the sentiment for each of the 4 pieces of feedback, along with two or three sentences explaining why it categorized the feedback the way it did.
