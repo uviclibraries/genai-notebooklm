@@ -7,7 +7,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
 
 # GPT4All on Your Laptop & Test It
-<img src="images/7-gpt4all-animation.gif" style="float:right;width:520px;" alt="GPT4All in action!">
+<img src="images/1-gpt4all-animation.gif" style="float:right;width:520px;" alt="GPT4All in action!">
 If you have any questions or get stuck as you work through this GPT4All exercise, please ask the instructor for assistance.  Have fun!
 
 ## Installing GPT4All on Your Laptop
@@ -39,7 +39,7 @@ Let's get started installing and using GPT4All for basic tasks!
 
 ## Install a Language Model into GPT4All
 Now we have _GPT4All_ installed on your laptop, we need to install a large language model before you can start asking it questions. There are a dozen or more models to choose from, but for now, we'll install one of the best overall models (as of Summer 2024) which is the _Llama 3 Instruct_ model. 
-<img src="images/7-find-models.png" style="float:right;width:280px;" alt="Find Models button">
+<img src="images/1-find-models.png" style="float:right;width:280px;" alt="Find Models button">
 1. Click on the green **Find models** button to the right of the windows.
 2. Take a look at all the models available to download, and then click on the green **Install** button beside the _Llama 3.2 8B Instruct_ model description.
 > _Note: The download is quite large at 4.3GB so it may take a while for it to download. For this model, GPT4All recommends that your computer have at least 8GB of memory for your computer to run the model at a reasonable speed._ If you have any questions about this please ask your instructor.
@@ -49,10 +49,10 @@ Now we have _GPT4All_ installed on your laptop, we need to install a large langu
 1. Before we can start testing, we need to tell GPT4All that we want to use the _Llama 3 Instruct_ model:
   - Click on the **Choose a model...** drop down box at the middle top of the window.
   - Select **Llama 3.2 8B Instruct** model. Depending on the speed of your laptop it should take between take 10 to 60 seconds for the model to finish loading.
-<img src="images/7-select-model.png" style="width:800px;" alt="Select the large language model you want to use."><br>
+<img src="images/1-select-model.png" style="width:800px;" alt="Select the large language model you want to use."><br>
 3. Let's test _GPT4All & Llama 3 Instruct_ with a generic prompt to start with. Copy and paste the following text into the Send a Message field and review the results:<br>
 ```Why would someone want to attend the University of Victoria in Canada? Why might the university not be a good fit for someone? Provide citations.```<br>
-<img src="images/7-first-prompt2.png" style="width:800px;" alt="First prompt">
+<img src="images/1-first-prompt2.png" style="width:800px;" alt="First prompt">
   - How reasonable do the results look to you?
   - Do you notice any significant omissions from the "not be a good fit" section? Housing availability? Cost of living?
 3. Now let's test GPT4All with something you know a lot about:
@@ -65,7 +65,7 @@ Now we have _GPT4All_ installed on your laptop, we need to install a large langu
 Let's try installing a second Language Model so that we can compare the results of the questions you've asked the _Llama 3 Instruct_ model with another model: 
 1. On the left navigation bar click on the green **Models** button.
 2. Click on the gree **Add Model** button on the top right of the screen.
-<img src="images/7-other-models.png" style="width:8000px;" alt="Download new Models">
+<img src="images/1-other-models.png" style="width:8000px;" alt="Download new Models">
 4. Scroll to find the **Nous Hermes 2 Mistral DPO** model, and then click on the green **Download** button to the right of the model description.
 > _Note: The download is quite large at 4.3GB so it may take a while for it to download. For this model, GPT4All recommends that your computer have at least 8GB of memory for your computer to run the model at a reasonable speed._ If you have any questions about this please ask your instructor.
 4. Once the model has finished downloading, click on the green **X** in the top right to close the "Discover and Download Models" window.
