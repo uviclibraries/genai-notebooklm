@@ -3,7 +3,7 @@ layout: default
 title: About the Workshop 
 nav_order: 1
 ---
-<img src="images/gen-ai-workshop-logo.png" style="float:right;width:180px;" alt="decorative">
+<img src="images/gen-ai-inter.png" style="float:right;width:180px;" alt="decorative">
 
 # Generative AI for Research - Intermediate
 
