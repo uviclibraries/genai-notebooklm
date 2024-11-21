@@ -30,4 +30,4 @@ It is important to double-check the claims LLMs make about the spreadsheets you 
 
 Thanks to Nomic for inspiring this [spreadsheet analysis activity](https://docs.gpt4all.io/gpt4all_desktop/cookbook/use-local-ai-models-to-privately-chat-with-microsoft-excel.html#limitations){:target="_blank"}. 
 
-[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
+[NEXT STEP: Earn a Workshop Badge](5-notebooklm-rag.html){: .btn .btn-blue }
