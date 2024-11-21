@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4 - Excel Chat
+title: 4 - Local Excel Chat
 nav_order: 14
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
