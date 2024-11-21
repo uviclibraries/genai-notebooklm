@@ -20,12 +20,15 @@ If you have any questions or get stuck as you work through this GPT4All exercise
 
 > NOTE: If you don't have a Google or Gmail account you'll need to click on the small **Create account** link to create an account before you can log in to NotebookLM. If you have any problems logging in, please ask your instructor for help.
 
-## Create a Notebook & Add Documents & Media to It
-1. Before we can start testing, we need to tell GPT4All that we want to use the _Llama 3 Instruct_ model:
-  - Click on the **Home** button on the top left of the screen.
-  - Click on the green **Find Models** button on the **Home** screen.
-<img src="images/3-home-models.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all select a GenAI model"><br>
-  - Select **Llama 3 Instruct** model, or the _latest Llama model_ if the _Llama 3 Instruct model_ is not available. Depending on the speed of your laptop and your internet connection, it should take between 10 seconds to 10 minutes for the model to finish loading.
+## Create a Notebook & Add Documents to It
+Before we can start testing, we need to create a new notebook and add some documents and media to it so that it has some source documents to train on and draw from.
+
+1. Download each of the following three documents to use as training data for your notebook in this activity, and please make note of where your web browser is saving them (usually in your Downloads or Desktop folders):
+   - Document 1
+   - Document 2
+   - Document 3
+3. Create a new notebook by clicking on the blue **Create new** button on the left side of the screen.
+4. Upload the three documents you downloaded in Step 1 to your new notebook.
 
 ## Exploring the Notebook Guide 
 1. Click on the **Notebook Guide** button on the bottom right of the window. You should now see the notebook guide window.
@@ -36,5 +39,7 @@ If you have any questions or get stuck as you work through this GPT4All exercise
 5. Timeline
 6. Table of Contents:
 
+## Chatting with Your Notebook
+Now let's try some interactive chats with your document to explore what else NotebookLM can do...
   
 [NEXT STEP: Earn a Workshop Badge](excel-chat.html){: .btn .btn-blue }
