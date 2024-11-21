@@ -26,7 +26,7 @@ Before we can start testing, we need to create a new notebook and add some docum
 1. Download each of the following three documents to use as training data for your notebook in this activity, and please make note of where your web browser is saving them (usually in your Downloads or Desktop folders):
    - [Document 1](https://isam2022.hemi-makers.org/wp-content/uploads/sites/3/2022/09/031..pdf){:target="_blank"}
    - [Document 2](images/Digital_Badges_in_Education-libre.pdf){:target="_blank"}
-   - [Document 3](){:target="_blank"}
+   - [Document 3](images/6985-18529-1-PB.pdf){:target="_blank"}
 3. Create a new notebook by clicking on the blue **Create new** button on the left side of the screen.
 4. Upload the three documents you downloaded in Step 1 to your new notebook.
 
