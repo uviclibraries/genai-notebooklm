@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 5 - NotebookLM Custom GenAI
+title: 5 - NotebookLM Personal GenAI
 nav_order: 13
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
-# Use NotebookLM to Create Your Own Custom Cloud Based GenAI Tool 
+# NotebookLM Your Personalized Cloud Based Research Assistant 
 <img src="images/3-sentiment-analysis-visual.jpg" style="float:right;width:350px;padding:10px;" alt="Sentiment Analysis Visualization">
 Years ago as a research assistant, I worked on a project to analyze social media posts related to a specific hashtag to identify the sentiment of the tweets. While the project was very interesting, the process of manually assigning a sentiment to over 2,000 tweets was not fun at all. The good news is that Generative AI can be a helpful & efficient tool for researchers wanting to conduct similar analyses today.
 
