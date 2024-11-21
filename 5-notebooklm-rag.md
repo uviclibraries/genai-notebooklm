@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5 - NotebookLM Personal GenAI
+title: 5 - NotebookLM Personal Cloud GenAI
 nav_order: 15
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
@@ -28,12 +28,13 @@ If you have any questions or get stuck as you work through this GPT4All exercise
   - Select **Llama 3 Instruct** model, or the _latest Llama model_ if the _Llama 3 Instruct model_ is not available. Depending on the speed of your laptop and your internet connection, it should take between 10 seconds to 10 minutes for the model to finish loading.
 
 ## Exploring the Notebook Guide 
-Python is a programming language that is often used by researchers to assist them in analyzing their research data.
-1. Podcast Summary: 
-2. Briefing Document
-3. Study Guide
-4. Timeline
-5. Table of Contents
+1. Click on the **Notebook Guide** button on the bottom right of the window. You should now see the notebook guide window.
+<img src="images/5-notebook-guide.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Notebook guide window"><br>
+2. Podcast Summary:
+3. Briefing Document:
+4. Study Guide:
+5. Timeline
+6. Table of Contents:
 
   
 [NEXT STEP: Earn a Workshop Badge](excel-chat.html){: .btn .btn-blue }
