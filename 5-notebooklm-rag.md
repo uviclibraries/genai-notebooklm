@@ -7,26 +7,16 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
 # NotebookLM Your Personalized Cloud Based Research Assistant 
 <img src="images/5-notebooklm-logo.png" style="float:right;width:350px;padding:10px;" alt="NoteboolLM Logo">
-Years ago as a research assistant, I worked on a project to analyze social media posts related to a specific hashtag to identify the sentiment of the tweets. While the project was very interesting, the process of manually assigning a sentiment to over 2,000 tweets was not fun at all. The good news is that Generative AI can be a helpful & efficient tool for researchers wanting to conduct similar analyses today.
+"Upload PDFs, websites, YouTube videos, audio files, Google Docs, or Google Slides, and NotebookLM will summarize them and make interesting connections between topics, all powered by Gemini 1.5’s multimodal understanding capabilities. With all of your sources in place, NotebookLM gets to work and becomes a personalized AI expert in the information that matters most to you. NotebookLM provides clear citations for its work, showing you the exact quotes from your sources. NotebookLM does not use your personal data, including your source uploads, queries, and the responses from the model for training."
 
-In this workshop, we will explore how to use GPT4All & Python for sentiment analysis while being mindful of their limitations. If you have any questions or get stuck as you work through this GPT4All exercise, please ask the instructor for assistance.
+If you have any questions or get stuck as you work through this GPT4All exercise, please ask the instructor for assistance.
 
-## Capabilities & Considerations
-Generative AI tools like GPT4All allow researchers to more quickly, efficiently, and reliably identify the sentiment of a sentence or short paragraph, to uncover trends and patterns. 
+## Logon to NotebookLM
+- If you haven't already, please navigate to the [NoteBookLM website](https://notebooklm.google/){:target="_blank"}.
+- Click on the black **Try NoteboolLM** button and then log on with a Google or Gmail account.  
+<img src="images/5-notebooklm-try.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Try NotebookLM button"><br>
 
-### Pros of using generative AI for sentiment analysis:
-- Efficiency: Automatically process vast amounts of textual data in a fraction of the time it would take manual analysis.
-- Insight generation: Beyond sentiment classification, generative AI can extract themes, topics, and even generate summaries of responses.
-- Research Ethics: If the GenAI tool runs locally on a researcher's laptop, and does not contact the cloud, no cloud-computing disclosures are likely needed in your research ethics proposal.
-
-### Cons of using generative AI for sentiment analysis:
-- Model limitations: While powerful, generative AI models may struggle with complex language, or sarcasm.
-- Potential biases: Generative AI models inherit biases present in the training data, affecting the accuracy and fairness of results.
-
-## Install GPT4All (if you haven't already)
-- If you haven't already, please install [GPT4All on your laptop](1-local-genai-intro.html){:target="_blank"} and then come back to this web page.
-
-> NOTE: If you are on a UVic-managed computer you will need to ask your local IT staff member to install this software and Python on your laptop for you. If you're not sure who to ask to install the software, please email the UVic Computer Helpdesk for assistance: [helpdesk@uvic.ca](mailto:helpdesk@uvic.ca).
+> NOTE: If you don't have a Google or Gmail account you'll need to click on the small **Create account** link to create an account before you can log in to NotebookLM. If you have any problems logging in, please ask your instructor for help.
 
 ## Manual GPT4All Sentiment Analysis Test
 1. Before we can start testing, we need to tell GPT4All that we want to use the _Llama 3 Instruct_ model:
