@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 2 - GenAI for Local Documents
-nav_order: 11
+title: 7 - GenAI for Local Documents
+nav_order: 13
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
