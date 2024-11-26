@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 3 - Sentiment Analysis
-nav_order: 12
+title: 9 - Sentiment Analysis
+nav_order: 13
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
