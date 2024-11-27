@@ -63,8 +63,15 @@ Before we can start testing, we need to create a new notebook and add some docum
   > - **Reflection**: What do you think of the quality of the Study Guide questions and answers?
   > - **Reflection**: Can you think of any ways that you would find this kind of Study Guide useful?
   > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created study guide?
-7. **Timeline**: 
-8. **Table of Contents**: 
+7. **Timeline**:
+  - The Timeline summary lists major events recorded in all of the documents in chronological order. This can be quite helpful especially when you are working with more than one or two documents, as NotebookLM nicely organizes them by date with a short summary for each.
+  - To create a timeline simpley click on the **Notebook guide** link on the bottom right of the page, and then click on the **Timeline** button. It will take 30-60 seconds to generate the timeline.<br>
+    <img src="images/nblm-timeline-button.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="Timeline Button"><br>
+  > - **Reflection**: What do you think of the quality of the Timeline dates and summaries? Did it miss anything?
+  > - **Reflection**: Can you think of any ways that you would find a Timeline useful?
+  > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Timeline?
+8. **Table of Contents**:
+  - 
 
 ## Chatting with Your Notebook
 In the following activities, we'll experiment with some interactive chat techniques with the documents to explore what else NotebookLM can do for you!
