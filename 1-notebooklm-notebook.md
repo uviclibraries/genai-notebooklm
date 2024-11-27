@@ -30,7 +30,8 @@ Before we can start testing, we need to create a new notebook and add some docum
 3. Create a new notebook by clicking on the blue **Create new** button on the left side of the screen.
 <img src="images/nblm-create-new.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
 4. Upload the three documents you downloaded in Step 1 to your new notebook...
-5. Your Notebook should look like this now:
+# Put new image here...
+6. Your Notebook should look like this now:
 <img src="images/5-notebook-guide.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Notebook guide window"><br>
 7. 
 ## Exploring the Notebook Guide 
