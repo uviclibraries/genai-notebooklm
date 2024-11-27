@@ -5,7 +5,7 @@ nav_order: 6
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
-# NotebookLM Your Personalized Cloud-Based Assistant 
+# Getting Started with NotebookLM's _Notebook Guide_ 
 <img src="images/5-notebooklm-logo.png" style="float:right;width:350px;padding:10px;" alt="NoteboolLM Logo">
 "Upload PDFs, websites, YouTube videos, audio files, Google Docs, or Google Slides, and NotebookLM will summarize them and make interesting connections between topics. With all of your sources in place, NotebookLM gets to work and becomes a personalized AI expert in the information that matters most to you. NotebookLM provides clear citations for its work, showing you the exact quotes from your sources. NotebookLM does not use your personal data, including your source uploads, queries, and the responses from the model for training." ([NotebookLM](https://notebooklm.google/){:target="_blank"}, 2024)
 
