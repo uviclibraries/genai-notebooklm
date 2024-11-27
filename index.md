@@ -3,7 +3,7 @@ layout: default
 title: About the Workshop 
 nav_order: 1
 ---
-<img src="images/5-notebooklm-try.png" style="float:right;width:320px;" alt="decorative">
+<img src="images/5-notebooklm-try.png" style="float:right;width:350px;padding:10px;" alt="Decorative">
 
 # GenAI: Personal Tools for Research & Productivity (102)
 
