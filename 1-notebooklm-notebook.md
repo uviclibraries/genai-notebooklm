@@ -27,13 +27,12 @@ Before we can start testing, we need to create a new notebook and add some docum
    - [Document 1](https://isam2022.hemi-makers.org/wp-content/uploads/sites/3/2022/09/031..pdf){:target="_blank"}
    - [Document 2](images/Digital_Badges_in_Education-libre.pdf){:target="_blank"}
    - [Document 3](images/6985-18529-1-PB.pdf){:target="_blank"}
-3. Create a new notebook by clicking on the blue **Create new** button on the left side of the screen.
+2. Create a new notebook by clicking on the blue **Create new** button on the left side of the screen.
 <img src="images/nblm-create-new.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
-4. Upload the three documents you downloaded by clicking on the blue **choose file** link in the middle of the page.
+3. Upload the three documents you downloaded by clicking on the blue **choose file** link in the middle of the page.
 <img src="images/nblm-add-docs.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="Add documents"><br>
-6. Your Notebook should look like this now:
-<img src="images/5-notebook-guide.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Notebook guide window"><br>
-7. 
+4. Good job! You're now ready to explore the Notebook guide.
+   
 ## Exploring the Notebook Guide 
 1. Click on the **Notebook Guide** button on the bottom right of the window. You should now see the notebook guide window.
 <img src="images/nblm-create-new.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
