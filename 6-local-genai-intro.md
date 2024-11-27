@@ -84,4 +84,4 @@ Let's try installing a second Language Model so that we can compare the results 
 > - Maybe a question about your home town?
 > - Or a question about a recent research project that you've completed?
 
-[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
+[NEXT STEP: GenAI for Local Documents](7-local-docs.html){: .btn .btn-blue }
