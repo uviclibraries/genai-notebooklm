@@ -38,18 +38,19 @@ Before we can start testing, we need to create a new notebook and add some docum
 <img src="images/nblm-summary-auto.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="NotebookLM Auto Summary"><br>
    - Read the Summary that NotebookLM has created. An expert in informal credentialling (or badging) has reviewed the summary, and it is an accurate summary of the information contained in the three journal articles.
    - > **NOTE: You should always double-check the accuracy of the facts and claims made by NotebookLM (and all other GenAI tools), as they sometimes make mistakes or hallucinate.**
-3. Podcast Summary:
+3. **Podcast Summary**:
   - To create a podcast summary, all you need to do is click on the blue **Generate** button. It typically takes between two and five minutes to generate the podcast, and the podcasts seem to be about 10 to 18 minutes long depending on how much information it needs to summarize.
 <img src="images/nblm-generate-podcast.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="NotebookLM Generate Podcast button"><br>
   - Once the podcast has been generated, you can listen to the podcast by clicking on teh light blue play button.
   - To download the podcast to your computer to share with other people click on the **three vertical dots** to the right of the play button and then click on the **Download** button.
+  - If you don't want to wait for NotebookLM to create the podcast you can listen to the version it created for the DSC: [Podcast Summary Audio](images/nblm-podcast-summary.mp3){:target="_blank"}
   > - **Reflection**: What do you think of the quality of the Podcast it created?
   > - **Reflection**: Can you think of any ways that this type of Podcast summary could be useful?
   > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
-5. Briefing Document:
-6. Study Guide:
-7. Timeline
-8. Table of Contents:
+5. **Briefing Document**:
+6. **Study Guide**:
+7. **Timeline**: 
+8. **Table of Contents**:
 
 ## Chatting with Your Notebook
 Now let's try some interactive chats with your document to explore what else NotebookLM can do...
