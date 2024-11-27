@@ -51,7 +51,8 @@ Before we can start testing, we need to create a new notebook and add some docum
 5. **Briefing Document**:
   - Briefing documents and a quick way to understand the contents of the documents in your notebook. **NOTE**: NotebookLM does not provide any citations in this type of document like it does when it responds to your prompts.
   - To create a briefing document simpley click on the **Notebook guide** link on the bottom right of the page, and then click on the **Briefing Document** button. It will take 30-60 seconds to generate the briefing guide.
-  - **IMAGE HERE?**
+    <img src="images/nblm-briefing-doc-button.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="Briefing Document Button"><br>
+  - More text here...
 6. **Study Guide**: 
 7. **Timeline**: 
 8. **Table of Contents**: 
