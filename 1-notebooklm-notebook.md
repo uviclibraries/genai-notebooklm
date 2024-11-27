@@ -9,7 +9,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 <img src="images/5-notebooklm-logo.png" style="float:right;width:350px;padding:10px;" alt="NoteboolLM Logo">
 "Upload PDFs, websites, YouTube videos, audio files, Google Docs, or Google Slides, and NotebookLM will summarize them and make interesting connections between topics. With all of your sources in place, NotebookLM gets to work and becomes a personalized AI expert in the information that matters most to you. NotebookLM provides clear citations for its work, showing you the exact quotes from your sources. NotebookLM does not use your personal data, including your source uploads, queries, and the responses from the model for training." ([NotebookLM](https://notebooklm.google/){:target="_blank"}, 2024)
 
-Like all other Generative AI tools, NotebookLM will sometimes make mistakes, although because you are providing it with training data, it will make fewer mistakes than general purpose Generative AI tools. Always double-check any factual claims it makes if you are not a subject area expert. 
+> NOTE: Like all other Generative AI tools, NotebookLM will sometimes make mistakes, although because you are providing it with training data, it will make fewer mistakes than general purpose Generative AI tools. Always double-check any factual claims it makes if you are not a subject area expert. 
 
 If you have any questions or get stuck as you work through this GPT4All exercise, please ask the instructor for assistance.
 
@@ -27,11 +27,12 @@ Before we can start testing, we need to create a new notebook and add some docum
    - [Document 2](images/Digital_Badges_in_Education-libre.pdf){:target="_blank"}
    - [Document 3](images/6985-18529-1-PB.pdf){:target="_blank"}
 3. Create a new notebook by clicking on the blue **Create new** button on the left side of the screen.
+<img src="images/5-notebook-guide.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Notebook guide window"><br>
 4. Upload the three documents you downloaded in Step 1 to your new notebook.
 
 ## Exploring the Notebook Guide 
 1. Click on the **Notebook Guide** button on the bottom right of the window. You should now see the notebook guide window.
-<img src="images/5-notebook-guide.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Notebook guide window"><br>
+<img src="images/nblm-create-new.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
 2. Podcast Summary:
 3. Briefing Document:
 4. Study Guide:
