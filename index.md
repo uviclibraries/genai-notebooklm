@@ -5,7 +5,7 @@ nav_order: 1
 ---
 <img src="images/gen-ai-inter.png" style="float:right;width:180px;" alt="decorative">
 
-# GenAI Personal Tools for Research & Productivity
+# GenAI: Personal Tools for Research & Productivity
 
 - Pre-workshop activities: 10 min 
 - Introductory presentation: 15 min
