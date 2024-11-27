@@ -40,7 +40,7 @@ Before we can start testing, we need to create a new notebook and add some docum
 > **NOTE: You should always double-check the accuracy of the facts and claims made by NotebookLM (and all other GenAI tools), as they sometimes make mistakes or hallucinate.
 > Note: There are several minor hallucinations in the Notebook Guide. The notebook guides DO NOT provide citations that allow you to easily fact-check its responses making it more difficult to verify facts and claims.**
 3. **Podcast Summary**:
-  - To create a podcast summary, all you need to do is click on the blue **Generate** button. It typically takes between two and five minutes to generate the podcast, and the podcasts seem to be about 10 to 18 minutes long depending on how much information it needs to summarize.
+  - To create a podcast summary, all you need to do is click on the blue **Generate** button. It typically takes between two and five minutes to generate the podcast, and the podcasts seem to be about 10 to 18 minutes long depending on how much information it needs to summarize.<br>
 <img src="images/nblm-generate-podcast.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="NotebookLM Generate Podcast button"><br>
   - Once the podcast has been generated, you can listen to the podcast by clicking on teh light blue play button.
   - To download the podcast to your computer to share with other people click on the **three vertical dots** to the right of the play button and then click on the **Download** button.
@@ -50,7 +50,7 @@ Before we can start testing, we need to create a new notebook and add some docum
   > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
 5. **Briefing Document**:
   - Briefing documents and a quick way to understand the contents of the documents in your notebook. **NOTE**: NotebookLM does not provide any citations in this type of document like it does when it responds to your prompts.
-  - To create a briefing document simpley click on the **Notebook guide** link on the bottom right of the page, and then click on the **Briefing Document** button. It will take 30-60 seconds to generate the briefing guide.
+  - To create a briefing document simpley click on the **Notebook guide** link on the bottom right of the page, and then click on the **Briefing Document** button. It will take 30-60 seconds to generate the briefing guide.<br>
     <img src="images/nblm-briefing-doc-button.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="Briefing Document Button"><br>
   - More text here...
 6. **Study Guide**: 
