@@ -53,4 +53,4 @@ Let's get started installing the LocalDocs plugin for GPT4All!
 > - Any factual errors?
 > - Any omissions?
   
-[NEXT STEP: Sentiment Analysis](3-sentiment-analysis.html){: .btn .btn-blue }
+[NEXT STEP: Local Excel Chat](8-local-excel-chat.html){: .btn .btn-blue }
