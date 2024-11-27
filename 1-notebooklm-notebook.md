@@ -28,9 +28,11 @@ Before we can start testing, we need to create a new notebook and add some docum
    - [Document 2](images/Digital_Badges_in_Education-libre.pdf){:target="_blank"}
    - [Document 3](images/6985-18529-1-PB.pdf){:target="_blank"}
 3. Create a new notebook by clicking on the blue **Create new** button on the left side of the screen.
+<img src="images/nblm-create-new.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
+4. Upload the three documents you downloaded in Step 1 to your new notebook...
+5. Your Notebook should look like this now:
 <img src="images/5-notebook-guide.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Notebook guide window"><br>
-4. Upload the three documents you downloaded in Step 1 to your new notebook.
-
+7. 
 ## Exploring the Notebook Guide 
 1. Click on the **Notebook Guide** button on the bottom right of the window. You should now see the notebook guide window.
 <img src="images/nblm-create-new.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
