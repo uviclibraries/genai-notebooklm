@@ -1,4 +1,4 @@
-# GenAI Personal Tools for Research & Productivity
+# GenAI: Personal Tools for Research & Productivity
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/genai-int/
