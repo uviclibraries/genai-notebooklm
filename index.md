@@ -18,6 +18,18 @@ Workshop participants will explore the use of Generative AI (GenAI) including in
 
 At the end of this workshop, you will be able to:
 
+1. Describe to a friend the fundamental capabilities of NotebookLM, including Text generation, Summarization, Translation, Question-answering
+2. Notebook guide: Use the built-in prompts in the  “Notebook guide” to quickly create: Briefing documents & an Audio summary of the documents in a 2-person podcast format
+3. Summarization: Prompt NotebookLM to create a focused summary based on who the summary is for, and the purpose of the summary (for example meeting notes)
+4. Literature review: Use NotebookLM to efficiently summarize and analyze research literature such as journal articles, reports, presentations and videos (with citations)
+5. Brainstorming & ideation: Use NotebookLM for creative tasks, such as topic brainstorming and ideation for research topics
+6. Data analysis: Prompt NotebookLM to assist with data analysis tasks, such as data cleaning, summarization, and visualization.
+7. Translation: Prompt to create a focused summary in another language (if possible in a language that you can fact check in real time for accuracy)
+8. Best practices: Describe the best practices for using NotebookLM, including fact-checking claims, being mindful of potential biases, & maintaining critical thinking in all phases of study and research
+9. Limiting factors: 50 document limit & cloud-based privacy considerations
+
+Optional (to be moved to the _GenAI: Research Tools Advanced_ workshop):
+
 1. Install GenAI software on your laptop including 1 or more large language models (not cloud-based), and use it to answer a question.
 2. Use the local GenAI software and select a folder of documents on your computer to use as training data; then ask questions of the documents.
 3. Transcribe interviews using cloud-based AI transcription services and an AI-powered program that runs locally on your computer.
