@@ -36,13 +36,13 @@ Optional (to be moved to the _GenAI: Research Tools Advanced_ workshop):
 4. Use GenAI tools to conduct Sentiment Analysis on free-form survey questions or social media posts.
 5. Upload an Excel spreadsheet, and then request a summary and insights from the data.
 
-## GenAI Research Workshop Pathway:
-
-1. GenAI Introduction (101)
-2. **GenAI: Personal Tools for Research & Productivity (102)**
-3. Spotting AI-generated content online (103)
-4. GenAI: Creative Media Tools (201) - COMING SOON
-5. AI Tools for Literature Reviews (401) - COMING SOON
-6. GenAI: Research Tools Advanced (501)
+> ## GenAI Research Workshop Pathway:
+> 
+> 1. GenAI Introduction (101)
+> 2. **GenAI: Personal Tools for Research & Productivity (102)**
+> 3. Spotting AI-generated content online (103)
+> 4. GenAI: Creative Media Tools (201) - COMING SOON
+> 5. AI Tools for Literature Reviews (401) - COMING SOON
+> 6. GenAI: Research Tools Advanced (501)
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
