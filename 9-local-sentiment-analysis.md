@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 9 - Sentiment Analysis
+title: 9 - Local Sentiment Analysis
 nav_order: 15
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
@@ -190,4 +190,4 @@ with model.chat_session():
   - Next in the terminal type ```python3 analysis-csv.py``` and then press enter. The first time you run the script is has to download 4.3GB model (it will save it for the future). After the model is downloaded, in an additional 15-60 seconds the script should output what it determines is the sentiment for each of the 4 pieces of feedback, along with two or three sentences explaining why it categorized the feedback the way it did.
   - Congratulations on getting this far!
   
-[NEXT STEP: Earn a Workshop Badge](excel-chat.html){: .btn .btn-blue }
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
