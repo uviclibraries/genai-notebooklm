@@ -5,7 +5,7 @@ nav_order: 1
 ---
 <img src="images/gen-ai-inter.png" style="float:right;width:180px;" alt="decorative">
 
-# GenAI: Personal Tools for Research & Productivity
+# GenAI: Personal Tools for Research & Productivity (102)
 
 - Pre-workshop activities: 10 min 
 - Introductory presentation: 15 min
@@ -23,5 +23,14 @@ At the end of this workshop, you will be able to:
 3. Transcribe interviews using cloud-based AI transcription services and an AI-powered program that runs locally on your computer.
 4. Use GenAI tools to conduct Sentiment Analysis on free-form survey questions or social media posts.
 5. Upload an Excel spreadsheet, and then request a summary and insights from the data.
+
+## GenAI Research Workshop Pathway:
+
+1. GenAI Introduction (101)
+2. **GenAI: Personal Tools for Research & Productivity (102)**
+3. Spotting AI-generated content online (103)
+4. GenAI: Creative Media Tools (201) - COMING SOON
+5. AI Tools for Literature Reviews (401) - COMING SOON
+6. GenAI: Research Tools Advanced (501)
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
