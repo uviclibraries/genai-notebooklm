@@ -57,6 +57,6 @@ Before we can start testing, we need to create a new notebook and add some docum
 8. **Table of Contents**: 
 
 ## Chatting with Your Notebook
-Now let's try some interactive chats with your document to explore what else NotebookLM can do...
+In the following activities, we'll experiment with some interactive chat techniques with the documents to explore what else NotebookLM can do for you!
   
 [NEXT STEP: Earn a Workshop Badge](excel-chat.html){: .btn .btn-blue }
