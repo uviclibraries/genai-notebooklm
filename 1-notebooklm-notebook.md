@@ -24,9 +24,9 @@ If you have any questions or get stuck as you work through this GPT4All exercise
 Before we can start testing, we need to create a new notebook and add some documents and media to it so that it has some source documents to train on and draw from.
 
 1. Download each of the following three documents to use as training data for your notebook in this activity, and please make note of where your web browser is saving them (usually in your Downloads or Desktop folders):
-   - [Document 1](https://isam2022.hemi-makers.org/wp-content/uploads/sites/3/2022/09/031..pdf){:target="_blank"}
-   - [Document 2](images/Digital_Badges_in_Education-libre.pdf){:target="_blank"}
-   - [Document 3](images/6985-18529-1-PB.pdf){:target="_blank"}
+   - [Document 1](images/badge-article.pdf){:target="_blank"}
+   - [Document 2](images/badge-article-2.pdf){:target="_blank"}
+   - [Document 3](images/badge-article-3.pdf){:target="_blank"}
 2. Create a new notebook by clicking on the blue **Create new** button on the left side of the screen.
 <img src="images/nblm-create-new.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
 3. Upload the three documents you downloaded by clicking on the blue **choose file** link in the middle of the page.
@@ -35,12 +35,15 @@ Before we can start testing, we need to create a new notebook and add some docum
    
 ## Exploring the Notebook Guide 
 1. Click on the **Notebook Guide** button on the bottom right of the window. You should now see the notebook guide window.
-<img src="images/nblm-create-new.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
-2. Podcast Summary:
-3. Briefing Document:
-4. Study Guide:
-5. Timeline
-6. Table of Contents:
+<img src="images/nblm-summary-auto.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM Auto Summary"><br>
+   - Read the Summary that NotebookLM has created. An expert in informal credentialling (or badging) has reviewed the summary, and it is an accurate summary of the information contained in the three journal articles.
+   - > **NOTE: You should always double-check the accuracy of the facts and claims made by NotebookLM (and all other GenAI tools), as they sometimes make mistakes or hallucinate.**
+3. Podcast Summary:
+  - To create a podcast summary, all you need to do is click on the blue **Generate** button.
+5. Briefing Document:
+6. Study Guide:
+7. Timeline
+8. Table of Contents:
 
 ## Chatting with Your Notebook
 Now let's try some interactive chats with your document to explore what else NotebookLM can do...
