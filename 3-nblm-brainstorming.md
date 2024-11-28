@@ -22,7 +22,7 @@ Let's add go back to the notebook with the three journal articles we already ahv
 [ADD IMAGE]
 5. Click on the **YouTube** button in the bottom middle of the page.
 [ADD IMAGE]
-7. Next **paste the following web address** into the text box: ```https://www.youtube.com/watch?v=uTwbgdK5C7c```
+7. Next **paste the following web address** into the text box: ```https://www.youtube.com/watch?v=2J1BtsMOp2g```
 
 ## Research: Brainstorming and Ideation  
 1. Create a list of possible research questions based on the 3 journal articles by typing the following into the chat box and pressing Enter: ```Please generate a list of novel research questions  related to the topics in these journal articles, but not research questions in the articles.```
