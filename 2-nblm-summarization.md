@@ -13,6 +13,12 @@ In this workshop, we'll explore how GenAI can help you quickly summarize meeting
 
 If you have any questions or get stuck as you work through this exercise, please ask the instructor for assistance.
 
+## Summarize a Single Journal Article
+Instead of summarizing all three journal articles we're going to direct NoteBookLM to summarize just one of the articles and then give it a specific focus for the summary to assist us in drafting promotional materials for a University Library Makerspace.
+1. De-select articles 2 and 3 in the Sources area on the left side of the web page.
+<img src="images/nblm-deselect-articles.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM deselect articles"><br>
+2. In the chat area type...
+
 ## Summarize Meeting Notes
 - If you haven't already, please navigate to the [NoteBookLM website](https://notebooklm.google/){:target="_blank"}.
 - Click on the black **Try NoteboolLM** button and then log on with a Google or Gmail account.
