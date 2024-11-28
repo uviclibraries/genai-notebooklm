@@ -1,10 +1,11 @@
 ---
 layout: default
-title: 5 - NotebookLM Presentations Assistance
+title: 5 - COMING SOON - NotebookLM Presentations Assistance
 nav_order: 8
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
+# COMING SOON in December 2024!
 # Presentations Assistance
 <img src="images/REPLACE-ME.gif" style="float:right;width:400px;padding:10px;" alt="GenAI summarizing text abstract Logo">
 In this workshop, you'll create a script and related photos for a Presentation with Google Slides or Microsoft PowerPoint... **ADD MORE HERE**
