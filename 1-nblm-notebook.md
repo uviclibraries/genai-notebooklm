@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1 - NotebookLM: Your Personal Cloud GenAI
+title: 1 - NotebookLM Your Personal Cloud GenAI
 nav_order: 6
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
