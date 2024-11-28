@@ -52,15 +52,15 @@ We're going to summarize a transcription of a meeting held via Zoom for a fictit
    - Maybe you want more details, so type this in the chat: ```Give me more details.```
 5. Lastly let's generate a list of action items to be completed by individuals as well as unassigned action items:
    - Type in the chat area: ```Create a detailed bullet point action item list of action items to be completed by individuals as well as unassigned action items.```
-   - How do the actions items look for completeness?
-   - Any miss assigned action items?
+   - How do the action items look for completeness?
+   - Any missed assigned action items?
 
 > NOTE: Always ask someone who attended the meeting (and was paying attention) to double-check the meeting notes and action items. 
    
 ## Translated Summaries & Action Items
-1. Let's translate the meeting summary into Porguese:
-   - In the chat area type: ```Create a detailed meeting summary into Portuguese.```
-     - Unless you speak Portuguese you'll have a hard time eveluating the results, but in my experience the translation was quite accurate in this case.
+1. Let's translate the meeting summary into Portuguese:
+   - In the chat area type: ```Create a detailed meeting summary in Portuguese.```
+     - Unless you speak Portuguese you'll have a hard time evaluating the results, but in my experience, the translation was quite accurate in this case.
    - In the chat area type: ```Create a detailed bullet point action item list of action items to be completed by individuals as well as unassigned action items in Portuguese.```
    - Now try to translate the meeting notes into a different language, if possible a language that you speak.
      - How did it do? Was the translation accurate?
