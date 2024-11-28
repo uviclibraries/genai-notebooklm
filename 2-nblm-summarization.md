@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
 # Summarizing Text, Audio, & Video 
-<img src="images/5-notebooklm-logo.png" style="float:right;width:350px;padding:10px;" alt="NoteboolLM Logo">
+<img src="images/nblm-summarize-text.gif" style="float:right;width:400px;padding:10px;" alt="GenAI summarizing text abstract Logo">
 Talk about how it can help with summarizing...
 
 > NOTE: Like all other Generative AI tools, NotebookLM will sometimes make mistakes, although because you are providing it with training data, it will make fewer mistakes than general purpose Generative AI tools. Always double-check any factual claims it makes if you are not a subject area expert. 
