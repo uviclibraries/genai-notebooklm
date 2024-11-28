@@ -13,12 +13,6 @@ In this workshop, we'll explore how GenAI can help you quickly summarize meeting
 
 If you have any questions or get stuck as you work through this exercise, please ask the instructor for assistance.
 
-Outline:
-- Summarize meeting notes including an action Items list
-- Use different prompt strategies to customize the summary by using, personas, examples, tone, vocabulary level, voice of, ???
-- Translation: Prompt to create a focused summary in another language (if possible in a language that you can fact check in real time for accuracy)
-- suggested questions...
-
 ## Summarize Meeting Notes
 - If you haven't already, please navigate to the [NoteBookLM website](https://notebooklm.google/){:target="_blank"}.
 - Click on the black **Try NoteboolLM** button and then log on with a Google or Gmail account.
