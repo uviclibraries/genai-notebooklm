@@ -56,4 +56,4 @@ Before we can start testing, we need to create a new notebook and add some docum
   > - **Reflection**: Can you think of any ways that this type of Podcast summary could be useful?
   > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
   
-[NEXT STEP: ???](???.html){: .btn .btn-blue }
+[NEXT STEP: Brainstorming Stragegies](nblm-brainstorming.html){: .btn .btn-blue }
