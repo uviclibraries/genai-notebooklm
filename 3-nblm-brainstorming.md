@@ -25,15 +25,10 @@ Let's add go back to the notebook with the three journal articles we already ahv
 7. Next **paste the following web address** into the text box: ```https://www.youtube.com/watch?v=uTwbgdK5C7c```
 
 ## Research: Brainstorming and Ideation  
-- Create a list of possible research questions based on the 3 journal articles by typing the following into the chat box and pressing Enter: ```Please generate a list of novel research questions  related to the topics in these journal articles, but not research questions in the articles.```
-  - How do the research questions look?
-  - Would you be tempted to use any as-is, or in a modified form? 
-
-## Leasure: Brainstorming and Ideation
-Before we can start testing, we need to create a new notebook and add some documents and media to it so that it has some source documents to train on and draw from.
-
-  > - **Reflection**: What do you think of the quality of the Podcast it created?
-  > - **Reflection**: Can you think of any ways that this type of Podcast summary could be useful?
-  > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
+1. Create a list of possible research questions based on the 3 journal articles by typing the following into the chat box and pressing Enter: ```Please generate a list of novel research questions  related to the topics in these journal articles, but not research questions in the articles.```
+  > - **Reflection**: How do the research questions look?
+  > - **Reflection**: Would you be tempted to use any as-is, or in a modified form?
+2. Find gaps in the literature:
+  - 
   
 [NEXT STEP: Summarize Short Answer Survey Feedback](nblm-summarize-survey-text.html){: .btn .btn-blue }
