@@ -13,17 +13,14 @@ In this workshop, we'll explore how GenAI can help you quickly summarize meeting
 
 If you have any questions or get stuck as you work through this exercise, please ask the instructor for assistance.
 
-Outline:
-- For research
-- For leasure
-- More?
-
-## Research: Brainstorming and Ideation  
+## Getting Started
 - If you haven't already, please navigate to the [NoteBookLM website](https://notebooklm.google/){:target="_blank"}.
 - Click on the black **Try NoteboolLM** button and then log on with a Google or Gmail account.
 > NOTE: If you don't have a Google or Gmail account you'll need to click on the small **Create account** link to create an account before you can log in to NotebookLM. If you have any problems logging in, please ask your instructor for help.
 
-<img src="images/5-notebooklm-try.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Try NotebookLM button"><br>
+## Research: Brainstorming and Ideation  
+- Create a list of possible research questions based on the 3 journal articles by typing the following into the chat box and pressing Enter: ```Please generate a list of novel research questions  related to the topics in these journal articles, but not research questions in the articles.```
+- ...
 
 ## Leasure: Brainstorming and Ideation
 Before we can start testing, we need to create a new notebook and add some documents and media to it so that it has some source documents to train on and draw from.
