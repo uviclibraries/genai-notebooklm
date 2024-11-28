@@ -71,7 +71,19 @@ Before we can start testing, we need to create a new notebook and add some docum
   > - **Reflection**: Can you think of any ways that you would find a Timeline useful?
   > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Timeline?
 8. **Table of Contents**:
-  - 
+  - The Table of Contents feature creates a summary for each of the documents in your notebook. This could help you identify which document contains specific information or a particular concept.
+  - To create a Table of Contents summary simpley click on the **Notebook guide** link on the bottom right of the page, and then click on the **Table of Contents** button. It will take 30-60 seconds to generate the timeline.<br>
+    <img src="images/nblm-toc-button.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="Table of Contents Button"><br>
+  > - **Reflection**: What do you think of the quality of the Table of Contents for each document?
+  > - **Reflection**: How might you use the Table of Contents for research or productivity purposes?
+  > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created FAQs?
+9. **Frequently Asked Questions**:
+  - The Frequently Asked Questions feature creates a summary for each of the documents in your notebook. This could help you identify which document contains specific information or a particular concept.
+  - To create a timeline simpley click on the **Notebook guide** link on the bottom right of the page, and then click on the **Timeline** button. It will take 30-60 seconds to generate the timeline.<br>
+    <img src="images/nblm-faq-button.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="Timeline Button"><br>
+  > - **Reflection**: What do you think of the quality of the Frequently Asked Questions (FAQ)?
+  > - **Reflection**: Could the FAQ be helpful for studying or reviewing in a course?
+  > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created FAQs?
 
 ## Chatting with Your Notebook
 In the following activities, we'll experiment with some interactive chat techniques with the documents to explore what else NotebookLM can do for you!
