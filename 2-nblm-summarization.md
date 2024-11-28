@@ -20,14 +20,14 @@ Outline:
 - Summarize Survey Feedback
 - suggested questions...
 
-## Logon to NotebookLM
+## Summarize Meeting Notes
 - If you haven't already, please navigate to the [NoteBookLM website](https://notebooklm.google/){:target="_blank"}.
 - Click on the black **Try NoteboolLM** button and then log on with a Google or Gmail account.
 > NOTE: If you don't have a Google or Gmail account you'll need to click on the small **Create account** link to create an account before you can log in to NotebookLM. If you have any problems logging in, please ask your instructor for help.
 
 <img src="images/5-notebooklm-try.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Try NotebookLM button"><br>
 
-## Create a Notebook & Add Documents to It
+## Create Action Items for Each Individual in the Meeting
 Before we can start testing, we need to create a new notebook and add some documents and media to it so that it has some source documents to train on and draw from.
 
 1. Download each of the following three documents to use as training data for your notebook in this activity, and please make note of where your web browser is saving them (usually in your Downloads or Desktop folders):
@@ -40,7 +40,7 @@ Before we can start testing, we need to create a new notebook and add some docum
 <img src="images/nblm-add-docs.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="Add documents"><br>
 4. Good job! You're now ready to explore the Notebook guide.
    
-## Exploring the Notebook Guide 
+## Translated Summaries & Action Items
 1. Click on the **Notebook Guide** button on the bottom right of the window. You should now see the notebook guide window.
 <img src="images/nblm-summary-auto.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="NotebookLM Auto Summary"><br>
    - Read the Summary that NotebookLM has created. An expert in informal credentialling (or badging) has reviewed the summary, and it is an accurate summary of the information contained in the three journal articles.
@@ -56,4 +56,4 @@ Before we can start testing, we need to create a new notebook and add some docum
   > - **Reflection**: Can you think of any ways that this type of Podcast summary could be useful?
   > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
   
-[NEXT STEP: Brainstorming & ideation](nblm-brainstorm.html){: .btn .btn-blue }
+[NEXT STEP: ???](???.html){: .btn .btn-blue }
