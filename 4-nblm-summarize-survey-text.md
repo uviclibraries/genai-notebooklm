@@ -1,10 +1,11 @@
 ---
 layout: default
-title: 4 - NotebookLM Summarize Survey Feedback
+title: 4 - COMING SOON - NotebookLM Summarize Survey Feedback
 nav_order: 8
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
+# COMING SOON - December 2024
 # Summarize Short Answer Survey Feedback
 <img src="images/REPLACE.gif" style="float:right;width:400px;padding:10px;" alt="REPLACE">
 In this workshop, we'll explore how GenAI can help you quickly summarize meeting notes, including action items. We'll also discover how to customize these summaries by adjusting the tone, style, and language level. Have you ever needed to create a summary in a different language for a colleague or student? We'll show you how AI can translate your text with ease. 
