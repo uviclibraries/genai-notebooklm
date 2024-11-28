@@ -16,8 +16,13 @@ If you have any questions or get stuck as you work through this exercise, please
 ## Summarize a Single Journal Article
 Instead of summarizing all three journal articles we're going to direct NoteBookLM to summarize just one of the articles and then give it a specific focus for the summary to assist us in drafting promotional materials for a University Library Makerspace.
 1. De-select articles 2 and 3 in the Sources area on the left side of the web page.
-<img src="images/nblm-deselect-articles.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM deselect articles"><br>
-2. In the chat area type...
+<img src="images/nblm-deselect-articles.png" style="width:500px;padding:10px;border: 1px solid #555;" alt="NotebookLM deselect articles"><br>
+2. In the chat area type: ```Create a promotional message to parents explaining how the University Makerspace can help their children with job searches for co-op positions and for their post-graduation job search.```
+   - Does the text NoteBookLM response look helpful?
+   - Are there any inaccuracies?
+   - Feel free to give it follow-up prompts if you notice anything you'd like changed (or you could manually change the message yourself of course in your favourite document editor.
+3. Let's assume that the message is accurate and the tone is appropriate, but is too long. Let's ask NotebookLM to make it shorter:
+   - In the chat area type: ```Shorten the promotional message to 150 words.```
 
 ## Summarize Meeting Notes
 - If you haven't already, please navigate to the [NoteBookLM website](https://notebooklm.google/){:target="_blank"}.
