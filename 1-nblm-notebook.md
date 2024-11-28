@@ -40,7 +40,8 @@ Before we can start testing, we need to create a new notebook and add some docum
 > **NOTE: You should always double-check the accuracy of the facts and claims made by NotebookLM (and all other GenAI tools), as they sometimes make mistakes or hallucinate.
 > Note: There are several minor hallucinations in the Notebook Guide. The notebook guides DOES NOT provide citations that can be easily fact-check making it more difficult to verify its facts and claims.**
 3. **Podcast Summary**:
-  - To create a podcast summary, all you need to do is click on the blue **Generate** button. It typically takes between two and five minutes to generate the podcast, and the podcasts seem to be about 10 to 18 minutes long depending on how much information it needs to summarize.<br>
+  - To create a podcast summary, all you need to do is click on the blue **Generate** button **-OR-** You can also click on the **Customize** button to give NoteBookLM more context before it generates the podcast summary. For example you can click on the Customize button and type: ```The audience for this podcast are parents who are sending a child to university for the first time, and are concerned about the job prospects for their child after graduation.```
+  - It typically takes between two and five minutes to generate the podcast, and the podcasts seem to be about 10 to 18 minutes long depending on how much information it needs to summarize.<br>
 <img src="images/nblm-generate-podcast.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="NotebookLM Generate Podcast button"><br>
   - Once the podcast has been generated, you can listen to the podcast by clicking on teh light blue play button.
   - To download the podcast to your computer to share with other people click on the **three vertical dots** to the right of the play button and then click on the **Download** button.
