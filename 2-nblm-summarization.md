@@ -42,7 +42,7 @@ We're going to summarize a transcription of a meeting held via Zoom for a fictit
 1. Create a new notebook:
    - Click on the **NotebookLM logo** on the top right of the screen, which will take you out of the current notebook and to the main NotebookLM screen.
    - Click on the blue **Create new** button on the left side of the screen. You're in a new notebook now.
-<img src="images/nblm-new-notebook2.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="Try NotebookLM button"><br>
+<img src="images/nblm-new-notebook3.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="Try NotebookLM button"><br>
 2. Add the PDF of the meeting notes:
    - Download the meeting transcription document to use as training data for your notebook in this activity, and please make note of where your web browser is saving them (usually in your Downloads or Desktop folders): [Meeting Transcription](images/nblm-meeting-notes.pdf){:target="_blank"}
    - Upload the Meeting document you downloaded by clicking on the blue **choose file** link in the middle of the page, then **navigate** to where you just downloaded the document, **select the document** and **open it**.
