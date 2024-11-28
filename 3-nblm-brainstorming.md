@@ -14,6 +14,9 @@ In this workshop, we'll explore how GenAI can help you quickly summarize meeting
 If you have any questions or get stuck as you work through this exercise, please ask the instructor for assistance.
 
 ## Getting Started
+
+# Add this YouTube Video to the 3 article: https://www.youtube.com/watch?v=uTwbgdK5C7c
+
 - If you haven't already, please navigate to the [NoteBookLM website](https://notebooklm.google/){:target="_blank"}.
 - Click on the black **Try NoteboolLM** button and then log on with a Google or Gmail account.
 > NOTE: If you don't have a Google or Gmail account you'll need to click on the small **Create account** link to create an account before you can log in to NotebookLM. If you have any problems logging in, please ask your instructor for help.
