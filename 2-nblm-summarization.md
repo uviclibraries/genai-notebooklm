@@ -51,27 +51,19 @@ We're going to summarize a transcription of a meeting held via Zoom for a fictit
      - How do the meeting notes look? Do they look like an accurate summary of the meeting?
    - Maybe you want more details, so type this in the chat: ```Give me more details.```
 5. Lastly let's generate a list of action items to be completed by individuals as well as unassigned action items:
-   - Type in the chat area: ```Create a detailed bullet point action item list  of action items to be completed by individuals as well as unassigned action items.```
+   - Type in the chat area: ```Create a detailed bullet point action item list of action items to be completed by individuals as well as unassigned action items.```
    - How do the actions items look for completeness?
    - Any miss assigned action items?
 
 > NOTE: Always ask someone who attended the meeting (and was paying attention) to double-check the meeting notes and action items. 
    
 ## Translated Summaries & Action Items
-1. Click on the **Notebook Guide** button on the bottom right of the window. You should now see the notebook guide window.
-<img src="images/nblm-summary-auto.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="NotebookLM Auto Summary"><br>
-   - Read the Summary that NotebookLM has created. An expert in informal credentialling (or badging) has reviewed the summary, and it is an accurate summary of the information contained in the three journal articles.
-> **NOTE: You should always double-check the accuracy of the facts and claims made by NotebookLM (and all other GenAI tools), as they sometimes make mistakes or hallucinate.
-> Note: There are several minor hallucinations in the Notebook Guide. The notebook guides DO NOT provide citations that allow you to easily fact-check its responses making it more difficult to verify facts and claims.**
-3. **Podcast Summary**:
-  - To create a podcast summary, all you need to do is click on the blue **Generate** button. It typically takes between two and five minutes to generate the podcast, and the podcasts seem to be about 10 to 18 minutes long depending on how much information it needs to summarize.<br>
-<img src="images/nblm-generate-podcast.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="NotebookLM Generate Podcast button"><br>
-  - Once the podcast has been generated, you can listen to the podcast by clicking on teh light blue play button.
-  - To download the podcast to your computer to share with other people click on the **three vertical dots** to the right of the play button and then click on the **Download** button.
-  - If you don't want to wait for NotebookLM to create the podcast you can listen to the version it created for the DSC: [Podcast Summary Audio](images/nblm-podcast-summary.mp3){:target="_blank"} (12-min).
-  > - **Reflection**: What do you think of the quality of the Podcast it created?
-  > - **Reflection**: Can you think of any ways that this type of Podcast summary could be useful?
-  > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
+1. Let's translate the meeting summary into Porguese:
+   - In the chat area type: ```Translate the detailed meeting summary into Portuguese.```
+     - Unless you speak Portuguese you'll have a hard time eveluating the results, but in my experience the translation was quite accurate in this case.
+   - In the chat area type: ```Create a detailed bullet point action item list of action items to be completed by individuals as well as unassigned action items in Portuguese.```
+   - Now try to translate the meeting notes into a different language, if possible a language that you speak.
+     - How did it do? Was the translation accurate?
 
 ## Try Summarizing Your Own Class or Meeting Notes
 1. Start here...
