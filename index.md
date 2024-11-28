@@ -37,8 +37,8 @@ At the end of this workshop, you will be able to:
 > ## GenAI Research Workshop Pathway:
 > 
 > 1. [GenAI: Introduction to Student Research](https://lib.uvic.ca/gen-ai){:target="_blank"} (101)
-> 2. **GenAI: Personal Tools for Research & Productivity (102)**
-> 3. [Spotting AI-generated content online](https://libguides.uvic.ca/fakenews/what-is-fake-news){:target="_blank"} (103)
+> 2. **GenAI: Personal Tools for Research & Productivity (110)**
+> 3. [Spotting AI-generated content online](https://libguides.uvic.ca/fakenews/what-is-fake-news){:target="_blank"} (120)
 > 4. GenAI: Creative Media Tools (201) - COMING SOON
 > 5. AI Tools for Literature Reviews (401) - COMING SOON
 > 6. GenAI: Research Tools Advanced (501) - COMING SOON
