@@ -11,7 +11,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 > NOTE: Like all other Generative AI tools, NotebookLM will sometimes make mistakes, although because you are providing it with training data, it will make fewer mistakes than general purpose Generative AI tools. Always double-check any factual claims it makes if you are not a subject area expert. 
 
-If you have any questions or get stuck as you work through this GPT4All exercise, please ask the instructor for assistance.
+If you have any questions or get stuck as you work through this exercise, please ask the instructor for assistance.
 
 ## Logon to NotebookLM
 - If you haven't already, please navigate to the [NoteBookLM website](https://notebooklm.google/){:target="_blank"}.
