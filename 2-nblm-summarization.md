@@ -37,7 +37,7 @@ Instead of summarizing all three journal articles we're going to direct NoteBook
    - Are there any inaccuracies?
    - Feel free to give it follow-up prompts if you notice anything you'd like changed (or you could manually change the message
 
-## Summarize Meeting Notes
+## Summarize Meeting Notes & Create Action Items
 We're going to summarize a transcription of a meeting held via Zoom for a fictitious "Makerspace Executive Weekly Meeting" in a new notebook:
 1. Create a new notebook:
    - Click on the **NotebookLM logo** on the top right of the screen, which will take you out of the current notebook and to the main NotebookLM screen.
@@ -50,10 +50,12 @@ We're going to summarize a transcription of a meeting held via Zoom for a fictit
    - In the chat area type: ```Summarize the meeting transcript into a summary in bullet point form.```
      - How do the meeting notes look? Do they look like an accurate summary of the meeting?
    - Maybe you want more details, so type this in the chat: ```Give me more details.```
+5. Lastly let's generate a list of action items to be completed by individuals as well as unassigned action items:
+   - Type in the chat area: ```Create a detailed bullet point action item list  of action items to be completed by individuals as well as unassigned action items.```
+   - How do the actions items look for completeness?
+   - Any miss assigned action items?
 
-## Create Action Items for Each Individual in the Meeting
-1. Prompt for action items to be completed by individuals and unassigned action items...
-
+> NOTE: Always ask someone who attended the meeting (and was paying attention) to double-check the meeting notes and action items. 
    
 ## Translated Summaries & Action Items
 1. Click on the **Notebook Guide** button on the bottom right of the window. You should now see the notebook guide window.
