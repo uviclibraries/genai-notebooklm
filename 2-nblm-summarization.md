@@ -17,7 +17,6 @@ Outline:
 - Summarize meeting notes including an action Items list
 - Use different prompt strategies to customize the summary by using, personas, examples, tone, vocabulary level, voice of, ???
 - Translation: Prompt to create a focused summary in another language (if possible in a language that you can fact check in real time for accuracy)
-- Summarize Survey Feedback
 - suggested questions...
 
 ## Summarize Meeting Notes
@@ -55,5 +54,9 @@ Before we can start testing, we need to create a new notebook and add some docum
   > - **Reflection**: What do you think of the quality of the Podcast it created?
   > - **Reflection**: Can you think of any ways that this type of Podcast summary could be useful?
   > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
-  
+
+## Try Summarizing Your Own Class or Meeting Notes
+1. Start here...
+   - more...
+
 [NEXT STEP: Brainstorming Stragegies](nblm-brainstorming.html){: .btn .btn-blue }
