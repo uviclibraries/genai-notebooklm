@@ -46,21 +46,14 @@ We're going to summarize a transcription of a meeting held via Zoom for a fictit
 2. Add the PDF of the meeting notes:
    - Download the meeting transcription document to use as training data for your notebook in this activity, and please make note of where your web browser is saving them (usually in your Downloads or Desktop folders): [Meeting Transcription](images/nblm-meeting-notes.pdf){:target="_blank"}
    - Upload the Meeting document you downloaded by clicking on the blue **choose file** link in the middle of the page, then **navigate** to where you just downloaded the document, **select the document** and **open it**.
-3. Prompt for a general summary
+3. Ask NotebookLM for a summary:
+   - In the chat area type: ```Summarize the meeting transcript into a summary in bullet point form.```
+     - How do the meeting notes look? Do they look like an accurate summary of the meeting?
+   - Maybe you want more details, so type this in the chat: ```Give me more details.```
 
 ## Create Action Items for Each Individual in the Meeting
 1. Prompt for action items to be completed by individuals and unassigned action items...
-2. Prompt for a summary of suggested projects
 
-1. Download each of the following three documents to use as training data for your notebook in this activity, and please make note of where your web browser is saving them (usually in your Downloads or Desktop folders):
-   - [Document 1](images/badge-article.pdf){:target="_blank"}
-   - [Document 2](images/badge-article-2.pdf){:target="_blank"}
-   - [Document 3](images/badge-article-3.pdf){:target="_blank"}
-2. Create a new notebook by clicking on the blue **Create new** button on the left side of the screen.
-<img src="images/nblm-create-new.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
-3. Upload the three documents you downloaded by clicking on the blue **choose file** link in the middle of the page.
-<img src="images/nblm-add-docs.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="Add documents"><br>
-4. Good job! You're now ready to explore the Notebook guide.
    
 ## Translated Summaries & Action Items
 1. Click on the **Notebook Guide** button on the bottom right of the window. You should now see the notebook guide window.
