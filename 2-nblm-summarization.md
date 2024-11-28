@@ -65,8 +65,12 @@ We're going to summarize a transcription of a meeting held via Zoom for a fictit
    - Now try to translate the meeting notes into a different language, if possible a language that you speak.
      - How did it do? Was the translation accurate?
 
-## Try Summarizing Your Own Class or Meeting Notes
-1. Start here...
-   - more...
+## Try Summarizing Your Own Class Notes or Lecture Presentations
+1. Why don't you try summarizing your own class lecture notes:
+   - Start by creating a new notebook and importing notes from one lecture or multiple lectures.
+   - You can also add Lecture Presentation slide decks to notebooks, but they have to be in either PDF or Google Slides format for NotebookLM to "read" them NOTE: You can easly convert PowerPoint Presentations into Google Slides format (just google it and you'll find a number of how-to guides).
+
+## Summarize YouTube Videos
+   - NoteBook LM will also summarize one YouTube video, or multiple YouTube videos... Give it a try in a new notebook!
 
 [NEXT STEP: Brainstorming Stragegies](nblm-brainstorming.html){: .btn .btn-blue }
