@@ -15,15 +15,15 @@ If you have any questions or get stuck as you work through this exercise, please
 
 ## Getting Started
 
-# Add this YouTube Video to the 3 article: https://www.youtube.com/watch?v=uTwbgdK5C7c
-
-- If you haven't already, please navigate to the [NoteBookLM website](https://notebooklm.google/){:target="_blank"}.
-- Click on the black **Try NoteboolLM** button and then log on with a Google or Gmail account.
-> NOTE: If you don't have a Google or Gmail account you'll need to click on the small **Create account** link to create an account before you can log in to NotebookLM. If you have any problems logging in, please ask your instructor for help.
+- Click on the **NotebookLM logo** on the top right of the screen, which will take you out of the current notebook and to the main NotebookLM screen.
+- Click on the **The Digital Badge Ecosystem in Libraries** notebook.
+- Click on the **Add Source** button above the list of journal articles in this notebook.
+- Click on the **YouTube** button in the bottom middle of the page and then **paste the following web address** into the text box: ```https://www.youtube.com/watch?v=uTwbgdK5C7c```
 
 ## Research: Brainstorming and Ideation  
 - Create a list of possible research questions based on the 3 journal articles by typing the following into the chat box and pressing Enter: ```Please generate a list of novel research questions  related to the topics in these journal articles, but not research questions in the articles.```
-- ...
+  - How do the research questions look?
+  - Would you be tempted to use any as-is, or in a modified form? 
 
 ## Leasure: Brainstorming and Ideation
 Before we can start testing, we need to create a new notebook and add some documents and media to it so that it has some source documents to train on and draw from.
