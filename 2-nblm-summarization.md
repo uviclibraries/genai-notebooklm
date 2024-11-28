@@ -38,14 +38,16 @@ Instead of summarizing all three journal articles we're going to direct NoteBook
    - Feel free to give it follow-up prompts if you notice anything you'd like changed (or you could manually change the message
 
 ## Summarize Meeting Notes
-- If you haven't already, please navigate to the [NoteBookLM website](https://notebooklm.google/){:target="_blank"}.
-- Click on the black **Try NoteboolLM** button and then log on with a Google or Gmail account.
-> NOTE: If you don't have a Google or Gmail account you'll need to click on the small **Create account** link to create an account before you can log in to NotebookLM. If you have any problems logging in, please ask your instructor for help.
+We're going to summarize a transcription of a meeting held via Zoom for a fictitious "Makerspace Executive Weekly Meeting" in a new notebook:
+1. Create a new notebook... Create a new notebook by clicking on the blue **Create new** button on the left side of the screen.
+2. Add the PDF of the meeting notes... [Meeting Notes](images/nblm-meeting-notes.pdf){:target="_blank"}
+3. Prompt for a general summary
 
 <img src="images/5-notebooklm-try.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Try NotebookLM button"><br>
 
 ## Create Action Items for Each Individual in the Meeting
-Before we can start testing, we need to create a new notebook and add some documents and media to it so that it has some source documents to train on and draw from.
+1. Prompt for action items to be completed by individuals and unassigned action items...
+2. Prompt for a summary of suggested projects
 
 1. Download each of the following three documents to use as training data for your notebook in this activity, and please make note of where your web browser is saving them (usually in your Downloads or Desktop folders):
    - [Document 1](images/badge-article.pdf){:target="_blank"}
