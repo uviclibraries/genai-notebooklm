@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
 # Brainstorming & Ideation
-<img src="images/REPLACE.gif" style="float:right;width:400px;padding:10px;" alt="REPLACE">
+<img src="images/nblm-brain-storm.png" style="float:right;width:400px;padding:10px;" alt="Brain storm visualization">
 In this workshop, we'll explore how GenAI can help you quickly summarize meeting notes, including action items. We'll also discover how to customize these summaries by adjusting the tone, style, and language level. Have you ever needed to create a summary in a different language for a colleague or student? We'll show you how AI can translate your text with ease. 
 
 > NOTE: Like all other Generative AI tools, NotebookLM will sometimes make mistakes, although because you are providing it with training data, it will likely make fewer mistakes than general purpose Generative AI tools. Always research any factual claims it makes if you are not a subject area expert. 
