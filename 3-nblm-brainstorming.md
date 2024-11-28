@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
 # Brainstorming & Ideation
-<img src="images/nblm-summarize-text2.gif" style="float:right;width:400px;padding:10px;" alt="GenAI summarizing text abstract Logo">
+<img src="images/REPLACE.gif" style="float:right;width:400px;padding:10px;" alt="REPLACE">
 In this workshop, we'll explore how GenAI can help you quickly summarize meeting notes, including action items. We'll also discover how to customize these summaries by adjusting the tone, style, and language level. Have you ever needed to create a summary in a different language for a colleague or student? We'll show you how AI can translate your text with ease. 
 
 > NOTE: Like all other Generative AI tools, NotebookLM will sometimes make mistakes, although because you are providing it with training data, it will likely make fewer mistakes than general purpose Generative AI tools. Always research any factual claims it makes if you are not a subject area expert. 
@@ -14,20 +14,18 @@ In this workshop, we'll explore how GenAI can help you quickly summarize meeting
 If you have any questions or get stuck as you work through this exercise, please ask the instructor for assistance.
 
 Outline:
-- Summarize meeting notes including an action Items list
-- Use different prompt strategies to customize the summary by using, personas, examples, tone, vocabulary level, voice of, ???
-- Translation: Prompt to create a focused summary in another language (if possible in a language that you can fact check in real time for accuracy)
-- Summarize Survey Feedback
-- suggested questions...
+- For research
+- For leasure
+- More?
 
-## Brainstorming & ideation on a topic to generate research questions
+## Research: Brainstorming and Ideation  
 - If you haven't already, please navigate to the [NoteBookLM website](https://notebooklm.google/){:target="_blank"}.
 - Click on the black **Try NoteboolLM** button and then log on with a Google or Gmail account.
 > NOTE: If you don't have a Google or Gmail account you'll need to click on the small **Create account** link to create an account before you can log in to NotebookLM. If you have any problems logging in, please ask your instructor for help.
 
 <img src="images/5-notebooklm-try.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Try NotebookLM button"><br>
 
-## Leasure?
+## Leasure: Brainstorming and Ideation
 Before we can start testing, we need to create a new notebook and add some documents and media to it so that it has some source documents to train on and draw from.
 
 1. Download each of the following three documents to use as training data for your notebook in this activity, and please make note of where your web browser is saving them (usually in your Downloads or Desktop folders):
