@@ -7,8 +7,7 @@ parent: Workshop Activities
 # Activities Introduction
 
 Please review the following if you are working through the workshop materials without attending a live event:
-- A - Watch the Workshop Introduction Video (15 min)<br>
-**COMING SOON!**
+- A - Watch the Workshop Introduction Video (15 min) COMING SOON!<br>
 **-OR-**<br>
 - B - Read the [Introductory Slides](https://docs.google.com/presentation/d/1t_7I8X4dvCMQEYQ9Vcdnt5NpJMu2kAmnMvGkaaPzDKc/edit?usp=sharing){:target="_blank"} for the workshop, including the speaker notes at the bottom of the page as that is where a lot of the important information is (15 min) ([Old Intermediate Slides](https://docs.google.com/presentation/d/1kJDpZQJLQh7ZLD_RQJqV5pw1loWlXoH7Pqu3e11LzDQ/){:target="_blank"}<br>
 **-AND-**<br>
