@@ -5,7 +5,7 @@ nav_order: 1
 ---
 <img src="images/5-notebooklm-try.png" style="float:right;width:350px;padding:10px;" alt="Decorative">
 
-# GenAI: NotebookLM a Personal Tool for Research & Productivity
+# GenAI 130: NotebookLM a Personal Tool for Research & Productivity
 
 - Pre-workshop activities: 10 min 
 - Introductory presentation: 15 min
@@ -36,12 +36,12 @@ At the end of this workshop, you will be able to:
 
 > ## GenAI Research Workshop Pathway:
 > 
-> 1. [GenAI: Introduction to Student Research](https://lib.uvic.ca/gen-ai){:target="_blank"} (100)
-> 2. AI Tools for Literature Reviews - Introduction (110) - COMING SOON
-> 3. [Spotting AI-generated content online](https://libguides.uvic.ca/fakenews/what-is-fake-news){:target="_blank"} (120)
-> 4. **GenAI: Personal Tools for Research & Productivity (130)**
-> 5. GenAI: Presentation & Multi-Media Tools (200) - COMING SOON
-> 8. AI Tools for Literature Reviews Advanced (510) - COMING SOON
-> 9. GenAI: Research Tools Advanced (530) - COMING SOON
+> 1. [GenAI 100: Introduction to Student Research](https://lib.uvic.ca/gen-ai){:target="_blank"}
+> 2. AI 110: Tools for Literature Reviews - Introduction - COMING SOON
+> 3. [GenAI 120: Spotting AI-generated content online](https://libguides.uvic.ca/fakenews/what-is-fake-news){:target="_blank"}
+> 4. **GenAI 130: Personal Tools for Research & Productivity**
+> 5. GenAI 200: Presentation & Multi-Media Tools - COMING SOON
+> 8. AI 510: Tools for Literature Reviews Advanced - COMING SOON
+> 9. GenAI 530: Research Tools Advanced - COMING SOON
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
