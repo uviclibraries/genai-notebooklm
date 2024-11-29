@@ -41,7 +41,7 @@ At the end of this workshop, you will be able to:
 > 3. [Spotting AI-generated content online](https://libguides.uvic.ca/fakenews/what-is-fake-news){:target="_blank"} (120)
 > 4. AI Tools for Literature Reviews - Introduction (130) - COMING SOON
 > 5. GenAI: Presentation & Multi-Media Tools (200) - COMING SOON
-> 6. AI Tools for Literature Reviews - Advanced (430) - COMING SOON
-> 7. GenAI: Research Tools Advanced (510) - COMING SOON
+> 6. GenAI: Research Tools Advanced (510) - COMING SOON
+> 7. AI Tools for Literature Reviews - Advanced (530) - COMING SOON
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
