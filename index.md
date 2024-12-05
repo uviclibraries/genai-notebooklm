@@ -5,7 +5,7 @@ nav_order: 1
 ---
 <img src="images/5-notebooklm-try.png" style="float:right;width:350px;padding:10px;" alt="Decorative">
 
-# GenAI: NotebookLM a Personal Tool for Research & Productivity (Inter level)
+# GenAI: NotebookLM a Personal Tool for Research & Productivity (Intermediate)
 
 - Pre-workshop activities: 10 min 
 - Introductory presentation: 15 min
@@ -26,24 +26,16 @@ At the end of this workshop, you will be able to:
 6. Translation: Create a summary of a document (or group of documents) in another language (if possible in a language that you can fact-check in real time for accuracy)
 8. Best practices: Describe the best practices for using NotebookLM, including fact-checking claims, being mindful of potential biases, & maintaining critical thinking in all phases of study and research
 
-**Optional (to be moved to the _GenAI: Research Tools Advanced_ workshop)**:
-
-1. Install GenAI software on your laptop including 1 or more large language models (not cloud-based), and use it to answer a question.
-2. Use the local GenAI software and select a folder of documents on your computer to use as training data; then ask questions of the documents.
-3. Transcribe interviews using cloud-based AI transcription services and an AI-powered program that runs locally on your computer.
-4. Use GenAI tools for Sentiment Analysis on free-form survey questions or social media posts.
-5. Upload an Excel spreadsheet, and then request a summary and insights from the data.
-
-> ## GenAI Research Workshop Pathway:
+> ## DRAFT - GenAI Research Workshop Pathway:
 > <br>**Introductory Workshops**<br>
-> 1. [GenAI: Introduction to Student Research (Intro level)](https://lib.uvic.ca/gen-ai){:target="_blank"}
-> 2. AI: Tools for Literature Reviews (Intro level) - COMING SOON
-> 3. [GenAI: Spotting AI-generated content online (Intro level)](https://libguides.uvic.ca/fakenews/what-is-fake-news){:target="_blank"}
+> 1. [GenAI: Introduction to Student Research](https://lib.uvic.ca/gen-ai){:target="_blank"} (Introduction)
+> 2. AI: Tools for Literature Reviews (Introduction) - COMING SOON
+> 3. [GenAI: Spotting AI-generated content online (Intro level)](https://libguides.uvic.ca/fakenews/what-is-fake-news){:target="_blank"} (Introduction)
 > <br>**Intermediate Workshops**<br>
-> 4. **GenAI: Personal Tools for Research & Productivity (Inter level)**
-> 5. GenAI: Presentation & Multi-Media Tools (Inter level) - COMING SOON
+> 4. **GenAI: Personal Tools for Research & Productivity (Intermediate)**
+> 5. GenAI: Presentation & Multi-Media Tools (Intermediate) - COMING SOON
 > <br>**Advanced Workshops**<br>
-> 8. AI: Tools for Literature Reviews (Adv level) - COMING SOON
-> 9. GenAI: Research Tools (Adv level) - COMING SOON
+> 8. AI: Tools for Literature Reviews (Advanced) - COMING SOON
+> 9. [GenAI: Research Tools](https://uviclibraries.github.io/genai-research-tools-adv/){:target="_blank"} (Advanced) - COMING SOON
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
