@@ -35,13 +35,15 @@ At the end of this workshop, you will be able to:
 5. Upload an Excel spreadsheet, and then request a summary and insights from the data.
 
 > ## GenAI Research Workshop Pathway:
-> 
+> **Introductory Workshops**
 > 1. [GenAI: Introduction to Student Research (Intro level)](https://lib.uvic.ca/gen-ai){:target="_blank"}
 > 2. AI: Tools for Literature Reviews (Intro level) - COMING SOON
 > 3. [GenAI: Spotting AI-generated content online (Intro level)](https://libguides.uvic.ca/fakenews/what-is-fake-news){:target="_blank"}
+> **Intermediate Workshops**
 > 4. **GenAI: Personal Tools for Research & Productivity (Inter level)**
 > 5. GenAI: Presentation & Multi-Media Tools (Inter level) - COMING SOON
-> 8. AI 510: Tools for Literature Reviews (Adv level) - COMING SOON
-> 9. GenAI 530: Research Tools (Adv level) - COMING SOON
+> **Advanced Workshops**
+> 8. AI: Tools for Literature Reviews (Adv level) - COMING SOON
+> 9. GenAI: Research Tools (Adv level) - COMING SOON
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
