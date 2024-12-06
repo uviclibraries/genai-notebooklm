@@ -5,7 +5,7 @@ nav_order: 1
 ---
 <img src="images/5-notebooklm-try.png" style="float:right;width:350px;padding:10px;" alt="Decorative">
 
-# GenAI: NotebookLM a Personal Tool for Research & Productivity (_Intermediate_)
+# GenAI _INTER_: NotebookLM a Personal Tool for Research & Productivity
 
 - Pre-workshop activities: 10 min 
 - Introductory presentation: 15 min
