@@ -33,7 +33,7 @@ At the end of this workshop, you will be able to:
 > 3. [GenAI: Spotting AI-generated content online](https://libguides.uvic.ca/fakenews/what-is-fake-news){:target="_blank"} (_Introduction_)
 > 
 > ### Intermediate Workshops
-> 4. **[GenAI: Personal Tools for Research & Productivity](https://lib.uvic.ca/genai-notebooklm){:target="_blank"} (_Intermediate_)**
+> 4. **[GenAI: NotebookLM a Personal Tool for Research & Productivity](https://lib.uvic.ca/genai-notebooklm){:target="_blank"} (_Intermediate_)**
 > 5. GenAI: Presentation & Multi-Media Tools (_Intermediate_) - COMING SOON
 > 
 > ### Advanced Workshops
