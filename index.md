@@ -28,16 +28,16 @@ At the end of this workshop, you will be able to:
 
 > ## DRAFT: GenAI Research Workshop Pathway
 > ### Introductory Workshops
-> 1. [GenAI: Introduction to Student Research & Productivity](https://lib.uvic.ca/gen-ai){:target="_blank"} (Introduction)
-> 2. AI: Tools for Literature Reviews (Introduction) - COMING SOON
-> 3. [GenAI: Spotting AI-generated content online (Intro level)](https://libguides.uvic.ca/fakenews/what-is-fake-news){:target="_blank"} (Introduction)
+> 1. [GenAI: Introduction to Student Research & Productivity](https://lib.uvic.ca/gen-ai){:target="_blank"} (_Introduction_)
+> 2. AI: Tools for Literature Reviews (_Introduction_) - COMING SOON
+> 3. [GenAI: Spotting AI-generated content online](https://libguides.uvic.ca/fakenews/what-is-fake-news){:target="_blank"} (_Introduction_)
 > 
 > ### Intermediate Workshops
-> 4. **[GenAI: Personal Tools for Research & Productivity](https://lib.uvic.ca/genai-notebooklm){:target="_blank"} (Intermediate)**
-> 5. GenAI: Presentation & Multi-Media Tools (Intermediate) - COMING SOON
+> 4. **[GenAI: Personal Tools for Research & Productivity](https://lib.uvic.ca/genai-notebooklm){:target="_blank"} (_Intermediate_)**
+> 5. GenAI: Presentation & Multi-Media Tools (_Intermediate_) - COMING SOON
 > 
 > ### Advanced Workshops
-> 8. AI: Tools for Literature Reviews (Advanced) - COMING SOON
-> 9. [GenAI: Research Tools](https://lib.uvic.ca/genai-research-adv){:target="_blank"} (Advanced)
+> 8. AI: Tools for Literature Reviews (_Advanced_) - COMING SOON
+> 9. [GenAI: Research Tools](https://lib.uvic.ca/genai-research-adv){:target="_blank"} (_Advanced_)
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
