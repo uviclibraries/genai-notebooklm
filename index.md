@@ -28,7 +28,7 @@ At the end of this workshop, you will be able to:
 
 > ## DRAFT: GenAI Research Workshop Pathway
 > ### Introductory Workshops
-> 1. [GenAI: Introduction to Student Research & Productivity](https://lib.uvic.ca/gen-ai){:target="_blank"} (_Introduction_)
+> 1. [GenAI: Introduction & Prompt Design](https://lib.uvic.ca/gen-ai){:target="_blank"} (_Introduction_)
 > 2. AI: Tools for Literature Reviews (_Introduction_) - COMING SOON
 > 3. [GenAI: Spotting AI-generated content online](https://libguides.uvic.ca/fakenews/what-is-fake-news){:target="_blank"} (_Introduction_)
 > 
