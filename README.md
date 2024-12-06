@@ -1,4 +1,4 @@
-# GenAI 130: NotebookLM a Personal Tool for Research & Productivity
+# GenAI: NotebookLM a Personal Tool for Research & Productivity (_Intermediate_)
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/genai-int/
