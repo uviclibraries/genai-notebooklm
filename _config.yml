@@ -2,7 +2,7 @@ title: GenAI - NotebookLM
 remote_theme: pmarsceill/just-the-docs
 
 # Footer "Edit this page on GitHub" link text
-gh_edit_repository: "https://github.com/uviclibraries/genai-int" # the github URL for your repo
+gh_edit_repository: "https://github.com/uviclibraries/genai-notebooklm" # the github URL for your repo
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_branch: "master" # the branch that your docs is served from
