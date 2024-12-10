@@ -51,8 +51,12 @@ Let's go back to the notebook with the three journal articles we've already crea
 ```  - Question C```<br>
   > - **Reflection**: How do the critiques for each question look to you?
   > - **Reflection**: Do any of the critiques change your evaluation of how good they are a research questions?
-2. Suggest potential methodological approaches for addressing each generated research question
-3. Identify potential challenges or limitations in investigating these research questions
+2. Ask NotebookLM to suggest potential methodological approaches for addressing each research question you used in step 1 above (replacing QUESTION A, B, & C with your questions):
+  - ```Suggest potential methodological approaches for addressing each generated research question: QUESTION A```
+  - ```Suggest potential methodological approaches for addressing each generated research question: QUESTION B```
+  - ```Suggest potential methodological approaches for addressing each generated research question: QUESTION C```
+3. Identify potential challenges or limitations in investigating these research questions:
+  - 
 
 > ## Workshop Tips
 > - Use clear, specific prompts
