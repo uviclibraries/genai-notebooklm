@@ -36,7 +36,9 @@ Let's go back to the notebook with the three journal articles we've already crea
   - **Reflection**: Do the themes and research questions look reasonable based on what you've read in the articles?
 
 ## Research Question Generation  
-1. Create a list of possible limitations or gaps in the articles and video by typing the following into the chat box and press Enter: ```What are the most significant limitations or gaps mentioned in these studies?```
-  > - **Reflection**: Do the limitations and gaps look reasonable?
+1. Create a list of possible research questions by typing the following into the chat box and press Enter: ```Based on the limitations and gaps mentioned in all three journal articles, propose 3-4 potential research questions that could address these gaps.```
+  > - **Reflection**: Do the research questions look reasonable?
+2. Suggest interdisciplinary research questions that combine methodological approaches from these articles by typing the following into the chat box and press Enter: ```Suggest interdisciplinary research questions that combine methodological approaches from all sources.```
+  > - **Reflection**: Do the research questions look reasonable?
 
 [NEXT STEP: Summarize Short Answer Survey Feedback](nblm-summarize-survey-text.html){: .btn .btn-blue }
