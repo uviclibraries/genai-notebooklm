@@ -26,10 +26,10 @@ Let's go back to the notebook with the three journal articles we've already crea
 <img src="images/nblm-youtube-url.png" style="width:600px;padding:10px;" alt="Adding a YouTube URL"><br>
 
 ## Initial Exploration  
-1. Create a list of possible research questions based on the 3 journal articles by typing the following into the chat box and pressing Enter: ```Please generate a list of novel research questions  related to the topics in these journal articles, but not research questions in the articles.```
-  > - **Reflection**: How do the research questions look?
-  > - **Reflection**: Would you be tempted to use any as-is, or in a modified form?
-2. Find gaps in the literature:
-  - 
+1. Create a list of possible limitations or gaps in the articles and video by typing the following into the chat box and pressing Enter: ```What are the most significant limitations or gaps mentioned in these studies?```
+  > - **Reflection**: Do the limitations and gaps look reasonable?
+2. Identify some possible surprising or counterintuitive insights from the journal articles and video by typing the following into the chat box and pressing Enter: ```Extract 2-3 surprising or counterintuitive insights from these journal articles.```
+  - **Reflection**: Are the insights supported by the citations that link to the parts of the article that support the inights?
+3. 
   
 [NEXT STEP: Summarize Short Answer Survey Feedback](nblm-summarize-survey-text.html){: .btn .btn-blue }
