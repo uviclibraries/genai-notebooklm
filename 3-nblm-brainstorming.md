@@ -23,7 +23,7 @@ Let's go back to the notebook with the three journal articles we've already crea
 5. Click on the **YouTube** button in the bottom middle of the page.<br>
 <img src="images/nblm-new-youtube.png" style="width:300px;padding:10px;" alt="Adding a YouTube video to a NotebookLM notebook"><br>
 7. Next **paste the following web address** into the text box: ```https://www.youtube.com/watch?v=zdJM7gJAJiw```<br>
-<img src="images/nblm-youtube-url.png" style="width:300px;padding:10px;" alt="Adding a YouTube URL"><br>
+<img src="images/nblm-youtube-url.png" style="width:600px;padding:10px;" alt="Adding a YouTube URL"><br>
 
 ## Initial Exploration  
 1. Create a list of possible research questions based on the 3 journal articles by typing the following into the chat box and pressing Enter: ```Please generate a list of novel research questions  related to the topics in these journal articles, but not research questions in the articles.```
