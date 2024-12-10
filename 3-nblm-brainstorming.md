@@ -18,13 +18,14 @@ Let's go back to the notebook with the three journal articles we've already crea
 
 1. Click on the **NotebookLM logo** on the top right of the screen, which will take you out of the current notebook and to the main NotebookLM screen.
 2. Click on the **The Digital Badge Ecosystem in Libraries** notebook.
-3. Click on the **Add Source** button above the list of journal articles in this notebook.
 <img src="images/nblm-new-source.png" style="float:right;width:300px;padding:10px;" alt="Adding a new source document to NotebookLM">
+4. Click on the **Add Source** button above the list of journal articles in this notebook.
+<img src="images/nblm-new-youtube.png" style="float:right;width:300px;padding:10px;" alt="Adding a YouTube video to a NotebookLM notebook">
 5. Click on the **YouTube** button in the bottom middle of the page.
 (ADD IMAGE)
 7. Next **paste the following web address** into the text box: ```https://www.youtube.com/watch?v=zdJM7gJAJiw```
 
-## Inital Exploration  
+## Initial Exploration  
 1. Create a list of possible research questions based on the 3 journal articles by typing the following into the chat box and pressing Enter: ```Please generate a list of novel research questions  related to the topics in these journal articles, but not research questions in the articles.```
   > - **Reflection**: How do the research questions look?
   > - **Reflection**: Would you be tempted to use any as-is, or in a modified form?
