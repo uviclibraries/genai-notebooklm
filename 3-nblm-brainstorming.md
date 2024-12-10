@@ -45,16 +45,16 @@ Let's go back to the notebook with the three journal articles we've already crea
 
 ## Refinement and Evaluation
 1. Look at all the research questions generated in the previous three prompts and choose 3 of the strongest research questions and then include them in the following prompt (replacing Questions A, B, and C with your research questions:
-```Evaluate these research questions against the following criteria: originality, feasibility, and potential impacts:```
-```  - Question A```
-```  - Question B```
-```  - Question C```
+```Evaluate these research questions against the following criteria: originality, feasibility, and potential impacts:```<br>
+```  - Question A```<br>
+```  - Question B```<br>
+```  - Question C```<br>
   > - **Reflection**: How do the critiques for each question look to you?
   > - **Reflection**: Do any of the critiques change your evaluation of how good they are a research questions?
 2. Suggest potential methodological approaches for addressing each generated research question
 3. Identify potential challenges or limitations in investigating these research questions
 
-## Workshop Tips
+> ## Workshop Tips
 > - Use clear, specific prompts
 > - Iterate and refine questions
 > - Consider multiple perspectives
