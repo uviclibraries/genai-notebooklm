@@ -43,10 +43,12 @@ Let's go back to the notebook with the three journal articles we've already crea
 3. Ask for an emerging list of research areas or technologies that could provide new insights by typing the following into the chat box and press Enter: ```What emerging research areas or technologies could provide new insights into the topics covered in all the sources?```
   > - **Reflection**: Do any of the technologies and/or research areas suggested seem like interesting avenues of research from your perspective?
 4. Look at all the research questions generated in the previous three prompts and choose 3 of the strongest research questions and then include them in the following prompt (replacing Questions A, B, and C with your research questions:
-```Evaluate these research questions against the following criteria: originality, feasibility, and potential impacts:
-  - Question A
-  - Question B
-  - Question C```
+```Evaluate these research questions against the following criteria: originality, feasibility, and potential impacts:```
+```  - Question A```
+```  - Question B```
+```  - Question C```
+  > - **Reflection**: How do the critiques for each question look to you?
+  > - **Reflection**: How do the critiques for each question look to you?
 
 ## Refinement and Evaluation
 1. 
