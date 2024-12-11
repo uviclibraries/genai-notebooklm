@@ -63,7 +63,7 @@ Let's go back to the notebook with the three journal articles we've already crea
 ## OPTIONAL: Work Through This Activity With Your Own Topic!
 If you have a research topic of your own in mind and have found some articles related to the topic, you might want to try working through this activity from the beginning on your own in a new notebook with your own articles. If you have any problems or questions, please ask the workshop instructor for support.
 
-> ## Workshop Tips Review
+> ## Workshop Tips Review:
 > - Use clear, specific prompts
 > - Iterate and refine questions
 > - Consider multiple perspectives
