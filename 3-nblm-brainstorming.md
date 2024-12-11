@@ -44,7 +44,7 @@ Let's go back to the notebook with the three journal articles we've already crea
   > - **Reflection**: Do any of the technologies and/or research areas suggested seem like interesting avenues of research from your perspective?
 
 ## Refinement and Evaluation
-1. Look at all the research questions generated in the previous three prompts and choose 3 of the strongest research questions and then include them in the following prompt (replacing Questions A, B, and C with your research questions:
+1. Look at all the research questions generated in the previous three prompts and choose 3 of the strongest research questions and then include them in the following prompt (don't forget to **replace Questions A, B, and C with your research questions**):
 ```Evaluate these research questions against the following criteria: originality, feasibility, and potential impacts:```<br>
 ```  - Question A```<br>
 ```  - Question B```<br>
