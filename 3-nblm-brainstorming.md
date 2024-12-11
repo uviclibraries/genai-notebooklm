@@ -5,7 +5,7 @@ nav_order: 8
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
-# Brainstorming & Ideation for Resarch Questions
+# Brainstorming & Ideation for Research Questions
 <img src="images/nblm-brain-storm.jpeg" style="float:right;width:400px;padding:10px;" alt="Brainstorm visualization">
 In this workshop, we'll explore how GenAI can help you explore a group of journal articles and a video for gaps in the literature and potential research questions to fill those gaps or explore a related topic. 
 
@@ -55,8 +55,12 @@ Let's go back to the notebook with the three journal articles we've already crea
   - ```Suggest potential methodological approaches for addressing each generated research question: QUESTION A```<br>
   - ```Suggest potential methodological approaches for addressing each generated research question: QUESTION B```<br>
   - ```Suggest potential methodological approaches for addressing each generated research question: QUESTION C```<br>
-3. Identify potential challenges or limitations in investigating these research questions:
-  - 
+3. Next let's see if we can identify any potential challenges or limitations for each research question in turn:
+  - ```Suggest potential methodological approaches for addressing each generated research question: QUESTION A```<br>
+  - ```Suggest potential methodological approaches for addressing each generated research question: QUESTION B```<br>
+  - ```Suggest potential methodological approaches for addressing each generated research question: QUESTION C```<br>
+4. If you have a research topic in mind and have some good articles related to the topic you want to get inspiration from to...
+[**FINISH**]
 
 > ## Workshop Tips
 > - Use clear, specific prompts
