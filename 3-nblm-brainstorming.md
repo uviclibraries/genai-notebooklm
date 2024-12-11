@@ -60,9 +60,8 @@ Let's go back to the notebook with the three journal articles we've already crea
   - ```Suggest potential methodological approaches for addressing each generated research question: QUESTION B```<br>
   - ```Suggest potential methodological approaches for addressing each generated research question: QUESTION C```<br>
 
-## OPTIONAL: Try this Activity with Your Own Topic!
-If you have a research topic of your own in mind and have found some articles related to the topic you want to get inspiration, you might want to try working through this activity from the beginning on your own
-[**FINISH**]
+## OPTIONAL: Work Through This Activity With Your Own Topic!
+If you have a research topic of your own in mind and have found some articles related to the topic, you might want to try working through this activity from the beginning on your own in a new notebook with your own articles. If you have any problems or questions, please ask the workshop instructor for support.
 
 > ## Workshop Tips Review
 > - Use clear, specific prompts
