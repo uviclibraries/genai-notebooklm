@@ -1,11 +1,10 @@
 ---
 layout: default
-title: 4 - COMING SOON - NotebookLM Summarize Survey Feedback
+title: 4 - NotebookLM Summarize Survey Feedback
 nav_order: 8
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
-# COMING SOON - December 2024
 # Summarize Short Answer Survey Feedback
 <img src="images/REPLACE.gif" style="float:right;width:400px;padding:10px;" alt="REPLACE">
 In this workshop, we'll explore how GenAI can help you quickly summarize meeting notes, including action items. We'll also discover how to customize these summaries by adjusting the tone, style, and language level. Have you ever needed to create a summary in a different language for a colleague or student? We'll show you how AI can translate your text with ease. 
@@ -21,14 +20,14 @@ Outline:
 - Summarize Survey Feedback
 - suggested questions...
 
-## ???
+## Getting Started
 - If you haven't already, please navigate to the [NoteBookLM website](https://notebooklm.google/){:target="_blank"}.
 - Click on the black **Try NoteboolLM** button and then log on with a Google or Gmail account.
 > NOTE: If you don't have a Google or Gmail account you'll need to click on the small **Create account** link to create an account before you can log in to NotebookLM. If you have any problems logging in, please ask your instructor for help.
 
-<img src="images/5-notebooklm-try.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Try NotebookLM button"><br>
+<img src="images/REPLACE.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="ALT REPLACE"><br>
 
-## ???
+## Summarize Meeting notes
 Before we can start testing, we need to create a new notebook and add some documents and media to it so that it has some source documents to train on and draw from.
 
 1. Download each of the following three documents to use as training data for your notebook in this activity, and please make note of where your web browser is saving them (usually in your Downloads or Desktop folders):
