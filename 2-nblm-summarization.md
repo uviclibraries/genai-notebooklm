@@ -73,4 +73,4 @@ We're going to summarize a transcription of a meeting held via Zoom for a fictit
 ## Summarize YouTube Videos
    - NoteBook LM will also summarize one YouTube video, or multiple YouTube videos... Give it a try in a new notebook!
 
-[NEXT STEP: Brainstorming Stragegies](nblm-brainstorming.html){: .btn .btn-blue }
+[NEXT STEP: Brainstorming Stragegies](3-nblm-brainstorming.html){: .btn .btn-blue }
