@@ -69,4 +69,4 @@ If you have a research topic of your own in mind and have found some articles re
 > - Consider multiple perspectives
 > - Be open to unexpected insights
 
-[NEXT STEP: Summarize Short Answer Survey Feedback](nblm-summarize-survey-text.html){: .btn .btn-blue }
+[NEXT STEP: Summarize Short Answer Survey Feedback](4-nblm-summarize-survey-text.html){: .btn .btn-blue }
