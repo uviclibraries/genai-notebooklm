@@ -70,9 +70,9 @@ Let's go back to the notebook with the three journal articles we've already crea
   > - **Reflection**: What do you think of the quality of the Podcast it created?
   > - **Reflection**: Can you think of any ways that this type of Podcast summary could be useful?
   > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
-3. Study Guide:
-4. Briefing doc:
-5. FAQ:
-6. Timeline:
+3. **Study Guide**:
+4. **Briefing doc**:
+5. **FAQ**:
+6. **Timeline**:
   
 [NEXT STEP: Creating Presentations](5-nblm-presentations.html){: .btn .btn-blue }
