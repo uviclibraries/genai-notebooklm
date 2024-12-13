@@ -21,10 +21,9 @@ Outline:
 ## Getting Started
 Let's go back to the notebook with the three journal articles we've already created, and add a YouTube video to the notebook so that there will be four items for NotebookLM to draw information from:
 
-1. Download each of the following three documents to use as training data for your notebook in this activity, and please make note of where your web browser is saving them (usually in your Downloads or Desktop folders):
-   - [Document 1](images/badge-article.pdf){:target="_blank"}
-   - [Document 2](images/badge-article-2.pdf){:target="_blank"}
-   - [Document 3](images/badge-article-3.pdf){:target="_blank"}
+1. Download the following two documents, each with survey question responses, to use as training data for your notebook in this activity. When you do this for your own survey data, please note that you'll need to export the responses for each survey question you want to analyze into separate documents (using either TXT or PDF formats for both). Please make note of where your web browser is saving the survey response PDF files for this exercise (usually in your Downloads or Desktop folders):
+   - [Survey Question Respons 1](images/survey-question-1.pdf){:target="_blank"}
+   - [Survey Question Respons 2](images/survey-question-1.pdf){:target="_blank"}
 2. Create a new notebook by clicking on the blue **Create new** button on the left side of the screen.
 <img src="images/nblm-create-new.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
 3. Upload the three documents you downloaded by clicking on the blue **choose file** link in the middle of the page.
