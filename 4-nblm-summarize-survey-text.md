@@ -58,8 +58,9 @@ Let's go back to the notebook with the three journal articles we've already crea
 >  - **Reflection**: What potential drawback can you think of from over reliance on GenAI document summaries for your research?
    
 ## Studio Tools
-1. Let's get ready check some of the Studio Tools that come with NotebookLM:
-   - Click on the **Notebook Guide** button on the bottom right of the window. You should now see the notebook guide window.
+1. Let's get ready to check out some of the Studio Tools that come with NotebookLM:
+   - Click on the **Select all sources** checkbox on the bottom right of the window.
+   - If the **Studio** pane is not open on the right side of your browser, click on the expand Studio icon (see) image below. You should now see the **Studio** pane on the right side.
    - ...
    <img src="images/nblm-studio-tools.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Studio Tools"><br>
 2. **Podcast Summary**:
