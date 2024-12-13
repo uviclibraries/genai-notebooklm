@@ -31,26 +31,16 @@ Let's go back to the notebook with the three journal articles we've already crea
 4. Good job! You're now ready to explore ways to summarize the survey responses!
 
 ## Initial Exploration  
-1. Create a list of possible limitations or gaps in the articles and video by typing the following into the chat box and press Enter: ```What are the most significant limitations or gaps mentioned in these studies?```
-  > - **Reflection**: Do the limitations and gaps look reasonable?
-2. Identify some possible surprising or counterintuitive insights from the journal articles and video by typing the following into the chat box and press Enter: ```Extract 2-3 surprising or counterintuitive insights from these journal articles.```
+1. Let's limit our first summary to Survey Question 1:
+   - 
+3. Identify some possible surprising or counterintuitive insights from the journal articles and video by typing the following into the chat box and press Enter: ```Extract 2-3 surprising or counterintuitive insights from these journal articles.```
   - **Reflection**: Are the insights supported by the citations that link to the parts of the article that support the insights?
 3. Identify contradictory findings or interpretations between these journal articles. Type the following into the chat box and press Enter: ```Identify any contradictory findings or interpretations between these studies.```
   - **Reflection**: Are the contradictory findings supported by the citations?
 4. Identify common themes or research questions shared by these articles. Type the following into the chat box and press Enter: ```What common themes or research questions emerge when examining these articles together?```
   - **Reflection**: Do the themes and research questions look reasonable based on what you've read in the articles?
-
-1. Download each of the following three documents to use as training data for your notebook in this activity, and please make note of where your web browser is saving them (usually in your Downloads or Desktop folders):
-   - [Document 1](images/badge-article.pdf){:target="_blank"}
-   - [Document 2](images/badge-article-2.pdf){:target="_blank"}
-   - [Document 3](images/badge-article-3.pdf){:target="_blank"}
-2. Create a new notebook by clicking on the blue **Create new** button on the left side of the screen.
-<img src="images/nblm-create-new.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
-3. Upload the three documents you downloaded by clicking on the blue **choose file** link in the middle of the page.
-<img src="images/nblm-add-docs.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="Add documents"><br>
-4. Good job! You're now ready to explore the Notebook guide.
    
-## ???
+## Studio Tools
 1. Click on the **Notebook Guide** button on the bottom right of the window. You should now see the notebook guide window.
 <img src="images/nblm-summary-auto.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="NotebookLM Auto Summary"><br>
    - Read the Summary that NotebookLM has created. An expert in informal credentialling (or badging) has reviewed the summary, and it is an accurate summary of the information contained in the three journal articles.
