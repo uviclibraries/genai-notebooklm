@@ -30,8 +30,10 @@ Let's go back to the notebook with the three journal articles we've already crea
 <img src="images/nblm-add-surveys3.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="Add Survey Documents"><br>
 4. Good job! You're now ready to explore ways to summarize the survey responses!
 
-## Initial Exploration  
-1. Let's limit our first summary to Survey Question 1:
+## Initial Exploration 
+1. Let's limit our first summary to Survey Question 1 Responses:
+   - De-select **survey-question-2.pdf** file by clicking on the checkbox on the right of the file name.
+   <img src="images/nblm-deselect-q-2.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
    - 
 3. Identify some possible surprising or counterintuitive insights from the journal articles and video by typing the following into the chat box and press Enter: ```Extract 2-3 surprising or counterintuitive insights from these journal articles.```
   - **Reflection**: Are the insights supported by the citations that link to the parts of the article that support the insights?
