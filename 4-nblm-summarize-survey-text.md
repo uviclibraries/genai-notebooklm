@@ -9,7 +9,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 <img src="images/4-survey-logo.jpeg" style="float:right;width:400px;padding:10px;" alt="Decorative">
 In this workshop, we'll explore how GenAI can help you summarize short answer survey responses, to help you quickly understand at a high level the key issues being brought up by respondents for a specific survey question. If you asked multiple questions you'd need to upload the responses for each question in individual documents. We'll also review how to customize these summaries by adjusting the tone, style, and language level.  
 
-> NOTE: Like all other Generative AI tools, NotebookLM will sometimes make mistakes, although because you are providing it with training data, it will likely make fewer mistakes than general purpose Generative AI tools. Always research any factual claims it makes if you are not a subject area expert. 
+> NOTE: Like all other Generative AI tools, NotebookLM will sometimes make mistakes, although because you are providing it with training data, it will likely make fewer mistakes than general purpose Generative AI tools. Always research any factual claims it makes when summarizing survey question responses.
 
 If you have any questions or get stuck as you work through this exercise, please ask the instructor for assistance.
 
