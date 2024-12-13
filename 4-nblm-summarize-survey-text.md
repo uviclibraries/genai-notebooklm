@@ -39,15 +39,9 @@ Let's go back to the notebook with the three journal articles we've already crea
   - **Reflection**: Do the themes and suggestions questions look reasonable based on reading the comments in the _Survey Question 1_ PDF document?
   - **Reflection**: In my response, two instructors are highlighted for being particularly expert and helpful. Do we know if that is because these two instructors teach most of the workshops, and equally expert and helpful instructors teach only a handful of workshops so aren't highlighted by NotebookLM? You don't have the data to evaluate this question, but it would be something to explore if this was your research project.
 4. NotebookLM provides linkable citations for the factual claims or interpretations it makes. Let's see if these citations can help validate NotebookLM's claims:
-  - 
+  - ...
+  <img src="images/nblm-citation-check.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Citation Check"><br>
 5. **OLD WORKSHOP MATERIALS BELOW...**
-
-## Explore Survey Question 2 Responses
-3. ...
-4. Identify contradictory findings or interpretations between these journal articles. Type the following into the chat box and press Enter: ```Identify any contradictory findings or interpretations between these studies.```
-  - **Reflection**: Are the contradictory findings supported by the citations?
-4. Identify common themes or research questions shared by these articles. Type the following into the chat box and press Enter: ```What common themes or research questions emerge when examining these articles together?```
-  
    
 ## Studio Tools
 1. Click on the **Notebook Guide** button on the bottom right of the window. You should now see the notebook guide window.
