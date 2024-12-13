@@ -60,12 +60,9 @@ Let's go back to the notebook with the three journal articles we've already crea
 ## Studio Tools
 1. Let's get ready check some of the Studio Tools that come with NotebookLM:
    - Click on the **Notebook Guide** button on the bottom right of the window. You should now see the notebook guide window.
-   - 
-<img src="images/nblm-summary-auto.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="NotebookLM Auto Summary"><br>
-   - Read the Summary that NotebookLM has created. An expert in informal credentialling (or badging) has reviewed the summary, and it is an accurate summary of the information contained in the three journal articles.
-> **NOTE: You should always double-check the accuracy of the facts and claims made by NotebookLM (and all other GenAI tools), as they sometimes make mistakes or hallucinate.
-> Note: There are several minor hallucinations in the Notebook Guide. The notebook guides DO NOT provide citations that allow you to easily fact-check its responses making it more difficult to verify facts and claims.**
-3. **Podcast Summary**:
+   - ...
+   <img src="images/nblm-studio-tools.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Studio Tools"><br>
+2. **Podcast Summary**:
   - To create a podcast summary, all you need to do is click on the blue **Generate** button. It typically takes between two and five minutes to generate the podcast, and the podcasts seem to be about 10 to 18 minutes long depending on how much information it needs to summarize.<br>
 <img src="images/nblm-generate-podcast.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="NotebookLM Generate Podcast button"><br>
   - Once the podcast has been generated, you can listen to the podcast by clicking on teh light blue play button.
