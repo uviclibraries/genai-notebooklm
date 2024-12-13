@@ -35,7 +35,7 @@ Let's go back to the notebook with the three journal articles we've already crea
    - De-select **survey-question-2.pdf** file by clicking on the checkbox on the right of the file name.<br>
    <img src="images/nblm-deselect-q-2.png" style="width:250px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
    - You will now only be asking questions about the responses to _Survey Question 1_.
-3. Let's ask NotebookLM to summarize the responses to _Survey Question 1_ by typing the following into the chat box and pressing Enter: ```PUT PROMPT HERE.```
+3. Let's ask NotebookLM to summarize the responses to _Survey Question 1_ by typing the following into the chat box and pressing Enter: ```Please analyze the following short-answer survey responses from participants who attended a university-level workshop. Summarize the key feedback by identifying recurring themes, specific suggestions for improvement, and notable positive aspects. Highlight actionable insights and any patterns in participant opinions. Present the findings clearly, categorizing them into strengths, areas for improvement, and additional comments or suggestions. Ensure the summary is concise and easy to understand.```
   - **Reflection**: Are the insights supported by the citations that link to the parts of the article that support the insights?
 4. **OLD WORKSHOP MATERIALS BELOW...**
 3.Identify contradictory findings or interpretations between these journal articles. Type the following into the chat box and press Enter: ```Identify any contradictory findings or interpretations between these studies.```
