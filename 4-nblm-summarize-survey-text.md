@@ -26,9 +26,9 @@ Let's go back to the notebook with the three journal articles we've already crea
    - [Survey Question Respons 2](images/survey-question-2.pdf){:target="_blank"}
 2. Create a new notebook by clicking on the blue **Create new** button on the left side of the screen.
 <img src="images/nblm-create-new.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
-3. Upload the three documents you downloaded by clicking on the blue **choose file** link in the middle of the page.
+3. Upload the two documents you downloaded by clicking on the blue **choose file** link in the middle of the page.
 <img src="images/nblm-add-surveys.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="Add Survey Documents"><br>
-4. Good job! You're now ready to...
+4. Good job! You're now ready to explore ways to summarize the survey responses!
 
 ## Initial Exploration  
 1. Create a list of possible limitations or gaps in the articles and video by typing the following into the chat box and press Enter: ```What are the most significant limitations or gaps mentioned in these studies?```
