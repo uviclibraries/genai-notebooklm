@@ -23,12 +23,12 @@ Let's go back to the notebook with the three journal articles we've already crea
 
 1. Download the following two documents, each with survey question responses, to use as training data for your notebook in this activity. When you do this for your own survey data, please note that you'll need to export the responses for each survey question you want to analyze into separate documents (using either TXT or PDF formats for both). Please make note of where your web browser is saving the survey response PDF files for this exercise (usually in your Downloads or Desktop folders):
    - [Survey Question Respons 1](images/survey-question-1.pdf){:target="_blank"}
-   - [Survey Question Respons 2](images/survey-question-1.pdf){:target="_blank"}
+   - [Survey Question Respons 2](images/survey-question-2.pdf){:target="_blank"}
 2. Create a new notebook by clicking on the blue **Create new** button on the left side of the screen.
 <img src="images/nblm-create-new.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
 3. Upload the three documents you downloaded by clicking on the blue **choose file** link in the middle of the page.
-<img src="images/nblm-add-docs.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="Add documents"><br>
-4. Good job! You're now ready to explore the Notebook guide.
+<img src="images/nblm-add-surveys.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="Add Survey Documents"><br>
+4. Good job! You're now ready to...
 
 ## Initial Exploration  
 1. Create a list of possible limitations or gaps in the articles and video by typing the following into the chat box and press Enter: ```What are the most significant limitations or gaps mentioned in these studies?```
