@@ -55,10 +55,12 @@ Let's go back to the notebook with the three journal articles we've already crea
   - You might want to try a follow-up question like: ```Please expand on the Actionable Insights section.```
 > - **Reflection**: What do you think of the quality of the summaries it created?
 > - **Reflection**: Could this help you in your research workflow? If so where, and would it be worth your time and effort to work on your prompting skills to make the most of NotebookLM features?
->  - **Reflection**: What potential drawback can you think of from over relyance on GenAI document summaries for your research?
+>  - **Reflection**: What potential drawback can you think of from over reliance on GenAI document summaries for your research?
    
 ## Studio Tools
-1. Click on the **Notebook Guide** button on the bottom right of the window. You should now see the notebook guide window.
+1. Let's get ready check some of the Studio Tools that come with NotebookLM:
+   - Click on the **Notebook Guide** button on the bottom right of the window. You should now see the notebook guide window.
+   - 
 <img src="images/nblm-summary-auto.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="NotebookLM Auto Summary"><br>
    - Read the Summary that NotebookLM has created. An expert in informal credentialling (or badging) has reviewed the summary, and it is an accurate summary of the information contained in the three journal articles.
 > **NOTE: You should always double-check the accuracy of the facts and claims made by NotebookLM (and all other GenAI tools), as they sometimes make mistakes or hallucinate.
