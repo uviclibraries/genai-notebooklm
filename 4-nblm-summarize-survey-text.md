@@ -26,7 +26,7 @@ Let's go back to the notebook with the three journal articles we've already crea
    - [Survey Question Respons 2](images/survey-question-2.pdf){:target="_blank"}
 2. Create a new notebook by clicking on the blue **Create new** button on the left side of the screen.
 <img src="images/nblm-create-new.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
-3. Upload the two documents you downloaded by clicking on the blue **choose file** link in the middle of the page.
+3. Upload the two documents you downloaded by clicking on the blue **choose file** link in the middle of the page. You'll need to either select the two documents, and add them together, or do as the video below shows and add them individually:
 <img src="images/nblm-add-surveys.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="Add Survey Documents"><br>
 4. Good job! You're now ready to explore ways to summarize the survey responses!
 
