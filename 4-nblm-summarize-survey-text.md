@@ -48,7 +48,7 @@ Let's go back to the notebook with the three journal articles we've already crea
 <img src="images/nblm-close-source-guide.png" style="width:250px;padding:10px;border: 1px solid #555;" alt="Citation Check"><br>
 6. Let's check our Survey Question 2 responses:
   - Click on the Sources checkbox to select **survey-question-2.pdf** and deselect the **survey-question-1.pdf** document.<br>
-  <img src="images/nblm-deselect-q-1.png.png" style="width:250px;padding:10px;border: 1px solid #555;" alt="Deselect document 1 and select document 2"><br>
+  <img src="images/nblm-deselect-q-1.png" style="width:250px;padding:10px;border: 1px solid #555;" alt="Deselect document 1 and select document 2"><br>
   - 
   
 5. **OLD WORKSHOP MATERIALS BELOW...**
