@@ -19,14 +19,27 @@ Outline:
 - Summarize feedback from a second free-form survey question.
 
 ## Getting Started
-- If you haven't already, please navigate to the [NoteBookLM website](https://notebooklm.google/){:target="_blank"}.
-- Click on the black **Try NoteboolLM** button and then log on with a Google or Gmail account.
-> NOTE: If you don't have a Google or Gmail account you'll need to click on the small **Create account** link to create an account before you can log in to NotebookLM. If you have any problems logging in, please ask your instructor for help.
+Let's go back to the notebook with the three journal articles we've already created, and add a YouTube video to the notebook so that there will be four items for NotebookLM to draw information from:
 
-<img src="images/REPLACE.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="ALT REPLACE"><br>
+1. Download each of the following three documents to use as training data for your notebook in this activity, and please make note of where your web browser is saving them (usually in your Downloads or Desktop folders):
+   - [Document 1](images/badge-article.pdf){:target="_blank"}
+   - [Document 2](images/badge-article-2.pdf){:target="_blank"}
+   - [Document 3](images/badge-article-3.pdf){:target="_blank"}
+2. Create a new notebook by clicking on the blue **Create new** button on the left side of the screen.
+<img src="images/nblm-create-new.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
+3. Upload the three documents you downloaded by clicking on the blue **choose file** link in the middle of the page.
+<img src="images/nblm-add-docs.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="Add documents"><br>
+4. Good job! You're now ready to explore the Notebook guide.
 
-## Summarize Meeting notes
-Before we can start testing, we need to create a new notebook and add some documents and media to it so that it has some source documents to train on and draw from.
+## Initial Exploration  
+1. Create a list of possible limitations or gaps in the articles and video by typing the following into the chat box and press Enter: ```What are the most significant limitations or gaps mentioned in these studies?```
+  > - **Reflection**: Do the limitations and gaps look reasonable?
+2. Identify some possible surprising or counterintuitive insights from the journal articles and video by typing the following into the chat box and press Enter: ```Extract 2-3 surprising or counterintuitive insights from these journal articles.```
+  - **Reflection**: Are the insights supported by the citations that link to the parts of the article that support the insights?
+3. Identify contradictory findings or interpretations between these journal articles. Type the following into the chat box and press Enter: ```Identify any contradictory findings or interpretations between these studies.```
+  - **Reflection**: Are the contradictory findings supported by the citations?
+4. Identify common themes or research questions shared by these articles. Type the following into the chat box and press Enter: ```What common themes or research questions emerge when examining these articles together?```
+  - **Reflection**: Do the themes and research questions look reasonable based on what you've read in the articles?
 
 1. Download each of the following three documents to use as training data for your notebook in this activity, and please make note of where your web browser is saving them (usually in your Downloads or Desktop folders):
    - [Document 1](images/badge-article.pdf){:target="_blank"}
