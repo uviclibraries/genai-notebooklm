@@ -16,7 +16,7 @@ If you have any questions or get stuck as you work through this exercise, please
 Outline:
 - Summarize feedback from all responses to a single free-form survey question.
 - Use different prompt strategies to customize the summary by using, personas, examples, tone, vocabulary level, and voice.
-- Summarize feedback from a second free-form survey question.
+- Explore the usefulness of NotebookLM citations, in particular how they take you to the passages in the document that they used to support their summary of information. This is a very useful verification tool.
 
 ## Getting Started
 Let's go back to the notebook with the three journal articles we've already created, and add a YouTube video to the notebook so that there will be four items for NotebookLM to draw information from:
@@ -50,6 +50,8 @@ Let's go back to the notebook with the three journal articles we've already crea
   - Click on the Sources checkbox to select **survey-question-2.pdf** and deselect the **survey-question-1.pdf** document.<br>
   <img src="images/nblm-deselect-q-1.png" style="width:250px;padding:10px;border: 1px solid #555;" alt="Deselect document 1 and select document 2"><br>
   - Let's ask NotebookLM to summarize the responses to _Survey Question 2_ by typing the following into the chat box and pressing Enter: ```Please analyze the following short-answer survey responses from participants who attended a university-level workshop. Summarize the key feedback by identifying recurring themes, specific suggestions for improvement, and notable positive aspects. Highlight actionable insights and any patterns in participant opinions. Present the findings clearly, categorizing them into strengths, areas for improvement, and additional comments or suggestions. Ensure the summary is concise and easy to understand.```
+  - Note that the summary is shorter for the responses to Survey Question 2. This isn't surprising as about half the number of people responded to this survey questioin compared to Question 1.
+  - Try looking at the citations to see how reasonable they look.
   
 5. **OLD WORKSHOP MATERIALS BELOW...**
    
