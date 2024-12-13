@@ -22,8 +22,8 @@ Outline:
 Let's go back to the notebook with the three journal articles we've already created, and add a YouTube video to the notebook so that there will be four items for NotebookLM to draw information from:
 
 1. Download the following two documents, each with survey question responses, to use as training data for your notebook in this activity. When you do this for your own survey data, please note that you'll need to export the responses for each survey question you want to analyze into separate documents (using either TXT or PDF formats for both). Please make note of where your web browser is saving the survey response PDF files for this exercise (usually in your Downloads or Desktop folders):
-   - [Survey Question Respons 1](images/survey-question-1.pdf){:target="_blank"}
-   - [Survey Question Respons 2](images/survey-question-2.pdf){:target="_blank"}
+   - [Survey Question Response 1](images/survey-question-1.pdf){:target="_blank"}
+   - [Survey Question Response 2](images/survey-question-2.pdf){:target="_blank"}
 2. Create a new notebook by clicking on the blue **Create new** button on the left side of the screen.
 <img src="images/nblm-create-new.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
 3. Upload the two documents you downloaded by clicking on the blue **choose file** link in the middle of the page. You'll need to either select the two documents, and add them together, or do as the video below shows and add them individually:<br>
@@ -34,10 +34,11 @@ Let's go back to the notebook with the three journal articles we've already crea
 1. Let's limit our first summary to Survey Question 1 Responses:
    - De-select **survey-question-2.pdf** file by clicking on the checkbox on the right of the file name.<br>
    <img src="images/nblm-deselect-q-2.png" style="width:250px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
-   - 
-3. Identify some possible surprising or counterintuitive insights from the journal articles and video by typing the following into the chat box and press Enter: ```Extract 2-3 surprising or counterintuitive insights from these journal articles.```
+   - You will now only be asking questions about the responses to _Survey Question 1_.
+3. Let's ask NotebookLM to summarize the responses to _Survey Question 1_ by typing the following into the chat box and pressing Enter: ```PUT PROMPT HERE.```
   - **Reflection**: Are the insights supported by the citations that link to the parts of the article that support the insights?
-3. Identify contradictory findings or interpretations between these journal articles. Type the following into the chat box and press Enter: ```Identify any contradictory findings or interpretations between these studies.```
+4. **OLD WORKSHOP MATERIALS BELOW...**
+3.Identify contradictory findings or interpretations between these journal articles. Type the following into the chat box and press Enter: ```Identify any contradictory findings or interpretations between these studies.```
   - **Reflection**: Are the contradictory findings supported by the citations?
 4. Identify common themes or research questions shared by these articles. Type the following into the chat box and press Enter: ```What common themes or research questions emerge when examining these articles together?```
   - **Reflection**: Do the themes and research questions look reasonable based on what you've read in the articles?
