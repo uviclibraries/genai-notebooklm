@@ -61,16 +61,18 @@ Let's go back to the notebook with the three journal articles we've already crea
 1. Let's get ready to check out some of the Studio Tools that come with NotebookLM:
    - Click on the **Select all sources** checkbox on the bottom right of the window.
    - If the **Studio** pane is not open on the right side of your browser, click on the expand Studio icon (see) image below. You should now see the **Studio** pane on the right side.
-   - ...
    <img src="images/nblm-studio-tools.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Studio Tools"><br>
 2. **Podcast Summary**:
-  - To create a podcast summary, all you need to do is click on the blue **Generate** button. It typically takes between two and five minutes to generate the podcast, and the podcasts seem to be about 10 to 18 minutes long depending on how much information it needs to summarize.<br>
-<img src="images/nblm-generate-podcast.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="NotebookLM Generate Podcast button"><br>
-  - Once the podcast has been generated, you can listen to the podcast by clicking on teh light blue play button.
+  - To create a podcast summary, all you need to do is click on the blue **Generate** button (see image above). It typically takes between two and five minutes to generate the podcast, and the podcasts seem to be about 10 to 18 minutes long depending on how much information it needs to summarize.<br>
+  - Once the podcast has been generated, you can listen to the podcast by clicking on the light blue play button.
   - To download the podcast to your computer to share with other people click on the **three vertical dots** to the right of the play button and then click on the **Download** button.
   - If you don't want to wait for NotebookLM to create the podcast you can listen to the version it created for the DSC: [Podcast Summary Audio](images/nblm-podcast-summary.mp3){:target="_blank"} (12-min).
   > - **Reflection**: What do you think of the quality of the Podcast it created?
   > - **Reflection**: Can you think of any ways that this type of Podcast summary could be useful?
   > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
+3. Study Guide:
+4. Briefing doc:
+5. FAQ:
+6. Timeline:
   
 [NEXT STEP: Creating Presentations](5-nblm-presentations.html){: .btn .btn-blue }
