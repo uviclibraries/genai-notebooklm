@@ -39,8 +39,18 @@ Let's go back to the notebook with the three journal articles we've already crea
   - **Reflection**: Do the themes and suggestions questions look reasonable based on reading the comments in the _Survey Question 1_ PDF document?
   - **Reflection**: In my response, two instructors are highlighted for being particularly expert and helpful. Do we know if that is because these two instructors teach most of the workshops, and equally expert and helpful instructors teach only a handful of workshops so aren't highlighted by NotebookLM? You don't have the data to evaluate this question, but it would be something to explore if this was your research project.
 4. NotebookLM provides linkable citations for the factual claims or interpretations it makes. Let's see if these citations can help validate NotebookLM's claims:
-  - ...
-  <img src="images/nblm-citation-check.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Citation Check"><br>
+  - Click on the first citation link which is a **1** in a little grey circle.
+  - The Source guide with appear on the right side of the NotebookLM interface. Please read the highlighted passage to see if it supports the claim that it's supposed to support. Does it seem accurate?
+<img src="images/nblm-citation-check.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Citation Check"><br>
+  - Click on the second citation link which is a **2** in a little grey circle. Does the highlighted passage support the claim that it's supposed to support?
+  - Feel free to check out further citations in the document to see how it's done.
+5. Now close the **Source guide** by clicking on the little icon in the top right corner of the Source guide area (see image below).
+<img src="images/nblm-close-source-guide.png" style="width:250px;padding:10px;border: 1px solid #555;" alt="Citation Check"><br>
+6. Let's check our Survey Question 2 responses:
+  - Click on the Sources checkbox to select **survey-question-2.pdf** and deselect the **survey-question-1.pdf** document.<br>
+  <img src="images/nblm-deselect-q-1.png.png" style="width:250px;padding:10px;border: 1px solid #555;" alt="Deselect document 1 and select document 2"><br>
+  - 
+  
 5. **OLD WORKSHOP MATERIALS BELOW...**
    
 ## Studio Tools
