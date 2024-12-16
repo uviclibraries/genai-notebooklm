@@ -50,7 +50,7 @@ Before we can start testing, we need to create a new notebook and add some docum
   > - **Reflection**: Can you think of any ways that this type of Podcast summary could be useful?
   > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
 5. **Briefing Document**:
-  - Briefing documents and a quick way to understand the contents of the documents in your notebook. **NOTE**: NotebookLM does not provide inline citations in this type of document like it does when it responds to your prompts, which makes verifying factual claims more time-consuming.
+  - Briefing documents are a quick way to understand the contents of the documents in your notebook. **NOTE**: NotebookLM does not provide inline citations in this type of document like it does when it responds to your prompts, which makes verifying factual claims more time-consuming.
   - To create a briefing document simpley click on the **Notebook guide** link on the bottom right of the page, and then click on the **Briefing Document** button. It will take 30-60 seconds to generate the briefing guide.<br>
     <img src="images/nblm-briefing-doc-button.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="Briefing Document Button"><br>
   > - **Reflection**: What do you think of the quality of the Briefing Document?
