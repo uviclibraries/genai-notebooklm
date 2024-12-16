@@ -33,7 +33,7 @@ Let's go back to the notebook with the three journal articles we've already crea
 ## Initial Exploration of Survey Question 1 Responses
 1. Let's limit our first summary to Survey Question 1 Responses:
    - De-select **survey-question-2.pdf** file by clicking on the checkbox on the right of the file name.<br>
-   <img src="images/nblm-deselect-q-2.png" style="width:250px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
+   <img src="images/nblm-deselect-q-2.png" style="width:250px;padding:20px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
    - You will now only be asking questions about the responses to _Survey Question 1_.
 3. Let's ask NotebookLM to summarize the responses to _Survey Question 1_ by typing the following into the chat box and pressing Enter: ```Please analyze the following short-answer survey responses from participants who attended a university-level workshop. Summarize the key feedback by identifying recurring themes, specific suggestions for improvement, and notable positive aspects. Highlight actionable insights and any patterns in participant opinions. Present the findings clearly, categorizing them into strengths, areas for improvement, and additional comments or suggestions. Ensure the summary is concise and easy to understand.```
   - **Reflection**: Do the themes and suggestions questions look reasonable based on reading the comments in the _Survey Question 1_ PDF document?
@@ -70,8 +70,7 @@ Let's go back to the notebook with the three journal articles we've already crea
   > - **Reflection**: What do you think of the quality of the Podcast it created?
   > - **Reflection**: Can you think of any ways that this type of Podcast summary could be useful?
   > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
-4. **Briefing doc**:
-<img src="images/nblm-studio-notes.png" style="float:right;width:300px;padding:10px;border: 1px solid #555;" alt="Studio Notes">
+4. **Briefing doc**:<img src="images/nblm-studio-notes.png" style="float:right;width:300px;padding:10px;border: 1px solid #555;" alt="Studio Notes">
 - Briefing documents are a quick way to summarize and understand the contents of the survey feedback information in your notebook in a general way. **NOTE**: NotebookLM does not provide inline citations in this type of document like it does when it responds to your prompts, which makes verifying factual claims more time-consuming.
   - To create a briefing document simpley click on the **Briefing Document** button on the right side of the page. It will take 30-60 seconds to generate the briefing document.<br>
   - Once it is finished creating your briefing document summary click on the document link directly below Studio Buttons on the right side of the page, and scan through the summary
