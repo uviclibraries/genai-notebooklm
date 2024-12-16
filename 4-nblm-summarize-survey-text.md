@@ -76,8 +76,8 @@ Let's go back to the notebook with the three journal articles we've already crea
   - Once it is finished creating your briefing document summary click on the document link directly below Studio Buttons on the right side of the page, and scan through the summary
   > - **Reflection**: What do you think of the quality of the Summary?
   > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created summary?
-5. **FAQ**: 
+5. **FAQ**: This is probably not a very useful tool in the context of evaluating short-answer survey feedback, but feel free to give it a try and let the instructor know if you find anything useful there!
 6.  **Study Guide**: This is probably not a very useful tool in the context of summarizing and evaluating short answer survey feedback, but feel free to click the **Study Guide** button and let the instructor know if you find anything useful there!
-7. **Timeline**:
+7. **Timeline**: If there are no dates in the free form survey feedback, NotebookLM will not be able to generate a timeline. That said, give it a try and see what happens!
   
 [NEXT STEP: Creating Presentations](5-nblm-presentations.html){: .btn .btn-blue }
