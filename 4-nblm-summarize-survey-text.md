@@ -71,7 +71,7 @@ Let's go back to the notebook with the three journal articles we've already crea
   > - **Reflection**: Can you think of any ways that this type of Podcast summary could be useful?
   > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
 4. **Briefing doc**:<br>
-<img src="images/nblm-studio-notes.png" style="width:300px;padding:10px;border: 1px solid #555;" alt="Studio Notes"><br>
+<img src="images/nblm-studio-notes.png" style="float:right;width:300px;padding:10px;border: 1px solid #555;" alt="Studio Notes"><br>
 - Briefing documents are a quick way to summarize and understand the contents of the survey feedback information in your notebook in a general way. **NOTE**: NotebookLM does not provide inline citations in this type of document like it does when it responds to your prompts, which makes verifying factual claims more time-consuming.
   - To create a briefing document simpley click on the **Briefing Document** button on the right side of the page. It will take 30-60 seconds to generate the briefing document.<br>
   - Once it is finished creating your briefing document summary click on the document link directly below Studio Buttons on the right side of the page, and scan through the summary
