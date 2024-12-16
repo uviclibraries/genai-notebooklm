@@ -44,11 +44,11 @@ Let's go back to the notebook with the three journal articles we've already crea
 <img src="images/nblm-citation-check.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Citation Check"><br>
   - Click on the second citation link which is a **2** in a little grey circle. Does the highlighted passage support the claim that it's supposed to support?
   - Feel free to check out further citations in the document to see how it's done.
-5. Now close the **Source guide** by clicking on the little icon in the top right corner of the Source guide area (see image below).<br>
-<img src="images/nblm-close-source-guide.png" style="float:right;width:250px;padding:10px;border: 1px solid #555;" alt="Citation Check"><br>
+5. Now close the **Source guide** by clicking on the little icon in the top right corner of the Source guide area (see image below).
+<img src="images/nblm-close-source-guide.png" style="float:right;width:250px;padding:10px;border: 1px solid #555;" alt="Citation Check">
 6. Let's check our Survey Question 2 responses:
-  - Click on the Sources checkbox to select **survey-question-2.pdf** and deselect the **survey-question-1.pdf** document.<br>
-  <img src="images/nblm-deselect-q-1.png" style="float:right;width:250px;padding:10px;border: 1px solid #555;" alt="Deselect document 1 and select document 2"><br>
+  - Click on the Sources checkbox to select **survey-question-2.pdf** and deselect the **survey-question-1.pdf** document.
+  <img src="images/nblm-deselect-q-1.png" style="float:right;width:250px;padding:10px;border: 1px solid #555;" alt="Deselect document 1 and select document 2">
   - Let's ask NotebookLM to summarize the responses to _Survey Question 2_ by typing the following into the chat box and pressing Enter: ```Please analyze the following short-answer survey responses from participants who attended a university-level workshop. Summarize the key feedback by identifying recurring themes, specific suggestions for improvement, and notable positive aspects. Highlight actionable insights and any patterns in participant opinions. Present the findings clearly, categorizing them into strengths, areas for improvement, and additional comments or suggestions. Ensure the summary is concise and easy to understand.```
   - Note that the summary is shorter for the responses to Survey Question 2. This isn't surprising as about half the number of people responded to this survey question compared to Question 1.
   - Try looking at the citations to see how reasonable they look.
