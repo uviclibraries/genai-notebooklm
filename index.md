@@ -25,5 +25,8 @@ At the end of this workshop, you will be able to:
 7. Ideation & Brainstorming: Evaluate a group of journal articles for gaps in the literature and potential research questions to fill those gaps or explore a related topic.
 8. Summarize Survey Feedback: Summarize large numbers of short-answer survey responses, to help you quickly understand the key issues being brought up by respondents. 
 9. Presentation Assistance: Based on a journal article create a script along with slide titles for a Presentation with Google Slides or Microsoft PowerPoint.
+
+## GenAI Workshop Pathways
+This workshop is part of a series designed to help us build our understanding and skills in using Generative AI for research and productivity: [UVic Libraries Generative AI Workshop Pathway](https://lib.uvic.ca/genai-pathways){:target="_blank"}
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
