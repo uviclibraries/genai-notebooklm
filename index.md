@@ -24,6 +24,9 @@ At the end of this workshop, you will be able to:
 4. Create Research Summaries: Efficiently summarize and analyze research literature such as journal articles, reports, presentations and videos including citations. Verify all facts and claims.
 5. Brainstorming & ideation: Use NotebookLM for creative tasks, such as topic brainstorming and ideation for research topics.
 6. Translation: Create a summary of a document (or group of documents) in another language (if possible in a language that you can fact-check in real time for accuracy)
-8. Best practices: Describe the best practices for using NotebookLM, including fact-checking claims, being mindful of potential biases, & maintaining critical thinking in all phases of study and research
+7. Ideation & Brainstorming: Evaluate a group of journal articles for gaps in the literature and potential research questions to fill those gaps or explore a related topic.
+8. Summarize Research Feedback: Summarize large numbers of short-answer survey responses, to help you quickly understand at a high level the key issues being brought up by respondents for a specific survey question. 
+9. Presentation Assistance: Based on a journal article create a script along with slide titles for a Presentation with Google Slides or Microsoft PowerPoint.
+10. Best practices: Describe the best practices for using NotebookLM, including fact-checking claims, being mindful of potential biases, & maintaining critical thinking in all phases of study and research
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
