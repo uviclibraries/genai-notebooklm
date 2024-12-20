@@ -29,9 +29,10 @@ Unlike the first activity in this workshop where we used three articles as train
 <img src="images/5-one-article-selected.png" style="float:right;width:300px;padding:10px;border: 1px solid #555;" alt="Only one article selected">
 1. Click on the checked boxes beside, **badge-article-2.pdf** & **badge-article-3.pdf** to deselect these two articles so that NoteboolLM will only use the one remaining selected article to respond to your prompts.
 2. In the chat box at the bottom of the page copy and paste the following prompt: ```Please help me create a 10 minute long presentation, with slide titles, and detailed speaker notes, with minimal text on the slides. The audience is a group of graduate students and professors. Start the presentation with an interesting and compelling story.```
-3. Read over the presentation summary and as you do ask yourself the following questions: 
-  > - What has it done well?
-  > - What has it not done well?
+3. Review the presentation text to make sure there are not mistakes or inaccuracies. As you read the text, ask yourself the following questions: 
+> - What has it done well?
+> - What has it not done well?
+> - What mistakes had it made?
 4. Click on the grey **Save to Note** button on the bottom left of the bottom left of the web page. 
 <img src="images/5-save-to-note.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="Save to Note button">
 5. Note that after you click the Save to Note button, a new item will appear in the bottom half of the "Studio" panel on the right of the web app. The auto-generated title for my note was, "**Digital Badges: Empowering...**"
