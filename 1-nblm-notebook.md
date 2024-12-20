@@ -51,7 +51,7 @@ Before we can start testing, we need to create a new notebook and add some docum
   > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
 5. **Briefing Document**:
   - Briefing documents are a quick way to understand the contents of the documents in your notebook. **NOTE**: NotebookLM does not provide inline citations in this type of document like it does when it responds to your prompts, which makes verifying factual claims more time-consuming.
-  - To create a briefing document simpley click on the **Notebook guide** link on the bottom right of the page, and then click on the **Briefing Document** button. It will take 30-60 seconds to generate the briefing guide.<br>
+  - To create a briefing document simply click on the **breifing doc** button. It will take 30-60 seconds to generate the briefing guide unnder notes (this will be titled a Digital Badges: Comprehensive Overview).<br>
     <img src="images/nblm-briefing-doc-button.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="Briefing Document Button"><br>
   > - **Reflection**: What do you think of the quality of the Briefing Document?
   > - **Reflection**: Can you think of any ways that you would find this kind of summary useful?
@@ -59,28 +59,21 @@ Before we can start testing, we need to create a new notebook and add some docum
 6. **Study Guide**:
   - Study guides are a great way to test your knowledge of a topic using GenAI-generated short answer questions with the answers to those questions available to you to check to see how you did.
   - The study guide also contains essay questions, with no answers, and a glossary of terms that could potentially be quite helpful.
-  - To create a study guide simpley click on the **Notebook guide** link on the bottom right of the page, and then click on the **Study Guide** button. It will take 30-60 seconds to generate the study guide.<br>
+  - To create a study guide simply click on the **Study Guide** button. It will take 30-60 seconds to generate the study guide.<br>
     <img src="images/nblm-study-guide-button.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="Study Guide Button"><br>
   > - **Reflection**: What do you think of the quality of the Study Guide questions and answers?
   > - **Reflection**: Can you think of any ways that you would find this kind of Study Guide useful?
   > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created study guide?
 7. **Timeline**:
   - The Timeline summary lists major events recorded in all of the documents in chronological order. This can be quite helpful especially when you are working with more than one or two documents, as NotebookLM nicely organizes them by date with a short summary for each.
-  - To create a timeline simpley click on the **Notebook guide** link on the bottom right of the page, and then click on the **Timeline** button. It will take 30-60 seconds to generate the timeline.<br>
+  - To create a timeline simply click on the **Timeline** button. It will take 30-60 seconds to generate the timeline.<br>
     <img src="images/nblm-timeline-button.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="Timeline Button"><br>
   > - **Reflection**: What do you think of the quality of the Timeline dates and summaries? Did it miss anything?
   > - **Reflection**: Can you think of any ways that you would find a Timeline useful?
   > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Timeline?
-8. **Table of Contents**:
-  - The Table of Contents feature creates a summary for each of the documents in your notebook. This could help you identify which document contains specific information or a particular concept.
-  - To create a Table of Contents summary simpley click on the **Notebook guide** link on the bottom right of the page, and then click on the **Table of Contents** button. It will take 30-60 seconds to generate the timeline.<br>
-    <img src="images/nblm-toc-button.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="Table of Contents Button"><br>
-  > - **Reflection**: What do you think of the quality of the Table of Contents for each document?
-  > - **Reflection**: How might you use the Table of Contents for research or productivity purposes?
-  > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created FAQs?
-9. **Frequently Asked Questions**:
+8. **Frequently Asked Questions**:
   - The Frequently Asked Questions feature creates a summary for each of the documents in your notebook. This could help you identify which document contains specific information or a particular concept.
-  - To create a timeline simpley click on the **Notebook guide** link on the bottom right of the page, and then click on the **Timeline** button. It will take 30-60 seconds to generate the timeline.<br>
+  - To create a timeline simply click on the **Timeline** button. It will take 30-60 seconds to generate the timeline.<br>
     <img src="images/nblm-faq-button.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="Timeline Button"><br>
   > - **Reflection**: What do you think of the quality of the Frequently Asked Questions (FAQ)?
   > - **Reflection**: Could the FAQ be helpful for studying or reviewing in a course?
