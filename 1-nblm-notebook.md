@@ -34,9 +34,9 @@ Before we can start testing, we need to create a new notebook and add some docum
 4. Good job! You're now ready to explore the Notebook guide.
    
 ## Exploring the Notebook Guide 
-1. Click on the **Notebook Guide** button on the bottom right of the window. You should now see the notebook guide window.
-<img src="images/nblm-summary-auto.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="NotebookLM Auto Summary"><br>
-   - Read the Summary that NotebookLM has created. An expert in informal credentialling (or badging) has reviewed the summary, and it is an accurate summary of the information contained in the three journal articles.
+1. Each individual article will have a summary when you click it on the left side pannel of the sources.
+   - For all 3 articles it will be visible (see photo example), the sentence starts with Three sources explore the use of digital badges in education and professional development... An expert in informal credentialling (or badging) has reviewed the summary, and it is an accurate summary of the information contained in the three journal articles.
+<img src="images/nblm-summary.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="Summary"><br>
 > **NOTE: You should always double-check the accuracy of the facts and claims made by NotebookLM (and all other GenAI tools), as they sometimes make mistakes or hallucinate.
 > Note: There are several minor hallucinations in the Notebook Guide. The notebook guides DOES NOT provide citations that can be easily fact-check making it more difficult to verify its facts and claims.**
 3. **Podcast Summary**:
