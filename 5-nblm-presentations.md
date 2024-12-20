@@ -39,7 +39,7 @@ Unlike the first activity in this workshop where we used three articles as train
 <img src="images/5-note-title.png" style="float:right;width:300px;padding:10px;border: 1px solid #555;" alt="Note title">
 6. **Click** on the note, and then **Copy and Paste** the text from the note into a Word or Google Doc. Now that the presentation outline is in an editable document you can personalize the content, wording, and ordering, as well as correct any factual errors that it's made.
 
-## Upgrade the Presentation
+## Customize the Presentation
 7. Prompt for a better intro story...
 8. Title
 3. In the chat box at the bottom of the page type: Create a Google Slides presentation summary.
@@ -50,26 +50,19 @@ Unlike the first activity in this workshop where we used three articles as train
 
    
 ## Create an Image for Each Slide
-5. Go to Meta.ai to create the images (as of December 2024 the free Google Gemini image creator is not nearly as good as the free Meta.ai image generator:
-- Create a blank Google Slide or PowerPoint presentation:
-- Reflections:
-  - Would creating the text summary of the presentation save you time?
-    - How much editing of the text would you need to do to get it to a quality level you’d be happy with (if any)?
-    - Were there any factual errors in the presentation text?
-    - Are there any major points or concepts that NotebookLM missed?
-  - Would creating the images for the presentation save you time?
-    - Are you happy with the quality of the images?
-    - What other options do you have to include imagery in your presentations?
-  - What are potential moral and legal issues that the GenAI companies are dealing with about the training data they are using to create these images?
+5. Let's go to [Meta.ai](https://www.meta.ai/){:target="_blank"} to create the images (as of December 2024 Google's free Gemini image creator is not nearly as good as the free Meta.ai image generator)
+6. Prompt for the title page
+7. Prompt for story page
+8. Prompt for 3rd page.
  
-## Reflection:
-> - Would creating the text summary of the presentation save you time? 
->    - How much editing of the text would you need to do to get it to a quality level you’d be happy with (if any)?
->    - Were there any factual errors in the presentation text?
->    - Are there any major points or concepts that NotebookLM missed?
-> - Would creating the images for the presentation save you time?
->    - Are you happy with the quality of the images?
->    - What other options do you have to include imagery in your presentations?
->    - Are there any potential moral and legal issues around the images, videos, audio and text the GenAI companies are using for training data?
+## Reflection
+> Would creating the text summary of the presentation save you time? 
+>  - How much editing of the text would you need to do to get it to a quality level you’d be happy with (if any)?
+>  - Were there any factual errors in the presentation text?
+>  - Are there any major points or concepts that NotebookLM missed?
+> Would creating the images for the presentation save you time?
+>  - Are you happy with the quality of the images?
+>  - What other options do you have to include imagery in your presentations?
+>  - Are there any potential moral and legal issues around the images, videos, audio and text the GenAI companies are using for training data?
 
 [NEXT STEP: NEXT ACTIVITY HERE](6-NEW-LINK-HERE.html){: .btn .btn-blue }
