@@ -79,6 +79,8 @@ Before we can start testing, we need to create a new notebook and add some docum
   > - **Reflection**: Could the FAQ be helpful for studying or reviewing in a course?
   > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created FAQs?
 
+Note: there is no more **table of contents** feature or button. 
+
 ## Chatting with Your Notebook
 In the following activities, we'll experiment with some interactive chat techniques with the documents to explore what else NotebookLM can do for you!
   
