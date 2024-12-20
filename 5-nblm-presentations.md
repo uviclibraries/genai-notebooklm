@@ -28,10 +28,16 @@ If you have any questions or get stuck as you work through this exercise, please
 Unlike the first activity in this workshop where we used three articles as training data, in this activity we are using only one of them to create a presentation (in either PowerPoint or Google Slides). This is to replicate a typical use case where you've written an assignment or journal article and need to create an accompanying presentation for it. Let's get started:
 <img src="images/5-one-article-selected.png" style="float:right;width:300px;padding:10px;border: 1px solid #555;" alt="Only one article selected">
 1. Click on the checked boxes beside, **badge-article-2.pdf** & **badge-article-3.pdf** to deselect these two articles so that NoteboolLM will only use the one remaining selected article to respond to your prompts.
-2. Copy and paste the following the following prompt: ```Please help me create a 10 minute long presentation, with slide titles, and detailed speaker notes, with minimal text on the slides. The audience is a group of graduate students and professors. Start the presentation with an interesting and compelling story.```
-3. ....
-4. In the chat box at the bottom of the page type: How useful are informal credentials in helping students find jobs?
-  - Review the summary to make sure there are no mistakes or inaccuracies.
+2. In the chat box at the bottom of the page copy and paste the following prompt: ```Please help me create a 10 minute long presentation, with slide titles, and detailed speaker notes, with minimal text on the slides. The audience is a group of graduate students and professors. Start the presentation with an interesting and compelling story.```
+3. Read over the summary...
+   - What has it done well?
+   - What has it not done well?
+5. Save to note...
+6. Copy and paste into a Word or Google Doc...
+
+## Upgrade the Presentation
+7. Prompt for a better intro story...
+8. Title
 3. In the chat box at the bottom of the page type: Create a Google Slides presentation summary.
   - Review the presentation text to make sure there are not mistakes or inaccuracies.
 4. In the chat box at the bottom of the page type: Create an image for each slide.
