@@ -32,9 +32,11 @@ Unlike the first activity in this workshop where we used three articles as train
 3. Read over the summary...
   > - What has it done well?
   > - What has it not done well?
-4. Click on the grey Save to note button on the bottom left of the bottom left of the web page. Note that after you click the button, a few item with appear in the bottom half of the "Studio" panel. 
+4. Click on the grey **Save to Note** button on the bottom left of the bottom left of the web page. 
 <img src="images/5-save-to-note.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Save to Note button">
-6. Copy and paste into a Word or Google Doc...
+5. Note that after you click the Save to Note button, a new item will appear in the bottom half of the "Studio" panel on the right of the web app. The auto-generated title for my note was, "**Digital Badges: Empowering...**"
+6. Copy and paste into a Word or Google Doc:  
+  - **Click** on your new saved note, and...
 
 ## Upgrade the Presentation
 7. Prompt for a better intro story...
@@ -58,9 +60,5 @@ Unlike the first activity in this workshop where we used three articles as train
     - Are you happy with the quality of the images?
     - What other options do you have to include imagery in your presentations?
   - What are potential moral and legal issues that the GenAI companies are dealing with about the training data they are using to create these images?
-
-<img src="images/REPLACE-ME.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Try NotebookLM button"><br>
-
   
-  
-[NEXT STEP: Local GenAI - Getting Started](6-local-genai-intro.html){: .btn .btn-blue }
+[NEXT STEP: NEXT ACTIVITY HERE](6-NEW-LINK-HERE.html){: .btn .btn-blue }
