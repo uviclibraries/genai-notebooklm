@@ -30,9 +30,10 @@ Unlike the first activity in this workshop where we used three articles as train
 1. Click on the checked boxes beside, **badge-article-2.pdf** & **badge-article-3.pdf** to deselect these two articles so that NoteboolLM will only use the one remaining selected article to respond to your prompts.
 2. In the chat box at the bottom of the page copy and paste the following prompt: ```Please help me create a 10 minute long presentation, with slide titles, and detailed speaker notes, with minimal text on the slides. The audience is a group of graduate students and professors. Start the presentation with an interesting and compelling story.```
 3. Read over the summary...
-   - What has it done well?
-   - What has it not done well?
-5. Save to note...
+  > - What has it done well?
+  > - What has it not done well?
+4. Click on the grey Save to note button on the bottom left of the bottom left of the web page. Note that after you click the button, a few item with appear in the bottom half of the "Studio" panel. 
+<img src="images/5-save-to-note.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Save to Note button">
 6. Copy and paste into a Word or Google Doc...
 
 ## Upgrade the Presentation
