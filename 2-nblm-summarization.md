@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2 - Summarization Use Cases
+title: 2 - Summarizating
 nav_order: 7
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
