@@ -27,7 +27,7 @@ If you have any questions or get stuck as you work through this exercise, please
 
 ## Create a Presentation Speaker Notes Based on One Article
 Unlike the first activity in this workshop where we used three articles as training data, in this activity we are using only one of them to create a presentation (in either PowerPoint or Google Slides). This is to replicate a typical use case where you've written an assignment or journal article and need to create an accompanying presentation for it. Let's get started:
-<img src="images/5-one-article-selected.png" style="float:right;width:300px;padding:10px;" alt="Only one article selected">
+<img src="images/5-one-article-selected.png" style="float:right;width:300px;padding:10px;border: 1px solid #555;" alt="Only one article selected">
 1. Click on the checked boxes beside, **badge-article-2.pdf** & **badge-article-3.pdf**.
 3. ....
 4. In the chat box at the bottom of the page type: How useful are informal credentials in helping students find jobs?
