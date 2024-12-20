@@ -15,14 +15,12 @@ In this workshop, you'll create a script along with slide titles for a Presentat
 If you have any questions or get stuck as you work through this exercise, please ask the instructor for assistance.
 
 ## Getting Started
-We will be using the notebook from the first activity 
-
 1. **If you completed the first activity in this workshop**: Please use the notebook from the first activity with the 3 badging journal articles. To do this:
 <img src="images/5-nblm-logo.png" style="float:right;width:80px;padding:10px;" alt="NotebookLM logo">
   -  Return to the NotebookLM home page with the 3 articles by first clicking the **black circular NotebookLM logo** in the top left of the web application.
   <img src="images/5-notebook-button.png" style="float:right;width:300px;padding:10px;" alt="NotebookLM button">
   -  Next, click on the **The Digital Badge Ecosystem in Libraries** notebook to get into the notebook we'll be using for this activity.
-2. **If you haven't completed the first activity**: No worries! Please complete the first two steps of the activity, and then return here and continue on.
+2. **If you haven't completed the first activity**: No worries! Please complete the first two steps of [starter activity](1-nblm-notebook.html#create-a-notebook--add-documents-to-it){:target="_blank"} ([Logon to NotebookLM](1-nblm-notebook.html#create-a-notebook--add-documents-to-it){:target="_blank"} & [Create a Notebook & Add Documents to It](1-nblm-notebook.html#create-a-notebook--add-documents-to-it){:target="_blank"}), and then when you're done, return here and continue on with this activity.
 
 ## Create a Presentation Speaker Notes Based on an Article
 
