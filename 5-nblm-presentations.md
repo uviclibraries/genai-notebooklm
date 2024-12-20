@@ -5,7 +5,7 @@ nav_order: 8
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
-# COMING SOON in December 2024!
+# TO BE COMPLETED in December 2024!
 # Presentations Assistance
 <img src="images/6-chatgpt-powerpoint.jpg" style="float:right;width:400px;padding:10px;" alt="GenAI helping someone create a PowerPoint presentation">
 In this workshop, you'll create a script along with slide titles for a Presentation with Google Slides or Microsoft PowerPoint. If you want you could also use [Meta.ai](https://www.meta.ai/){:target="_blank"} to create images that you could potentially use for your slides.
@@ -20,11 +20,13 @@ If you have any questions or get stuck as you work through this exercise, please
   -  Return to the NotebookLM home page with the 3 articles by first clicking the **black circular NotebookLM logo** in the top left of the web application.
   <img src="images/5-notebook-button.png" style="float:right;width:300px;padding:10px;" alt="NotebookLM button">
   -  Next, click on the **The Digital Badge Ecosystem in Libraries** notebook to get into the notebook we'll be using for this activity.
-2. **If you haven't completed the first activity**: No worries! Please complete the first two steps of [starter activity](1-nblm-notebook.html#create-a-notebook--add-documents-to-it){:target="_blank"} ([Logon to NotebookLM](1-nblm-notebook.html#create-a-notebook--add-documents-to-it){:target="_blank"} & [Create a Notebook & Add Documents to It](1-nblm-notebook.html#create-a-notebook--add-documents-to-it){:target="_blank"}), and then when you're done, return here and continue on with this activity.
+2. **If you haven't completed the first activity**: No worries! Do this:
+  - Please complete the first two steps of starter activity: [Logon to NotebookLM](1-nblm-notebook.html#create-a-notebook--add-documents-to-it){:target="_blank"} & [Create a Notebook & Add Documents to It](1-nblm-notebook.html#create-a-notebook--add-documents-to-it){:target="_blank"}
+  - When you're done, return here and continue on with this activity.
 
 ## Create a Presentation Speaker Notes Based on an Article
-
-3. In the chat box at the bottom of the page type: How useful are informal credentials in helping students find jobs?
+Unlike the first activity in this workshop where we
+1. In the chat box at the bottom of the page type: How useful are informal credentials in helping students find jobs?
   - Review the summary to make sure there are no mistakes or inaccuracies.
 3. In the chat box at the bottom of the page type: Create a Google Slides presentation summary.
   - Review the presentation text to make sure there are not mistakes or inaccuracies.
