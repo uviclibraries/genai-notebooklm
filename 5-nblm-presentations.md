@@ -24,19 +24,18 @@ If you have any questions or get stuck as you work through this exercise, please
   - [Logon to NotebookLM](1-nblm-notebook.html#create-a-notebook--add-documents-to-it){:target="_blank"}
   - [Create a Notebook & Add Documents to It](1-nblm-notebook.html#create-a-notebook--add-documents-to-it){:target="_blank"}
 
-## Create a Presentation Speaker Notes Based on One Article
+## Create Presentation Speaker Notes Based on an Article
 Unlike the first activity in this workshop where we used three articles as training data, in this activity we are using only one of them to create a presentation (in either PowerPoint or Google Slides). This is to replicate a typical use case where you've written an assignment or journal article and need to create an accompanying presentation for it. Let's get started:
 <img src="images/5-one-article-selected.png" style="float:right;width:300px;padding:10px;border: 1px solid #555;" alt="Only one article selected">
 1. Click on the checked boxes beside, **badge-article-2.pdf** & **badge-article-3.pdf** to deselect these two articles so that NoteboolLM will only use the one remaining selected article to respond to your prompts.
 2. In the chat box at the bottom of the page copy and paste the following prompt: ```Please help me create a 10 minute long presentation, with slide titles, and detailed speaker notes, with minimal text on the slides. The audience is a group of graduate students and professors. Start the presentation with an interesting and compelling story.```
-3. Read over the summary...
+3. Read over the presentation summary and as you do ask yourself the following questions: 
   > - What has it done well?
   > - What has it not done well?
 4. Click on the grey **Save to Note** button on the bottom left of the bottom left of the web page. 
 <img src="images/5-save-to-note.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="Save to Note button">
 5. Note that after you click the Save to Note button, a new item will appear in the bottom half of the "Studio" panel on the right of the web app. The auto-generated title for my note was, "**Digital Badges: Empowering...**"
-6. Copy and paste the text from into a Word or Google Doc:  
-  - **Click** on your new saved note, and...
+6. **Click** on the note, and then **Copy and Paste** the text from the note into a Word or Google Doc. Now that the presentation outline is in an editable document you can personalize the content, wording, and ordering, as well as correct any factual errors that it's made.
 
 ## Upgrade the Presentation
 7. Prompt for a better intro story...
@@ -60,5 +59,15 @@ Unlike the first activity in this workshop where we used three articles as train
     - Are you happy with the quality of the images?
     - What other options do you have to include imagery in your presentations?
   - What are potential moral and legal issues that the GenAI companies are dealing with about the training data they are using to create these images?
-  
+ 
+## Reflection:
+> - Would creating the text summary of the presentation save you time? 
+>    - How much editing of the text would you need to do to get it to a quality level you’d be happy with (if any)?
+>    - Were there any factual errors in the presentation text?
+>    - Are there any major points or concepts that NotebookLM missed?
+> - Would creating the images for the presentation save you time?
+>    - Are you happy with the quality of the images?
+>    - What other options do you have to include imagery in your presentations?
+>    - Are there any potential moral and legal issues around the images, videos, audio and text the GenAI companies are using for training data?
+
 [NEXT STEP: NEXT ACTIVITY HERE](6-NEW-LINK-HERE.html){: .btn .btn-blue }
