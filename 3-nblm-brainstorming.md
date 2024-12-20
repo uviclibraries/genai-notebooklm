@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3 - NotebookLM Research Question Brainstorming
+title: 3 - Research Question Brainstorming
 nav_order: 8
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
