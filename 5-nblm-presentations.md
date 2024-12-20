@@ -20,10 +20,9 @@ If you have any questions or get stuck as you work through this exercise, please
   -  Return to the NotebookLM home page with the 3 articles by first clicking the **black circular NotebookLM logo** in the top left of the web application.
   <img src="images/5-notebook-button.png" style="float:right;width:300px;padding:10px;" alt="NotebookLM button">
   -  Next, click on the **The Digital Badge Ecosystem in Libraries** notebook to get into the notebook we'll be using for this activity.
-2. **If you haven't completed the first activity**, No worries! Please complete the following first two steps of this workshop's starter activity before returning here to continue on to learn how to use NotebookLM to assist you in creating a presentation:
+2. **If you haven't completed the first activity**, No worries! Please complete the following first two steps of this workshop's starter activity before returning here to continue on to learn how you can use NotebookLM to assist you in creating a presentation:
   - [Logon to NotebookLM](1-nblm-notebook.html#create-a-notebook--add-documents-to-it){:target="_blank"}
   - [Create a Notebook & Add Documents to It](1-nblm-notebook.html#create-a-notebook--add-documents-to-it){:target="_blank"}
-  - When you're done, return here and continue on with this activity.
 
 ## Create a Presentation Speaker Notes Based on One Article
 Unlike the first activity in this workshop where we used three articles as training data, in this activity we are using only one of them to create a presentation (in either PowerPoint or Google Slides). This is to replicate a typical use case where you've written an assignment or journal article and need to create an accompanying presentation for it. Let's get started:
