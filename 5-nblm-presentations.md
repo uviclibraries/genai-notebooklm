@@ -36,6 +36,7 @@ Unlike the first activity in this workshop where we used three articles as train
 4. Click on the grey **Save to Note** button on the bottom left of the bottom left of the web page. 
 <img src="images/5-save-to-note.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="Save to Note button">
 5. Note that after you click the Save to Note button, a new item will appear in the bottom half of the "Studio" panel on the right of the web app. The auto-generated title for my note was, "**Digital Badges: Empowering...**"
+<img src="images/5-note-title.png" style="float:right;width:300px;padding:10px;border: 1px solid #555;" alt="Note title">
 6. **Click** on the note, and then **Copy and Paste** the text from the note into a Word or Google Doc. Now that the presentation outline is in an editable document you can personalize the content, wording, and ordering, as well as correct any factual errors that it's made.
 
 ## Upgrade the Presentation
