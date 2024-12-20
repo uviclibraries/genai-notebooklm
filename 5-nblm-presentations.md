@@ -36,7 +36,7 @@ Unlike the first activity in this workshop where we used three articles as train
 4. Click on the grey **Save to Note** button on the bottom left of the bottom left of the web page. 
 <img src="images/5-save-to-note.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="Save to Note button">
 5. Note that after you click the Save to Note button, a new item will appear in the bottom half of the "Studio" panel on the right of the web app. The auto-generated title for my note was, "**Digital Badges: Empowering...**"
-<img src="images/5-note-title.png" style="float:right;width:300px;padding:10px;border: 1px solid #555;" alt="Note title">
+<img src="images/5-note-title.png" style="float:right;width:350px;padding:10px;border: 1px solid #555;" alt="Note title">
 6. **Click** on the note, and then **Copy and Paste** the text from the note into a Word or Google Doc. Now that the presentation outline is in an editable document you can personalize the content, wording, and ordering, as well as correct any factual errors that it's made.
 
 ## Customize the Presentation
@@ -56,11 +56,13 @@ Unlike the first activity in this workshop where we used three articles as train
 8. Prompt for 3rd page.
  
 ## Reflection
-> Would creating the text summary of the presentation save you time? 
+> **Text generation**:
+>  - Would creating the text summary of the presentation save you time? 
 >  - How much editing of the text would you need to do to get it to a quality level you’d be happy with (if any)?
 >  - Were there any factual errors in the presentation text?
 >  - Are there any major points or concepts that NotebookLM missed?
-> Would creating the images for the presentation save you time?
+> **Image generation**:
+>  - Would creating the images for the presentation save you time?
 >  - Are you happy with the quality of the images?
 >  - What other options do you have to include imagery in your presentations?
 >  - Are there any potential moral and legal issues around the images, videos, audio and text the GenAI companies are using for training data?
