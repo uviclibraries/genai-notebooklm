@@ -32,7 +32,7 @@ Instead of summarizing all three journal articles we're going to direct NoteBook
    - Are there any inaccuracies?
    - Feel free to give it follow-up prompts of course
 5. You have been invited to speak to a group of grade 5 students about the research you did on Makerspace badging (assuming you wrote the article that is selected in NotebookLM).
-   - In the chat area type: ```Summarise the article into a 10-minute speech for a group of grade 5 students. Make the speech upbeat and engaging. Include a short story to illustrate how fun makerspaces are and how badges are cool and helpful.```
+   - In the chat area type: ```Summarize the article into a 10-minute speech for a group of grade 5 students. Make the speech upbeat and engaging. Include a short story to illustrate how fun makerspaces are and how badges are cool and helpful.```
    - Does the text NoteBookLM response look helpful?
    - Are there any inaccuracies?
    - Feel free to give it follow-up prompts if you notice anything you'd like changed (or you could manually change the message
