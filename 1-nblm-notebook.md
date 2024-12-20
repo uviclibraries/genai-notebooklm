@@ -43,7 +43,7 @@ Before we can start testing, we need to create a new notebook and add some docum
   - To create a podcast summary, all you need to do is click on the blue **Generate** button **-OR-** You can also click on the **Customize** button to give NoteBookLM more context before it generates the podcast summary. For example you can click on the Customize button and type: ```The audience for this podcast are parents who are sending a child to university for the first time, and are concerned about the job prospects for their child after graduation.```
   - It typically takes between two and five minutes to generate the podcast, and the podcasts seem to be about 10 to 18 minutes long depending on how much information it needs to summarize.<br>
 <img src="images/nblm-generate-podcast.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="NotebookLM Generate Podcast button"><br>
-  - Once the podcast has been generated, you can listen to the podcast by clicking on teh light blue play button.
+  - Once the podcast has been generated, you can listen to the podcast by clicking on the light blue play button.
   - To download the podcast to your computer to share with other people click on the **three vertical dots** to the right of the play button and then click on the **Download** button.
   - If you don't want to wait for NotebookLM to create the podcast you can listen to the version it created for the DSC: [Podcast Summary Audio](images/nblm-podcast-summary.mp3){:target="_blank"} (12-min).
   > - **Reflection**: What do you think of the quality of the Podcast it created?
