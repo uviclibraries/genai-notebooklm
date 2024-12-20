@@ -27,8 +27,8 @@ Before we can start testing, we need to create a new notebook and add some docum
    - [Document 1](images/badge-article.pdf){:target="_blank"}
    - [Document 2](images/badge-article-2.pdf){:target="_blank"}
    - [Document 3](images/badge-article-3.pdf){:target="_blank"}
-2. Create a new notebook by clicking on the blue **Create new** button on the left side of the screen.
-<img src="images/nblm-create-new.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
+2. Create a new notebook by clicking on the blue **Create** button.
+<img src="images/nblm-create.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
 3. Upload the three documents you downloaded by clicking on the blue **choose file** link in the middle of the page.
 <img src="images/nblm-add-docs.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="Add documents"><br>
 4. Good job! You're now ready to explore the Notebook guide.
