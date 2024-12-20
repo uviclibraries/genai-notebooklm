@@ -15,7 +15,7 @@ In this workshop, you'll create a script along with slide titles for a Presentat
 If you have any questions or get stuck as you work through this exercise, please ask the instructor for assistance.
 
 ## Create a Presentation Speaker Notes Based on an Article
-1. Use the notebook from the first activity with the 3 badging journal articles for this activity (explain how to get back to it?)
+1. Use the notebook from the first activity with the 3 badging journal articles for this activity. To do this, return to Notebook LM with the 3 articles by clicking the **black circular NotebookLM logo** in the top left.
 2. In the chat box at the bottom of the page type: How useful are informal credentials in helping students find jobs?
   - Review the summary to make sure there are no mistakes or inaccuracies.
 3. In the chat box at the bottom of the page type: Create a Google Slides presentation summary.
@@ -25,8 +25,11 @@ If you have any questions or get stuck as you work through this exercise, please
 > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
 
 ## Create Presentation Slide Titles
-1. Info here...
-
+1. In the chat box at the bottom of the page type: Create a title for this slide presentation.
+2. This will provide various different possible titles that you can choose from. 
+3. You can make the titles more specific, by typing the following in the chat box "Titles that are shorter and more specific to Professional Development, life skills and badging."
+4. Then you can select one that best fits your presentation
+   
 ## Create Imagery for Each Slide
 5. Go to Meta.ai to create the images (as of December 2024 the free Google Gemini image creator is not nearly as good as the free Meta.ai image generator:
 - Create a blank Google Slide or PowerPoint presentation:
