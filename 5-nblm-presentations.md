@@ -17,6 +17,7 @@ If you have any questions or get stuck as you work through this exercise, please
 ## Create a Presentation Speaker Notes Based on an Article
 1. Getting started:
    - **If you completed the first activity in this workshop**: Please use the notebook from the first activity with the 3 badging journal articles. To do this:
+<img src="images/5-nblm-logo.png" style="float:right;width:80px;padding:10px;" alt="NotebookLM logo">
      -  Return to NotebookLM home page with the 3 articles by clicking the **black circular NotebookLM logo** in the top left.
      -  Click on the **The Digital Badge Ecosystem in Libraries** notebook.
    - **If you haven't completed the first activity**: No worries! Please complete the first two steps of the activity, and then retuen here and continue on.
