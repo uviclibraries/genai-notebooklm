@@ -22,13 +22,14 @@ If you have any questions or get stuck as you work through this exercise, please
   -  Next, click on the **The Digital Badge Ecosystem in Libraries** notebook to get into the notebook we'll be using for this activity.
 2. **If you haven't completed the first activity**: No worries! Do this:
   - Please complete the first two steps of the starter activity:
-    - [Logon to NotebookLM](1-nblm-notebook.html#create-a-notebook--add-documents-to-it){:target="_blank"}
-    - [Create a Notebook & Add Documents to It](1-nblm-notebook.html#create-a-notebook--add-documents-to-it){:target="_blank"}
+     - [Logon to NotebookLM](1-nblm-notebook.html#create-a-notebook--add-documents-to-it){:target="_blank"}
+     - [Create a Notebook & Add Documents to It](1-nblm-notebook.html#create-a-notebook--add-documents-to-it){:target="_blank"}
   - When you're done, return here and continue on with this activity.
 
-## Create a Presentation Speaker Notes Based on an Article
-Unlike the first activity in this workshop where we
-1. In the chat box at the bottom of the page type: How useful are informal credentials in helping students find jobs?
+## Create a Presentation Speaker Notes Based on One Article
+Unlike the first activity in this workshop where we used three articles as training data, in this activity we are using only one of them to create a presentation (in either PowerPoint or Google Slides). This is to replicate a typical use case where you've written an assignment or journal article and need to create an accompanying presentation for it. Let's get started:
+1. Deselect
+2. In the chat box at the bottom of the page type: How useful are informal credentials in helping students find jobs?
   - Review the summary to make sure there are no mistakes or inaccuracies.
 3. In the chat box at the bottom of the page type: Create a Google Slides presentation summary.
   - Review the presentation text to make sure there are not mistakes or inaccuracies.
