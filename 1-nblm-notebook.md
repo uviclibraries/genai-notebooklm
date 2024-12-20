@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1 - Your Personalized Cloud GenAI Assistant
+title: 1 - A Personalized GenAI Assistant
 nav_order: 6
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
