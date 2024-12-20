@@ -15,8 +15,12 @@ In this workshop, you'll create a script along with slide titles for a Presentat
 If you have any questions or get stuck as you work through this exercise, please ask the instructor for assistance.
 
 ## Create a Presentation Speaker Notes Based on an Article
-1. Use the notebook from the first activity with the 3 badging journal articles for this activity. To do this, return to Notebook LM with the 3 articles by clicking the **black circular NotebookLM logo** in the top left.
-2. In the chat box at the bottom of the page type: How useful are informal credentials in helping students find jobs?
+1. Getting started:
+   - **If you completed the first activity in this workshop**: Please use the notebook from the first activity with the 3 badging journal articles. To do this:
+     -  Return to NotebookLM home page with the 3 articles by clicking the **black circular NotebookLM logo** in the top left.
+     -  Click on the **The Digital Badge Ecosystem in Libraries** notebook.
+   - **If you haven't completed the first activity**: No worries! Please complete the first two steps of the activity, and then retuen here and continue on.
+3. In the chat box at the bottom of the page type: How useful are informal credentials in helping students find jobs?
   - Review the summary to make sure there are no mistakes or inaccuracies.
 3. In the chat box at the bottom of the page type: Create a Google Slides presentation summary.
   - Review the presentation text to make sure there are not mistakes or inaccuracies.
