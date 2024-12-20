@@ -24,6 +24,9 @@ If you have any questions or get stuck as you work through this exercise, please
   - Other prompts: Create an image for each slide in an abstract style, with a consistent colour pallet across all the images.
 > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
 
+## Create Presentation Slide Titles
+1. Info here...
+
 ## Create Imagery for Each Slide
 5. Go to Meta.ai to create the images (as of December 2024 the free Google Gemini image creator is not nearly as good as the free Meta.ai image generator:
 - Create a blank Google Slide or PowerPoint presentation:
