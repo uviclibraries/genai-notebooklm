@@ -21,7 +21,9 @@ If you have any questions or get stuck as you work through this exercise, please
   <img src="images/5-notebook-button.png" style="float:right;width:300px;padding:10px;" alt="NotebookLM button">
   -  Next, click on the **The Digital Badge Ecosystem in Libraries** notebook to get into the notebook we'll be using for this activity.
 2. **If you haven't completed the first activity**: No worries! Do this:
-  - Please complete the first two steps of starter activity: [Logon to NotebookLM](1-nblm-notebook.html#create-a-notebook--add-documents-to-it){:target="_blank"} & [Create a Notebook & Add Documents to It](1-nblm-notebook.html#create-a-notebook--add-documents-to-it){:target="_blank"}
+  - Please complete the first two steps of the starter activity:
+    - [Logon to NotebookLM](1-nblm-notebook.html#create-a-notebook--add-documents-to-it){:target="_blank"}
+    - [Create a Notebook & Add Documents to It](1-nblm-notebook.html#create-a-notebook--add-documents-to-it){:target="_blank"}
   - When you're done, return here and continue on with this activity.
 
 ## Create a Presentation Speaker Notes Based on an Article
