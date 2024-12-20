@@ -7,20 +7,23 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
 # COMING SOON in December 2024!
 # Presentations Assistance
-<img src="images/6-chatgpt-powerpoint.jpg" style="float:right;width:400px;padding:10px;" alt="GenAI helping someone create a powerpoint presentation">
-In this workshop, you'll create a script along with slide titles for a Presentation with Google Slides or Microsoft PowerPoint. If you want you could also use Meta.ai to create images that you could potentially use for your slides.
+<img src="images/6-chatgpt-powerpoint.jpg" style="float:right;width:400px;padding:10px;" alt="GenAI helping someone create a PowerPoint presentation">
+In this workshop, you'll create a script along with slide titles for a Presentation with Google Slides or Microsoft PowerPoint. If you want you could also use [Meta.ai](https://www.meta.ai/){:target="_blank"} to create images that you could potentially use for your slides.
 
 > NOTE: Like all other Generative AI tools, NotebookLM will sometimes make mistakes, although because you are providing it with training data, it will likely make fewer mistakes than general purpose Generative AI tools. Always research any factual claims it makes if you are not a subject area expert. 
 
 If you have any questions or get stuck as you work through this exercise, please ask the instructor for assistance.
 
-## Create a Presentation Speaker Notes Based on an Article
-1. Getting started:
-   - **If you completed the first activity in this workshop**: Please use the notebook from the first activity with the 3 badging journal articles. To do this:
+## Getting Started
+1. **If you completed the first activity in this workshop**: Please use the notebook from the first activity with the 3 badging journal articles. To do this:
 <img src="images/5-nblm-logo.png" style="float:right;width:80px;padding:10px;" alt="NotebookLM logo">
-     -  Return to NotebookLM home page with the 3 articles by clicking the **black circular NotebookLM logo** in the top left.
-     -  Click on the **The Digital Badge Ecosystem in Libraries** notebook.
-   - **If you haven't completed the first activity**: No worries! Please complete the first two steps of the activity, and then retuen here and continue on.
+  -  Return to the NotebookLM home page with the 3 articles by first clicking the **black circular NotebookLM logo** in the top left of the web application.
+  -  Next, click on the **The Digital Badge Ecosystem in Libraries** notebook.<br>
+  <img src="images/5-notebook-button.png" style="width:300px;padding:10px;" alt="NotebookLM button"><br>
+2. **If you haven't completed the first activity**: No worries! Please complete the first two steps of the activity, and then return here and continue on.
+
+## Create a Presentation Speaker Notes Based on an Article
+
 3. In the chat box at the bottom of the page type: How useful are informal credentials in helping students find jobs?
   - Review the summary to make sure there are no mistakes or inaccuracies.
 3. In the chat box at the bottom of the page type: Create a Google Slides presentation summary.
