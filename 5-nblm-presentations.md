@@ -18,8 +18,8 @@ If you have any questions or get stuck as you work through this exercise, please
 1. **If you completed the first activity in this workshop**: Please use the notebook from the first activity with the 3 badging journal articles. To do this:
 <img src="images/5-nblm-logo.png" style="float:right;width:80px;padding:10px;" alt="NotebookLM logo">
   -  Return to the NotebookLM home page with the 3 articles by first clicking the **black circular NotebookLM logo** in the top left of the web application.
-  -  Next, click on the **The Digital Badge Ecosystem in Libraries** notebook.<br>
-  <img src="images/5-notebook-button.png" style="width:300px;padding:10px;" alt="NotebookLM button"><br>
+  <img src="images/5-notebook-button.png" style="float:right;width:300px;padding:10px;" alt="NotebookLM button">
+  -  Next, click on the **The Digital Badge Ecosystem in Libraries** notebook.
 2. **If you haven't completed the first activity**: No worries! Please complete the first two steps of the activity, and then return here and continue on.
 
 ## Create a Presentation Speaker Notes Based on an Article
