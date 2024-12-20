@@ -28,8 +28,8 @@ If you have any questions or get stuck as you work through this exercise, please
 Unlike the first activity in this workshop where we used three articles as training data, in this activity we are using only one of them to create a presentation (in either PowerPoint or Google Slides). This is to replicate a typical use case where you've written an assignment or journal article and need to create an accompanying presentation for it. Let's get started:
 <img src="images/5-one-article-selected.png" style="float:right;width:300px;padding:10px;border: 1px solid #555;" alt="Only one article selected">
 1. Click on the checked boxes beside, **badge-article-2.pdf** & **badge-article-3.pdf** to deselect these two articles so that NoteboolLM will only use the one remaining selected article to respond to your prompts.
-2. 
-3. ----------------------------
+2. Copy and paste the following the following prompt: ```Please help me create a 10 minute long presentation, with slide titles, and detailed speaker notes, with minimal text on the slides. The audience is a group of graduate students and professors. Start the presentation with an interesting and compelling story.```
+3. ....
 4. In the chat box at the bottom of the page type: How useful are informal credentials in helping students find jobs?
   - Review the summary to make sure there are no mistakes or inaccuracies.
 3. In the chat box at the bottom of the page type: Create a Google Slides presentation summary.
@@ -38,11 +38,6 @@ Unlike the first activity in this workshop where we used three articles as train
   - Other prompts: Create an image for each slide in an abstract style, with a consistent colour pallet across all the images.
 > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
 
-## Create Presentation Slide Titles
-1. In the chat box at the bottom of the page type: Create a title for this slide presentation.
-2. This will provide various different possible titles that you can choose from. 
-3. You can make the titles more specific, by typing the following in the chat box "Titles that are shorter and more specific to Professional Development, life skills and badging."
-4. Then you can select one that best fits your presentation
    
 ## Create Imagery for Each Slide
 5. Go to Meta.ai to create the images (as of December 2024 the free Google Gemini image creator is not nearly as good as the free Meta.ai image generator:
