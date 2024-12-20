@@ -33,9 +33,9 @@ Unlike the first activity in this workshop where we used three articles as train
   > - What has it done well?
   > - What has it not done well?
 4. Click on the grey **Save to Note** button on the bottom left of the bottom left of the web page. 
-<img src="images/5-save-to-note.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Save to Note button">
+<img src="images/5-save-to-note.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="Save to Note button">
 5. Note that after you click the Save to Note button, a new item will appear in the bottom half of the "Studio" panel on the right of the web app. The auto-generated title for my note was, "**Digital Badges: Empowering...**"
-6. Copy and paste into a Word or Google Doc:  
+6. Copy and paste the text from into a Word or Google Doc:  
   - **Click** on your new saved note, and...
 
 ## Upgrade the Presentation
@@ -48,7 +48,7 @@ Unlike the first activity in this workshop where we used three articles as train
 > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
 
    
-## Create Imagery for Each Slide
+## Create an Image for Each Slide
 5. Go to Meta.ai to create the images (as of December 2024 the free Google Gemini image creator is not nearly as good as the free Meta.ai image generator:
 - Create a blank Google Slide or PowerPoint presentation:
 - Reflections:
