@@ -5,10 +5,9 @@ nav_order: 8
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
-# TO BE COMPLETED in December 2024!
-# Presentations Assistance
+# Convert an Article to a Presentation
 <img src="images/6-chatgpt-powerpoint.jpg" style="float:right;width:400px;padding:10px;" alt="GenAI helping someone create a PowerPoint presentation">
-In this workshop, you'll create a script along with slide titles for a Presentation with Google Slides or Microsoft PowerPoint. If you want you could also use [Meta.ai](https://www.meta.ai/){:target="_blank"} to create images that you could potentially use for your slides.
+In this workshop, you'll create a script along with slide titles for a presentation using Google Slides or Microsoft PowerPoint. If you want you could also use [Meta.ai](https://www.meta.ai/){:target="_blank"} to create images that you could potentially use for your slides.
 
 > NOTE: Like all other Generative AI tools, NotebookLM will sometimes make mistakes, although because you are providing it with training data, it will likely make fewer mistakes than general purpose Generative AI tools. Always research any factual claims it makes if you are not a subject area expert. 
 
