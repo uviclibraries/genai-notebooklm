@@ -46,7 +46,7 @@ Now we'll prompt NotebookLM to suggest ideas for speaker notes, with minimal tex
 > - What has it not done well?
 > - What mistakes had it made?
 <img src="images/5-note-title.png" style="float:right;width:350px;padding:10px;border: 1px solid #555;" alt="Note title">
-5. Note that if you click the Save to Note button, a new item will appear in the bottom half of the "Studio" panel on the right of the web app. The auto-generated title for my note was, "**Digital Badges: Empowering...**" 
+5. Note that if you click the Save to Note button, the saved note will appear in the bottom half of the "Studio" panel on the right of the web app. The auto-generated title for my note was, "**Digital Badges: Empowering...**" 
 
 ## Customize the Presentation
 7. Prompt for a better intro story...
