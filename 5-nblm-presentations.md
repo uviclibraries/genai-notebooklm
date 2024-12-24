@@ -31,7 +31,8 @@ If you have any questions or get stuck as you work through this exercise, please
 Get your presentation off to a good start with a catchy presentation title. Let's get some suggestions from NotebookLM:
 1. In the chat box at the bottom of the page copy and paste the following prompt: ```Suggest some attention-grabbing, catchy titles for my presentation at an academic conference to draw in my audience, who will consist of my academic peers.```
    - How do the suggestions look? Are there any that look appropriate and catchy for the audience you'll be presenting to?
-   -  
+   - If none of the titles look appropriate, you might want to give NotebookLM a followup prompt something like this: ```Give me 5 more suggested presentation titles that are no longer than 6 words long.```
+   - Copy and paste the title you like best into your document and
 
 ## Create Presentation Speaker Notes Based on an Article
 **Intro here...**
