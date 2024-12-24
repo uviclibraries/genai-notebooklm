@@ -57,7 +57,6 @@ Now we'll prompt NotebookLM to suggest ideas for speaker notes, with minimal tex
   - Other prompts: Create an image for each slide in an abstract style, with a consistent colour pallet across all the images.
 > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
 
-   
 ## Create an Image for Each Slide
 5. If you haven't created a PowerPoint or Google Slides document to start to record and edit the suggestions you like from NotebookLM, now would be a good time to create one. If you'd like, you can use a [UVic presentation template](https://docs.google.com/presentation/d/1fuhWOJu_sq0ivUTY1Ul2h0t7Kff2wZZ0Y5NSnEMh0bY/template/preview){:target="_blank"}, but can use it or create your own look and feel. 
 6. Let's go to [Meta.ai](https://www.meta.ai/){:target="_blank"} to create the images (as of December 2024 Google's free Gemini image creator is not nearly as good as the free Meta.ai image generator)
@@ -66,8 +65,11 @@ Now we'll prompt NotebookLM to suggest ideas for speaker notes, with minimal tex
 9. Prompt for 3rd page.
  
 ## Reflection
+> **Title generation**:
+>  - Would creating the title for the presentation using NotebookLM save you time? 
+>  - How much editing of the text would you need to do to get it to a quality level you’d be happy with (if any)?
 > **Text generation**:
->  - Would creating the text summary of the presentation save you time? 
+>  - Would creating the text summary of the presentation using NotebookLM save you time? 
 >  - How much editing of the text would you need to do to get it to a quality level you’d be happy with (if any)?
 >  - Were there any factual errors in the presentation text?
 >  - Are there any major points or concepts that NotebookLM missed?
