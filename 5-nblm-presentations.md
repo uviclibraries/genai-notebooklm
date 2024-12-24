@@ -37,19 +37,16 @@ Get your presentation off to a good start with a catchy presentation title. Let'
 ## Create Presentation Speaker Notes Based on an Article
 Now we'll prompt NotebookLM to suggest ideas for speaker notes, with minimal text on each slide. Research shows that text-heavy slides read by presenters are more difficult to member than slides with a title, image, and minimal additional text that are narrated by the presenter. With that in mind, we will craft a prompt to help suggest slide titles and detailed speaker notes with minimal text on the slides.
 1. In the chat box at the bottom of the page copy and paste the following prompt: ```Create a 10-minute long presentation, with slide titles, and detailed speaker notes, with minimal text on the slides. The audience is a group of graduate students and professors. Start the presentation with an interesting and compelling story. Use as many slides as necessary keeping in mind that I like to use a lot of large images in my presentations.```
-2. Copy the suggested speaker notes and paste them into your working document.
+2. Copy the suggested speaker notes and paste them into your working document:
    - The easiest way to do this is to click on the **Copy** button at the bottom of the chat, and then paste the text into your working document.
    - You may also want to click on the **Save to note** button on the left to keep a copy of the chat for future reference.
 <img src="images/5-copy-save.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="Copy text and save note">
-4. Review the presentation text to make sure there are not mistakes or inaccuracies. As you read the text, ask yourself the following questions: 
+4. Now that the presentation outline is in an editable document you can personalize the content, wording, and ordering, as well as correct any factual errors that it's made. As you read the text, ask yourself the following questions: 
 > - What has it done well?
 > - What has it not done well?
 > - What mistakes had it made?
-4. Click on the grey **Save to Note** button on the bottom left of the bottom left of the web page. 
-<img src="images/5-save-to-note.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="Save to Note button">
-5. Note that after you click the Save to Note button, a new item will appear in the bottom half of the "Studio" panel on the right of the web app. The auto-generated title for my note was, "**Digital Badges: Empowering...**"
 <img src="images/5-note-title.png" style="float:right;width:350px;padding:10px;border: 1px solid #555;" alt="Note title">
-6. **Click** on the note, and then **Copy and Paste** the text from the note into a Word or Google Doc. Now that the presentation outline is in an editable document you can personalize the content, wording, and ordering, as well as correct any factual errors that it's made.
+5. Note that if you click the Save to Note button, a new item will appear in the bottom half of the "Studio" panel on the right of the web app. The auto-generated title for my note was, "**Digital Badges: Empowering...**" 
 
 ## Customize the Presentation
 7. Prompt for a better intro story...
