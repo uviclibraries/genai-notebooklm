@@ -31,12 +31,12 @@ If you have any questions or get stuck as you work through this exercise, please
 Get your presentation off to a good start with a catchy presentation title. Let's get some suggestions from NotebookLM:
 1. In the chat box at the bottom of the page copy and paste the following prompt: ```Suggest some attention-grabbing, catchy titles for my presentation at an academic conference to draw in my audience, who will consist of my academic peers.```
    - How do the suggestions look? Are there any that look appropriate and catchy for the audience you'll be presenting to?
-   - If none of the titles look appropriate, you might want to give NotebookLM a followup prompt something like this: ```Give me 5 more suggested presentation titles that are no longer than 6 words long.```
-   - Copy and paste the title you like best into your document and
+   - If none of the titles look appropriate, you might want to give NotebookLM a follow-up prompt something like this: ```Give me 5 more suggested presentation titles that are no longer than 6 words long.```
+   - Copy and paste the title you like best to the top of your document. The title I've chosen given my goals for the presentation is: _Badges as Evidence of Achievement & Skills_.
 
 ## Create Presentation Speaker Notes Based on an Article
 **Intro here...**
-1. In the chat box at the bottom of the page copy and paste the following prompt: ```Please help me create a 10 minute long presentation, with slide titles, and detailed speaker notes, with minimal text on the slides. The audience is a group of graduate students and professors. Start the presentation with an interesting and compelling story.```
+1. In the chat box at the bottom of the page copy and paste the following prompt: ```Please help me create a 10-minute long presentation, with slide titles, and detailed speaker notes, with minimal text on the slides. The audience is a group of graduate students and professors. Start the presentation with an interesting and compelling story.```
 3. Review the presentation text to make sure there are not mistakes or inaccuracies. As you read the text, ask yourself the following questions: 
 > - What has it done well?
 > - What has it not done well?
