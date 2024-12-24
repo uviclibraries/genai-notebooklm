@@ -36,8 +36,12 @@ Get your presentation off to a good start with a catchy presentation title. Let'
 
 ## Create Presentation Speaker Notes Based on an Article
 Now we'll prompt NotebookLM to suggest ideas for speaker notes, with minimal text on each slide. Research shows that text-heavy slides read by presenters are more difficult to member than slides with a title, image, and minimal additional text that are narrated by the presenter. With that in mind, we will craft a prompt to help suggest slide titles and detailed speaker notes with minimal text on the slides.
-1. In the chat box at the bottom of the page copy and paste the following prompt: ```Please help me create a 10-minute long presentation, with slide titles, and detailed speaker notes, with minimal text on the slides. The audience is a group of graduate students and professors. Start the presentation with an interesting and compelling story.```
-3. Review the presentation text to make sure there are not mistakes or inaccuracies. As you read the text, ask yourself the following questions: 
+1. In the chat box at the bottom of the page copy and paste the following prompt: ```Create a 10-minute long presentation, with slide titles, and detailed speaker notes, with minimal text on the slides. The audience is a group of graduate students and professors. Start the presentation with an interesting and compelling story. Use as many slides as necessary keeping in mind that I like to use a lot of large images in my presentations.```
+2. Copy the suggested speaker notes and paste them into your working document.
+   - The easiest way to do this is to click on the **Copy** button at the bottom of the chat, and then paste the text into your working document.
+   - You may also want to click on the **Save to note** button on the left to keep a copy of the chat for future reference.
+<img src="images/5-copy-save.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="Copy text and save note">
+4. Review the presentation text to make sure there are not mistakes or inaccuracies. As you read the text, ask yourself the following questions: 
 > - What has it done well?
 > - What has it not done well?
 > - What mistakes had it made?
