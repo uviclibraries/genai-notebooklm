@@ -35,7 +35,7 @@ Get your presentation off to a good start with a catchy presentation title. Let'
    - Copy and paste the title you like best to the top of your document. The title I've chosen given my goals for the presentation is: _Badges as Evidence of Achievement & Skills_.
 
 ## Create Presentation Speaker Notes Based on an Article
-**Intro here...**
+Now we'll prompt NotebookLM to suggest ideas for speaker notes, with minimal text on each slide. Research shows that text-heavy slides read by presenters are more difficult to member than slides with a title, image, and minimal additional text that are narrated by the presenter. With that in mind, we will craft a prompt to help suggest slide titles and detailed speaker notes with minimal text on the slides.
 1. In the chat box at the bottom of the page copy and paste the following prompt: ```Please help me create a 10-minute long presentation, with slide titles, and detailed speaker notes, with minimal text on the slides. The audience is a group of graduate students and professors. Start the presentation with an interesting and compelling story.```
 3. Review the presentation text to make sure there are not mistakes or inaccuracies. As you read the text, ask yourself the following questions: 
 > - What has it done well?
