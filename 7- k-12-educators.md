@@ -24,7 +24,7 @@ Curricular Connections:
 5. Make sure all 3 articles are selected, then in the **start typing box**, type ```What are some similarities.```
 6. You can then type ```Make a T chart```
 7. You could also ask it to  ```Make a Venn diagram``` (It will share the sections of the Venn diagram and you can create the visual from there).
-8. Note that this tool can also be used for comprehension and for students to seek details for example we could ask ```What materials were used to construct each pig's house?```
-9. Great work you have completed the K-12 Educators activity!
+8. Note that this tool can also be used for comprehension and for students to seek details for example we could ask ```What materials were used to construct each pig's house?``` and it can also be used to create your own story and pull out key story elements, for instance ask NotebookLM to ```Create a plan for my own version of the 3 little pigs```
+9. Great work you have completed the K-12 Educators activity! There are many other questions to ask, feel free to continue to try out the tool and ask questions to get more specific answers. Also you can add another article or unselect one, as other options. 
 
  [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
