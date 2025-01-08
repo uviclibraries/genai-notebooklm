@@ -26,7 +26,7 @@ If you have any questions or get stuck as you work through this exercise, please
 <img src="images/5-one-article-selected.png" style="float:right;width:300px;padding:10px;border: 1px solid #555;" alt="Only one article selected">
   - Click on the checked boxes beside, **badge-article-2.pdf** & **badge-article-3.pdf** to deselect these two articles so that NoteboolLM will only use the one remaining selected article to respond to your prompts.
 4. If you haven't created a PowerPoint or Google Slides document to start recording the suggestions you like from NotebookLM, now would be a good time to create one.
-   - If you'd like, you can use a [UVic presentation template](https://docs.google.com/presentation/d/1fuhWOJu_sq0ivUTY1Ul2h0t7Kff2wZZ0Y5NSnEMh0bY/template/preview){:target="_blank"} in Google Slides, or you can create your template.
+   - If you'd like, you can use a [UVic presentation template](https://docs.google.com/presentation/d/1fuhWOJu_sq0ivUTY1Ul2h0t7Kff2wZZ0Y5NSnEMh0bY/template/preview){:target="_blank"} in Google Slides, or you can create your template. Make sure to be logged into your Gmail or Google account before you click on the blue **Use Template** button on the top right of the window.
    - If you choose to use the UVic template, feel to to pick and choose from the three different styles of the template. 
 
 ## Catchy Presentation Titles
@@ -51,7 +51,7 @@ Now we'll prompt NotebookLM to suggest ideas for speaker notes, with minimal tex
 4. Note, that if you clicked on the **Save to note** button, the saved note will appear in the bottom half of the "Studio" panel on the right of the web app. The auto-generated title for my note was, "**Digital Badges: Empowering...**" 
 
 ## Build & Customize the Presentation Slide Titles & Speaker Notes
-Now that you have a title, and draft presentation outline with speaker notes, it's time to start to build and customize the presentation in Google Slides or PowerPoint document you created in the Getting Started portion of this activity:
+Now that you have a title, and draft presentation outline with speaker notes, it's time to start to build and customize the presentation in Google Slides or the PowerPoint document you created in the Getting Started portion of this activity:
 1. 
 2. Prompt for a better intro story...
 > - What do I want to change?
@@ -60,6 +60,7 @@ Now that you have a title, and draft presentation outline with speaker notes, it
   - Review the presentation text to make sure there are not mistakes or inaccuracies.
 4. In the chat box at the bottom of the page type: Create an image for each slide.
   - Other prompts: Create an image for each slide in an abstract style, with a consistent colour pallet across all the images.
+
 > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
 
 ## Create an Image for Each Slide
