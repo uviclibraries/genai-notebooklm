@@ -60,10 +60,10 @@ Now that you have a title, and draft presentation outline with speaker notes, it
   - **Copy** and **Paste** the following prompt into Meta.ai chat box and press **Enter** on your keyboard to create an image for your title slide: ```Create an image of a happy student with a badge that represents achievement.```<br>
 <img src="images/nblm-meta-image-1.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Meta.ai creating images of students with badges">
   - **Right mouse click** on the image you'd like to use and then select **Copy Image**. Note: Browsers other than Google's Chrome browser might use slightly different language from "Copy Image."
-  - Paste & Crop...
+  - Go to the title slide on your presentation and **Paste** the image you just created onto the slide.
+  - Resize & Crop: ...
 
-- Other prompts: Create an image for each slide in an abstract style, with a consistent colour pallet across all the images.
-
+  - Other prompts: Create an image for each slide in an abstract style, with a consistent colour pallet across all the images.
 > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
 
 ## Build & Customize All Other Presentation Slides & Speaker Notes
