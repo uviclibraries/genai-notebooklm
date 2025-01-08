@@ -39,7 +39,7 @@ Before we can start testing, we need to create a new notebook and add some docum
 <img src="images/nblm-summary.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="Summary"><br>
 > **NOTE: You should always double-check the accuracy of the facts and claims made by NotebookLM (and all other GenAI tools), as they sometimes make mistakes or hallucinate.
 > Note: There are several minor hallucinations in the Notebook Guide. The notebook guides DOES NOT provide citations that can be easily fact-check making it more difficult to verify its facts and claims.**
-3. **Podcast Summary**:
+2. **Podcast Summary**:
   - To create a podcast summary, all you need to do is click on the blue **Generate** button **-OR-** You can also click on the **Customize** button to give NoteBookLM more context before it generates the podcast summary. For example you can click on the Customize button and type: ```The audience for this podcast are parents who are sending a child to university for the first time, and are concerned about the job prospects for their child after graduation.```
   - It typically takes between two and five minutes to generate the podcast, and the podcasts seem to be about 10 to 18 minutes long depending on how much information it needs to summarize.<br>
 <img src="images/nblm-generate-podcast.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="NotebookLM Generate Podcast button"><br>
@@ -49,10 +49,10 @@ Before we can start testing, we need to create a new notebook and add some docum
   > - **Reflection**: What do you think of the quality of the Podcast it created?
   > - **Reflection**: Can you think of any ways that this type of Podcast summary could be useful?
   > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
-5. **Briefing Document**:
+3. **Briefing Document**:
   - Briefing documents are a quick way to understand the contents of the documents in your notebook. **NOTE**: NotebookLM does not provide inline citations in this type of document like it does when it responds to your prompts, which makes verifying factual claims more time-consuming.
   - To create a briefing document simply click on the **breifing doc** button. It will take 30-60 seconds to generate the briefing guide unnder notes (this will be titled a Digital Badges: Comprehensive Overview).<br>
-    <img src="images/nblm-briefing-doc-button.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="Briefing Document Button"><br>
+    <img src="images/nblm-briefing-doc-button2.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="Briefing Document Button"><br>
   > - **Reflection**: What do you think of the quality of the Briefing Document?
   > - **Reflection**: Can you think of any ways that you would find this kind of summary useful?
   > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created summary?
