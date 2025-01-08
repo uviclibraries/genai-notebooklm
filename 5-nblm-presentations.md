@@ -50,19 +50,22 @@ Now we'll prompt NotebookLM to suggest ideas for speaker notes, with minimal tex
 <img src="images/5-note-title.png" style="float:right;width:350px;padding:10px;border: 1px solid #555;" alt="Note title">
 4. Note, that if you clicked on the **Save to note** button, the saved note will appear in the bottom half of the "Studio" panel on the right of the web app. The auto-generated title for my note was, "**Digital Badges: Empowering...**" 
 
-## Build & Customize the Presentation Slide Titles & Speaker Notes
+## Build & Customize Title Slide for Your Presentation Slide Titles & Speaker Notes
 Now that you have a title, and draft presentation outline with speaker notes, it's time to start to build and customize the presentation in Google Slides or the PowerPoint document you created in the Getting Started portion of this activity:
-1. Select the title slide that you want to use and populate it with your **presentation title**, and if you want **your name** and **email address**.
+1. Select the title slide that you want to use and populate it with your **presentation title**, and if you want, **your name** and **email address**.
 <img src="images/nblm-slide-title.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Title slide">
-2. Feel free to delete any of the template slides that don't fit the look at feel you want for your presentation. For example I deleted all but four of the slides
-> - What do I want to change?
-8. Title
+2. Feel free to delete any of the template slides that don't fit the look or feel you want for your presentation. For example, I deleted all but four of the slides for my presentation.
+
 3. In the chat box at the bottom of the page type: Create a Google Slides presentation summary.
   - Review the presentation text to make sure there are not mistakes or inaccuracies.
 4. In the chat box at the bottom of the page type: Create an image for each slide.
   - Other prompts: Create an image for each slide in an abstract style, with a consistent colour pallet across all the images.
 
 > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
+
+## Build & Customize All Other Presentation Slides & Speaker Notes
+1. Copy & paste the title & Speaker notes for the first slide
+2. Edit anything?
 
 ## Create an Image for Each Slide
 6. Let's go to [Meta.ai](https://www.meta.ai/){:target="_blank"} to create the images (as of December 2024 Google's free Gemini image creator is not nearly as good as the free Meta.ai image generator)
