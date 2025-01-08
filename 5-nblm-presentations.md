@@ -32,7 +32,10 @@ Get your presentation off to a good start with a catchy presentation title. Let'
 1. In the chat box at the bottom of the page copy and paste the following prompt: ```Suggest some attention-grabbing, catchy titles for my presentation at an academic conference to draw in my audience, who will consist of my academic peers.```
    - How do the suggestions look? Are there any that look appropriate and catchy for the audience you'll be presenting to?
    - If none of the titles look appropriate, you might want to give NotebookLM a follow-up prompt something like this: ```Give me 5 more suggested presentation titles that are no longer than 6 words long.```
-   - Copy and paste the title you like best to the top of your document. The title I've chosen given my goals for the presentation is: _Badges as Evidence of Achievement & Skills_.
+   - Copy the title you like best so that you can paste it into the title slide of your presentation. The title I've chosen given my goals for the presentation is: _Badges as Evidence of Achievement & Skills_.
+2. If you haven't created a PowerPoint or Google Slides document to start to record the suggestions you like from NotebookLM, now would be a good time to create one.
+   - If you'd like, you can use a [UVic presentation template](https://docs.google.com/presentation/d/1fuhWOJu_sq0ivUTY1Ul2h0t7Kff2wZZ0Y5NSnEMh0bY/template/preview){:target="_blank"}, or you can use it or create your template.
+   - If you chose the UVic template, feel tree to pick and choose from the three different styles of the template,
 
 ## Create Presentation Speaker Notes Based on an Article
 Now we'll prompt NotebookLM to suggest ideas for speaker notes, with minimal text on each slide. Research shows that text-heavy slides read by presenters are more difficult to member than slides with a title, image, and minimal additional text that are narrated by the presenter. With that in mind, we will craft a prompt to help suggest slide titles and detailed speaker notes with minimal text on the slides.
@@ -58,7 +61,6 @@ Now we'll prompt NotebookLM to suggest ideas for speaker notes, with minimal tex
 > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
 
 ## Create an Image for Each Slide
-5. If you haven't created a PowerPoint or Google Slides document to start to record and edit the suggestions you like from NotebookLM, now would be a good time to create one. If you'd like, you can use a [UVic presentation template](https://docs.google.com/presentation/d/1fuhWOJu_sq0ivUTY1Ul2h0t7Kff2wZZ0Y5NSnEMh0bY/template/preview){:target="_blank"}, but can use it or create your own look and feel. 
 6. Let's go to [Meta.ai](https://www.meta.ai/){:target="_blank"} to create the images (as of December 2024 Google's free Gemini image creator is not nearly as good as the free Meta.ai image generator)
 7. Prompt for the title page
 8. Prompt for story page
