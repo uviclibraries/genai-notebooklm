@@ -53,7 +53,7 @@ Now we'll prompt NotebookLM to suggest ideas for speaker notes, with minimal tex
 ## Build & Customize the Presentation Slide Titles & Speaker Notes
 Now that you have a title, and draft presentation outline with speaker notes, it's time to start to build and customize the presentation in Google Slides or the PowerPoint document you created in the Getting Started portion of this activity:
 1. Select the title slide that you want to use and populate it with your **presentation title**, and if you want **your name** and **email address**.
-<img src="images/nblm-slide-title.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="Title slide">
+<img src="images/nblm-slide-title.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Title slide">
 2. Prompt for a better intro story...
 > - What do I want to change?
 8. Title
