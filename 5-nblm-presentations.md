@@ -54,9 +54,12 @@ Now we'll prompt NotebookLM to suggest ideas for speaker notes, with minimal tex
 Now that you have a title, and draft presentation outline with speaker notes, it's time to start to build and customize the presentation in Google Slides or the PowerPoint document you created in the Getting Started portion of this activity:
 1. Select the title slide that you want to use and populate it with your **presentation title**, and if you want, **your name** and **email address**.
 <img src="images/nblm-slide-title.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Title slide">
-2. Feel free to delete any of the template slides that don't fit the look or feel you want for your presentation. For example, I deleted all but four of the slides for my presentation.
-
-3. In the chat box at the bottom of the page type: Create a Google Slides presentation summary.
+2. Feel free to delete any of the template slides that don't fit the look or feel you want for your presentation. As you can see in the image above, I deleted all but four of the template slides on the left-hand side of the screen for my presentation.
+3. Now let's create an image for this slide.
+  - Let's go to the [Meta.ai](https://www.meta.ai/){:target="_blank"} website to create an image for the title slide (as of December 2024 Google's free Gemini image creator is not nearly as good as the free Meta.ai image generator).
+> **Note**: You'll need to log in to Meta.ai using either a Facebook or Instagram account.
+  - Look at your
+5. In the chat box at the bottom of the page type: Create a Google Slides presentation summary.
   - Review the presentation text to make sure there are not mistakes or inaccuracies.
 4. In the chat box at the bottom of the page type: Create an image for each slide.
   - Other prompts: Create an image for each slide in an abstract style, with a consistent colour pallet across all the images.
