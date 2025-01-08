@@ -47,12 +47,13 @@ Now we'll prompt NotebookLM to suggest ideas for speaker notes, with minimal tex
 > - What has it done well?
 > - What has it not done well?
 > - What mistakes had it made?
-> - What do I want to change?
 <img src="images/5-note-title.png" style="float:right;width:350px;padding:10px;border: 1px solid #555;" alt="Note title">
 4. Note, that if you clicked on the **Save to note** button, the saved note will appear in the bottom half of the "Studio" panel on the right of the web app. The auto-generated title for my note was, "**Digital Badges: Empowering...**" 
 
-## Customize the Presentation
+## Build & Customize the Presentation
+Now that you have a title, and draft presentation outline with speaker notes, it's time to start to build and customize the presentation:
 7. Prompt for a better intro story...
+> - What do I want to change?
 8. Title
 3. In the chat box at the bottom of the page type: Create a Google Slides presentation summary.
   - Review the presentation text to make sure there are not mistakes or inaccuracies.
