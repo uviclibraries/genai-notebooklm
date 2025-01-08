@@ -16,7 +16,7 @@ If you have any questions or get stuck as you work through this exercise, please
 ## Summarize a Single Journal Article with a Purpose in Mind
 Instead of summarizing all three journal articles we're going to direct NoteBookLM to summarize just one of the articles and then give it a specific focus for the summary to assist us in drafting promotional materials for a University Library Makerspace (or Library Digital Scholarship Commons).
 1. De-select articles 2 and 3 in the Sources area on the left side of the web page.
-<img src="images/nblm-deselect-articles.png" style="width:500px;padding:10px;border: 1px solid #555;" alt="NotebookLM deselect articles"><br>
+<img src="images/nblm-deselect-articles2.png" style="width:500px;padding:10px;border: 1px solid #555;" alt="NotebookLM deselect articles"><br>
 2. In the chat area type: ```Create a promotional message to parents explaining how the University Makerspace (or Library Digital Scholarship Commons) can help their children with job searches for co-op positions and for their post-graduation job search.```
    - Does the text NoteBookLM response look helpful?
    - Are there any inaccuracies?
