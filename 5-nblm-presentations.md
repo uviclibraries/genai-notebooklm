@@ -60,8 +60,8 @@ Now that you have a title, and draft presentation outline with speaker notes, it
   - **Copy** and **Paste** the following prompt into Meta.ai chat box and press **Enter** on your keyboard to create an image for your title slide: ```Create an image of a happy student with a badge that represents achievement.```<br>
 <img src="images/nblm-meta-image-1.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Meta.ai creating images of students with badges">
   - **Right mouse click** on the image you'd like to use and then select **Copy Image**. Note: Browsers other than Google's Chrome browser might use slightly different language from "Copy Image."
-  - Go to the title slide in your presentation and **Paste** the image you just created onto the slide. Then move, resize and crop the image. See the video below for details on how to [create, copy, paste, move, resize & crop an image](https://www.youtube.com/watch?v=qCegOGderKA){:target="_blank"}:
-<iframe width="800" height="500" src="https://www.youtube.com/embed/qCegOGderKA" title="Create an Image for my Presentation using Meta.ai" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  - Go to the title slide in your presentation and **Paste** the image you just created onto the slide. Then move, resize and crop the image. See the video below for details on how to [create, copy, paste, move, resize & crop an image](https://www.youtube.com/watch?v=qCegOGderKA){:target="_blank"}<br>
+<iframe width="780" height="500" src="https://www.youtube.com/embed/qCegOGderKA" title="Create an Image for my Presentation using Meta.ai" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > **Reflection**: Are there any potential drawbacks or problems you can think of when creating images for your presentations using GenAI tools?
 
@@ -71,10 +71,7 @@ Now that you have a title, and draft presentation outline with speaker notes, it
 
 ## Create an Image for Each Slide
 6. Let's go to [Meta.ai](https://www.meta.ai/){:target="_blank"} to create the images (as of December 2024 Google's free Gemini image creator is not nearly as good as the free Meta.ai image generator)
-7. Prompt for the title page
-8. Prompt for story page
-9. Prompt for 3rd page.
- 
+
 ## Reflection
 > **Title generation**:
 >  - Would creating the title for the presentation using NotebookLM save you time? 
