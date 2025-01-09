@@ -54,11 +54,11 @@ Now we'll prompt NotebookLM to suggest ideas for speaker notes, with minimal tex
 
 ## Build & Customize Your Presentation Title Slide & Speaker Notes
 Now that you have a title, and draft presentation outline with speaker notes, it's time to start to build and customize the presentation in Google Slides or the PowerPoint document you created in the Getting Started portion of this activity:
-1. Select the title slide that you want to use and populate it with your **presentation title**, and if you want, **your name** and **email address**.
+1. Select the title slide that you want to use and populate it with your **presentation title**, and if you want, **your name** and **email address** as well as anything else you'd like to put on it (maybe the conference name, class name, or group you're presenting to).
 <img src="images/nblm-slide-title.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Title slide">
-2. Feel free to delete any of the templates that don't fit the look or feel you want for your presentation. As you can see in the image above, I deleted all but four of the template slides on the left-hand side of the screen for my presentation.
+2. Feel free to delete any of the template slides that don't fit the look or feel you want for your presentation. As you can see in the image above, I deleted all but four of the template slides on the left-hand side of the screen for my presentation.
 3. Now let's create an image for your title slide:
-  - Let's go to the [Meta.ai](https://www.meta.ai/){:target="_blank"} website to create an image for the title slide (as of December 2024 Google's free Gemini image creator is not nearly as good as the free Meta.ai image generator). **NOTE**: You'll need to log in to Meta.ai using either a Facebook or Instagram account to create images.
+  - Let's go to the [Meta.ai](https://www.meta.ai/){:target="_blank"} website to create an image for the title slide (as of January 2025 Google's free Gemini image creator is not nearly as good as the free Meta.ai image generator). **NOTE**: You'll need to log in to Meta.ai using either a Facebook or Instagram account to create images.
   - **Copy** and **Paste** the following prompt into Meta.ai chat box and press **Enter** on your keyboard to create an image for your title slide: ```Create an image of a happy student with a badge that represents achievement.```<br>
 <img src="images/nblm-meta-image-1.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Meta.ai creating images of students with badges">
   - **Right mouse click** on the image you'd like to use and then select **Copy Image**. Note: Browsers other than Google's Chrome browser might use slightly different language from "Copy Image."
