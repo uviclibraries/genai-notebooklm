@@ -76,15 +76,15 @@ Now that you have a title, and draft presentation outline with speaker notes, it
 5. Repeat this for each slide until the end of the presentation...
 
 ## Reflection
-> **Title generation**:
+**Title generation**:
 >  - Would creating the title for the presentation using NotebookLM save you time? 
 >  - How much editing of the text would you need to do to get it to a quality level you’d be happy with (if any)?
-> **Text generation**:
+**Text generation**:
 >  - Would creating the text summary of the presentation using NotebookLM save you time? 
 >  - How much editing of the text would you need to do to get it to a quality level you’d be happy with (if any)?
 >  - Were there any factual errors in the presentation text?
 >  - Are there any major points or concepts that NotebookLM missed?
-> **Image generation**:
+**Image generation**:
 >  - Would creating the images for the presentation save you time?
 >  - Are you happy with the quality of the images?
 >  - What other options do you have to include imagery in your presentations?
