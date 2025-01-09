@@ -25,7 +25,7 @@ If you have any questions or get stuck as you work through this exercise, please
 3. Unlike the first activity in this workshop where we used three articles as training data, in this activity we are using only one of them to create a presentation (in either PowerPoint or Google Slides). This is to replicate a typical use case where you've written an assignment or journal article and need to create an accompanying presentation for it.
 <img src="images/5-one-article-selected.png" style="float:right;width:300px;padding:10px;border: 1px solid #555;" alt="Only one article selected">
   - Click on the checked boxes beside, **badge-article-2.pdf** & **badge-article-3.pdf** to deselect these two articles so that NoteboolLM will only use the one remaining selected article to respond to your prompts.
-4. If you haven't created a PowerPoint or Google Slides document to start recording the suggestions you like from NotebookLM, now would be a good time to create one.
+4. If you haven't created a PowerPoint or Google Slides document to start recording suggestions from NotebookLM, now would be a good time to create one.
    - If you'd like, you can use a [UVic presentation template](https://docs.google.com/presentation/d/1fuhWOJu_sq0ivUTY1Ul2h0t7Kff2wZZ0Y5NSnEMh0bY/template/preview){:target="_blank"} in Google Slides, or you can create your template. Make sure to be logged into your Gmail or Google account before you click on the blue **Use Template** button on the top right of the window.
    - If you choose to use the UVic template, feel to to pick and choose from the three different styles of the template. 
 
