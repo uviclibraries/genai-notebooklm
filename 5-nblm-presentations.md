@@ -37,16 +37,18 @@ Get your presentation off to a good start with a catchy presentation title. Let'
    - Copy and paste the title you like best and paste it into the title slide of your presentation. The title I've chosen given my goals for the presentation is: _Badges as Evidence of Achievement & Skills_.
 
 ## Create Presentation Speaker Notes Based on an Article
-Now we'll prompt NotebookLM to suggest ideas for speaker notes, with minimal text on each slide. Research shows that text-heavy slides read by presenters are more difficult to member than slides with a title, image, and minimal additional text that are narrated by the presenter. With that in mind, we will craft a prompt to help suggest slide titles and detailed speaker notes with minimal text on the slides.
+Now we'll prompt NotebookLM to suggest ideas for speaker notes, with minimal text on each slide. Research shows that text-heavy slides read by presenters are more difficult to member than slides with a title, image, and minimal additional text that are narrated by the presenter. With that in mind, we will craft a prompt to help suggest slide titles and detailed speaker notes with minimal text on the slides (to conform with the best practices from Multimedia Learning Theory, in order to help people watching the presentation remember more of it).
 1. In the chat box at the bottom of the page copy and paste the following prompt: ```Create a 10-minute long presentation, with slide titles, and detailed speaker notes, with minimal text on the slides. The audience is a group of graduate students and professors. Start the presentation with an interesting and compelling story. Use as many slides as necessary keeping in mind that I like to use a lot of large images in my presentations.```
 2. Copy the suggested speaker notes and paste them into your working document:
-   - The easiest way to do this is to click on the **Copy** button at the bottom of the chat, and then **Paste** the text into a Google Doc or Microsoft Word document to conveniently edit it.
+   - The easiest way to do this is to click on the **Copy** button at the bottom of the chat, and then **Paste** the text into a **Google Doc** or **Microsoft Word document** to edit the text suggested by NotebookLM.
    - Click on the **Save to note** button on the left to keep a copy of the chat for future reference.
 <img src="images/5-copy-save.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="Copy text and save note">
-3. Now that the presentation outline is in an editable document you can personalize the content, wording, and ordering, as well as correct any factual errors that it's made. As you read the text, ask yourself the following questions: 
+3. Now that the presentation outline is in an editable Google or Word document you can personalize the content, wording, and ordering, as well as correct any factual errors that it's made. As you read the suggested text, ask yourself the following questions as you edit and improve the text: 
 > - What has it done well?
 > - What has it not done well?
 > - What mistakes had it made?
+> - Will using NotebookLM save me any time compared to creating the presentation on my own?
+> - What edits do I need to make to the suggested text?
 <img src="images/5-note-title.png" style="float:right;width:350px;padding:10px;border: 1px solid #555;" alt="Note title">
 4. Note, that if you clicked on the **Save to note** button, the saved note will appear in the bottom half of the "Studio" panel on the right of the web app. The auto-generated title for my note was, "**Digital Badges: Empowering...**" 
 
