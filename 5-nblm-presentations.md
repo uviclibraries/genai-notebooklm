@@ -69,7 +69,7 @@ Now that you have a title, and draft presentation outline with speaker notes, it
 
 ## Build All Other Presentation Slides & Speaker Notes
 1. Copy & paste the title & Speaker notes for the first slide..
-<img src="images/nblm-slide-1-suggestion.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Slide 1 suggested text & image prompt">
+<img src="images/nblm-slide-1-suggestion.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="Slide 1 suggested text & image prompt"><br>
 3. Does anything need editing or updating?
 4. Create an image for the slide by going to [Meta.ai](https://www.meta.ai/){:target="_blank"}
    - Prompt suggestions here...
