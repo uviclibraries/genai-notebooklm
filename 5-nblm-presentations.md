@@ -65,12 +65,12 @@ Now that you have a title, and draft presentation outline with speaker notes, it
 
 > **Reflection**: Are there any potential drawbacks or problems you can think of when creating images for your presentations using GenAI tools?
 
-## Build & Customize All Other Presentation Slides & Speaker Notes
-1. Copy & paste the title & Speaker notes for the first slide
-2. Edit anything?
-
-## Create an Image for Each Slide
-6. Let's go to [Meta.ai](https://www.meta.ai/){:target="_blank"} to create the images (as of December 2024 Google's free Gemini image creator is not nearly as good as the free Meta.ai image generator)
+## Build All Other Presentation Slides & Speaker Notes
+1. Copy & paste the title & Speaker notes for the first slide..
+2. Does anything need editing or updating?
+3. Create an image for the slide by going to [Meta.ai](https://www.meta.ai/){:target="_blank"}
+   - Prompt suggestions here...
+4. Repeat this for each slide until the end of the presentation...
 
 ## Reflection
 > **Title generation**:
