@@ -86,7 +86,9 @@ Now we'll create the rest of the slides for the presentation by repeating the st
 5. Add the speaker notes to the slide by doing the following:
 <img src="images/nblm-slide-notes.png" style="width:700px;padding:10px;border:1px solid #555;" alt="Slide suggested speaker notes text"><br>
 <img src="images/nblm-slide-notes-ppt.png" style="width:800px;padding:10px;border:1px solid #555;" alt="Slide suggested speaker notes on the slide"><br>
-7. Create an image for the slide by going to [Meta.ai](https://www.meta.ai/){:target="_blank"}
+7. Create an image for the slide by:
+   - Delete the current image, by selecting it and pressing the delete button on your keyboard.
+   - going to [Meta.ai](https://www.meta.ai/){:target="_blank"}
    - Prompt suggestions here...
 4. Review the slide title and speaker notes. Does any of the text need any editing or updating?
 5. Repeat this for each slide until the end of the presentation...
