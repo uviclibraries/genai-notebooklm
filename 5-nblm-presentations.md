@@ -78,20 +78,23 @@ Now we'll create the rest of the slides for the presentation by repeating the st
    - **Right-mouse click** on the slide you want to duplicate.
    - Select **Duplicate slide** from the popup menu.
 <img src="images/nblm-slide-duplicate3.png" style="width:800px;padding:10px;border:1px solid #555;" alt="Directions on how to duplicate a template slide">
-3. Add the title and text to the slide by doing the following:
-   - Copy the suggested slide title from the document where you copied and paste the slide title suggested by NotebookLM into the slide.
-   - **Note**: It is often helpful when pasting to **Paste & match style...**
-<img src="images/nblm-slide-title2.png" style="width:700px;padding:10px;border:1px solid #555;" alt="Slide suggested title"><br>
+2. Add the title and text to the slide by doing the following:
+   - Copy the suggested slide title from the document where you saved NotebookLM's suggestions.
+<img src="images/nblm-slide-title2.png" style="width:700px;padding:10px;border:1px solid #555;" alt="Slide suggested title">
+  - Paste the title text into the title block at the top left of the slide.
+  - **Note**: It is often helpful when pasting to **Paste & match style...**
 <img src="images/nblm-slide-title-ppt.png" style="width:800px;padding:10px;border:1px solid #555;" alt="Slide suggested title on the slide"><br>
-5. Add the speaker notes to the slide by doing the following:
+3. Add the speaker notes to the slide by doing the following:
+   - Copy the suggested speaker notes from the document where you saved NotebookLM's suggestions.
 <img src="images/nblm-slide-notes.png" style="width:700px;padding:10px;border:1px solid #555;" alt="Slide suggested speaker notes text"><br>
+  - Paste the speaker note text into the speaker note area below the slide.
 <img src="images/nblm-slide-notes-ppt.png" style="width:800px;padding:10px;border:1px solid #555;" alt="Slide suggested speaker notes on the slide"><br>
-7. Create an image for the slide by:
+5. Create an image for the slide by:
    - Delete the current image, by selecting it and pressing the delete button on your keyboard.
    - going to [Meta.ai](https://www.meta.ai/){:target="_blank"}
    - Prompt suggestions here...
-4. Review the slide title and speaker notes. Does any of the text need any editing or updating?
-5. Repeat this for each slide until the end of the presentation...
+6. Review the slide title and speaker notes. Does any of the text need any editing or updating?
+7. Repeat this for each slide until the end of the presentation...
 
 ## Reflection
 **Title generation**:
