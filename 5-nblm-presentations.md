@@ -106,7 +106,7 @@ Now we'll create the rest of the slides for the presentation by repeating the st
 ## Reflection
 **Title generation**:
 >  - Would creating the title for the presentation using NotebookLM save you time? 
->  - How much editing of the text would you need to do to get it to a quality level you’d be happy with (if any)?
+>  - Are you happy with the quality level of the titles NotebookLM generated?
 
 **Text generation**:
 
