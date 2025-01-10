@@ -69,18 +69,19 @@ Now that you have a title, and draft presentation outline with speaker notes, it
 
 ## Build All Other Presentation Slides & Speaker Notes
 Now we'll create the rest of the slides for the presentation by: 
-- Create new slides using the template
-- Add the slide title/text
+- Creating new slides using a template slide
+- Add the slide title/text to the new slide
 - Add the speaker's notes
 - Create an image to go along with the title and speaker notes
   
 1. Create a new slide from the template...
-2. Copy & paste the title & Speaker notes for the first slide..
+<img src="images/nblm-duplicate-slide.png" style="width:800px;padding:10px;border:1px solid #555;" alt="Directions on how to duplicate a template slide">
+3. Copy & paste the title & Speaker notes for the first slide..
 <img src="images/nblm-slide-1-suggestion.png" style="width:700px;padding:10px;border:1px solid #555;" alt="Slide 1 suggested text & image prompt"><br>
-3. Does anything need editing or updating?
-4. Create an image for the slide by going to [Meta.ai](https://www.meta.ai/){:target="_blank"}
+4. Does anything need editing or updating?
+5. Create an image for the slide by going to [Meta.ai](https://www.meta.ai/){:target="_blank"}
    - Prompt suggestions here...
-5. Repeat this for each slide until the end of the presentation...
+6. Repeat this for each slide until the end of the presentation...
 
 ## Reflection
 **Title generation**:
