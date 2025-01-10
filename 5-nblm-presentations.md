@@ -94,11 +94,10 @@ Now we'll create the rest of the slides for the presentation by repeating the st
    - Copy the suggested prompt from the document where you saved NotebookLM's suggestions.
 <img src="images/nblm-slide-image-prompt.png" style="width:700px;padding:10px;border:1px solid #555;" alt="Prompt for GenAI generated image."><br>
    - **Paste** the prompt into Meta.ai chat box and press **Enter** on your keyboard to create an image for the slide.<br>
-<img src="images/nblm-meta-image-1.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Meta.ai creating images of students with badges">
-  - If the images it generates don't look like they're a good fit for your slide, feel free to make follow up prompts to fine tune the image generation process. For example you might want a follup prompt like this: ```Make the badges larger and more colorful```
-  - **Right mouse click** on the image you'd like to use and then select **Copy Image**. Note: Browsers other than Google's Chrome browser might use slightly different language from "Copy Image."
-  - Go to the slide in your presentation and **Paste** the image you just created onto the slide. Then move, resize and crop the image.
-6. Review the slide title and speaker notes. Does any of the text need any editing or updating?
+<img src="images/nblm-meta-image-1.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Meta.ai creating images of students with badges"><br>
+   - If none of the images it generates look like they are not a good fit for your slide, feel free to make follow-up prompts to fine-tune the images generated. For example, you might want to use a follow-up prompt like this: ```Make the badges larger and more colorful```
+   - Once you have a badge you're happy with, **Right mouse click** on the image you'd like to use and then select **Copy Image**. Note: Browsers other than Google's Chrome browser might use slightly different language from "Copy Image."
+   - Go to the slide in your presentation and **Paste** the image you just created onto the slide. Then move, resize and crop the image.
 7. Repeat this for each slide until the end of the presentation...
 
 ## Reflection
