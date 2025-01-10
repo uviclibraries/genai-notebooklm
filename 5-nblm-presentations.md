@@ -98,9 +98,9 @@ Now we'll create the rest of the slides for the presentation by repeating the st
    - If none of the images it generates look like they are not a good fit for your slide, feel free to make follow-up prompts to fine-tune the images generated. For example, you might want to use a follow-up prompt like this: ```Make the badges larger and more colorful```
    - Once you have a badge you're happy with, **Right mouse click** on the image you'd like to use and then select **Copy Image**. Note: Browsers other than Google's Chrome browser might use slightly different language from "Copy Image."
    - Go to the slide in your presentation and **Paste** the image you just created onto the slide. Then move, resize and crop the image.
-6. Review the slide title, image and speaker notes to make sure that they all are:
-   - Accurate: Are there any factual errors in the text or title? Do you know enought about the topic to catch any facutual errors without referring to the source journal article?
-   - Appropriate: Is the image generated appropriate and related enough to the title and speaker notes that it renforces the message you are trying to communicate and not distracting form the message?
+6. **Review the slide title, image and speaker notes to make sure that they all are**:
+   - **Accurate**: Are there any factual errors in the text or title? Do you know enough about the topic to catch any factual errors without referring to the source journal article? If not then you'd be wise to go back into NotebookLM and click on the associated citations for the claims you need to verify.
+   - **Appropriateness**: Is the image generated appropriate and related enough to the title and speaker notes that it reinforces the message you are trying to communicate and is not distracting from the message? If the image is not reinforcing your message, you could try some new prompts, or to websites that have royalty-free images like [Pexels](htps://pexels.com){:target="_blank"} or [Unspash.com](https://unsplash.com){:target="_blank"}. 
 7. Repeat this process for each slide until you've finished creating the presentation.
 
 ## Reflection
