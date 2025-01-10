@@ -82,10 +82,10 @@ Now we'll create the rest of the slides for the presentation by repeating the st
    - Copy the suggested slide title from the document where you copied and paste the slide title suggested by NotebookLM into the slide.
    - **Note**: It is often helpful when pasting to **Paste & match style...**
 <img src="images/nblm-slide-title2.png" style="width:700px;padding:10px;border:1px solid #555;" alt="Slide suggested title"><br>
-<img src="images/nblm-slide-title-ppt.png" style="width:700px;padding:10px;border:1px solid #555;" alt="Slide suggested title on the slide"><br>
-5. Add the speaker notes to the slide...
+<img src="images/nblm-slide-title-ppt.png" style="width:800px;padding:10px;border:1px solid #555;" alt="Slide suggested title on the slide"><br>
+5. Add the speaker notes to the slide by doing the following:
 <img src="images/nblm-slide-notes.png" style="width:700px;padding:10px;border:1px solid #555;" alt="Slide suggested speaker notes text"><br>
-<img src="images/nblm-slide-notes-ppt.png" style="width:700px;padding:10px;border:1px solid #555;" alt="Slide suggested speaker notes on the slide"><br>
+<img src="images/nblm-slide-notes-ppt.png" style="width:800px;padding:10px;border:1px solid #555;" alt="Slide suggested speaker notes on the slide"><br>
 7. Create an image for the slide by going to [Meta.ai](https://www.meta.ai/){:target="_blank"}
    - Prompt suggestions here...
 4. Review the slide title and speaker notes. Does any of the text need any editing or updating?
