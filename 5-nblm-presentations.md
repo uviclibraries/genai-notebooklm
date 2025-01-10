@@ -68,14 +68,14 @@ Now that you have a title, and draft presentation outline with speaker notes, it
 > **Reflection**: Are there any potential drawbacks or problems you can think of when creating images for your presentations using GenAI tools?
 
 ## Build All Other Presentation Slides & Speaker Notes
-Now we'll create the rest of the slides for the presentation by: 
+Now we'll create the rest of the slides for the presentation by repeating the steps in this section for each of the remaining slides to be created: 
 - Creating new slides using a template slide
 - Add the slide title/text to the new slide
 - Add the speaker's notes
 - Create an image to go along with the title and speaker notes
   
 1. Create a new slide from the template...
-<img src="images/nblm-duplicate-slide.png" style="width:800px;padding:10px;border:1px solid #555;" alt="Directions on how to duplicate a template slide">
+<img src="images/nblm-slide-duplicate.png" style="width:800px;padding:10px;border:1px solid #555;" alt="Directions on how to duplicate a template slide">
 3. Copy & paste the title & Speaker notes for the first slide..
 <img src="images/nblm-slide-1-suggestion.png" style="width:700px;padding:10px;border:1px solid #555;" alt="Slide 1 suggested text & image prompt"><br>
 4. Does anything need editing or updating?
