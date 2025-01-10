@@ -74,7 +74,9 @@ Now we'll create the rest of the slides for the presentation by repeating the st
 - Add the speaker's notes
 - Create an image to go along with the title and speaker notes
   
-1. Create a new slide from the template...
+1. Duplicate a template slide:
+   - **Right-mouse click** on the slide you want to duplicate.
+   - Select **Duplicate slide** from the popup menu.
 <img src="images/nblm-slide-duplicate3.png" style="width:800px;padding:10px;border:1px solid #555;" alt="Directions on how to duplicate a template slide">
 3. Add the title and text to the slide ...
 <img src="images/nblm-slide-1-suggestion.png" style="width:700px;padding:10px;border:1px solid #555;" alt="Slide 1 suggested text & image prompt"><br>
