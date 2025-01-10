@@ -87,11 +87,15 @@ Now we'll create the rest of the slides for the presentation by repeating the st
 3. Add the speaker notes to the slide by doing the following:
    - Copy the suggested speaker notes from the document where you saved NotebookLM's suggestions.
 <img src="images/nblm-slide-notes.png" style="width:700px;padding:10px;border:1px solid #555;" alt="Slide suggested speaker notes text"><br>
-  - Paste the speaker note text into the speaker note area below the slide.
+   - Paste the speaker note text into the speaker note area below the slide.
 <img src="images/nblm-slide-notes-ppt.png" style="width:800px;padding:10px;border:1px solid #555;" alt="Slide suggested speaker notes on the slide"><br>
 5. Create an image for the slide by:
-   - Delete the current image, by selecting it and pressing the delete button on your keyboard.
-   - going to [Meta.ai](https://www.meta.ai/){:target="_blank"}
+   - Delete the current image, by **selecting the image** and pressing the **delete** button on your keyboard.
+   - Copy the suggested prompt from the document where you saved NotebookLM's suggestions.
+<img src="images/nblm-slide-image-prompt.png" style="width:700px;padding:10px;border:1px solid #555;" alt="Prompt for GenAI generated image."><br>
+   - Go to [Meta.ai](https://www.meta.ai/){:target="_blank"} website and:
+   - **New conversation**...
+   - Paste in the prompt to at the bottom of the webpage and press enter.
    - Prompt suggestions here...
 6. Review the slide title and speaker notes. Does any of the text need any editing or updating?
 7. Repeat this for each slide until the end of the presentation...
