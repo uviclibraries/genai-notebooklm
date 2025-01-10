@@ -78,10 +78,13 @@ Now we'll create the rest of the slides for the presentation by repeating the st
    - **Right-mouse click** on the slide you want to duplicate.
    - Select **Duplicate slide** from the popup menu.
 <img src="images/nblm-slide-duplicate3.png" style="width:800px;padding:10px;border:1px solid #555;" alt="Directions on how to duplicate a template slide">
-3. Add the title and text to the slide ...
-<img src="images/nblm-slide-1-suggestion.png" style="width:700px;padding:10px;border:1px solid #555;" alt="Slide 1 suggested text & image prompt"><br>
-4. Add the speaker notes to the slide...
-5. Create an image for the slide by going to [Meta.ai](https://www.meta.ai/){:target="_blank"}
+3. Add the title and text to the slide by doing the following:
+   - Copy the suggested slide title from the document where you copied and paste the slide title suggested by NotebookLM into the slide.
+   - **Note**: It is often helpful when pasting to **Paste & match style...**
+<img src="images/nblm-slide-title2.png" style="width:700px;padding:10px;border:1px solid #555;" alt="Slide suggested title"><br>
+<img src="images/nblm-slide-title-ppt.png" style="width:700px;padding:10px;border:1px solid #555;" alt="Slide suggested title"><br>
+5. Add the speaker notes to the slide...
+6. Create an image for the slide by going to [Meta.ai](https://www.meta.ai/){:target="_blank"}
    - Prompt suggestions here...
 4. Review the slide title and speaker notes. Does any of the text need any editing or updating?
 5. Repeat this for each slide until the end of the presentation...
