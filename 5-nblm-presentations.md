@@ -8,8 +8,8 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 # Convert an Article to a Presentation
 <img src="images/6-chatgpt-powerpoint.jpg" style="float:right;width:400px;padding:10px;" alt="GenAI helping someone create a PowerPoint presentation">
 You've written an essay or journal article, and now you need to create a conference presentation? NotebookLM can help. In this activity, with the help of NotebookLM and Meta.ai, you will create a presentation based on a journal article or essay.
-
-> NOTE: Like all other Generative AI tools, NotebookLM will sometimes make mistakes, although because you are providing it with training data, it will likely make fewer mistakes than general purpose Generative AI tools. Always research any factual claims it makes if you are not a subject area expert. 
+> NOTE 1: Before using NotebookLM to help you create a presentation based on a paper you've written, be sure to check-in with your instructor to make sure that they will allow you to use NotebookLM in this way.
+> NOTE 2: Like all other Generative AI tools, NotebookLM will sometimes make mistakes, although because you are providing it with training data, it will likely make fewer mistakes than general purpose Generative AI tools. Always research any factual claims it makes if you are not a subject area expert. 
 
 If you have any questions or get stuck as you work through this exercise, please ask the instructor for assistance.
 
