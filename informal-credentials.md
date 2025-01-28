@@ -3,7 +3,7 @@ layout: default
 title: Earn a Workshop Badge
 nav_order: 9
 ---
-<img src="REPLACE ME" style="float:right;width:180px;" alt="REPLACE Image"> 
+<img src="https://api.badgr.io/public/badges/2NmKy9TnSm6HUIWiZPdt7A/image" style="float:right;width:180px;"> 
 
 # Informal Credentials or Digital Badges
 
@@ -13,7 +13,7 @@ DSC electronic badges are [cryptographically signed](https://badgecheck.io/){:ta
 
 DSC badges are awarded at the request of workshop participants after a DSC staff member has verified that they have successfully completed one or more of the workshop's hands-on workshop activities. You can see a list of all the badges offered by the DSC on our [Badgr page](https://badgr.com/public/issuers/HI5nEIsFQKiFDSGJWrYNxQ/badges){:target="_blank"}.
 
-### Earn an Informal Credential or Badge
+### Earn an Informal Credential or Badge for Generative AI: NotebookLM - A Personal Tool for Research & Productivity
 
 # WE ARE CURRENTLY DEVELOPING THE CRITERIA FOR EARNING A BADGE FOR THIS WORKSHOP. 
 - CRITERIA HERE...
