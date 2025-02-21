@@ -3,6 +3,9 @@ layout: default
 title: Pre-Workshop Activities
 nav_order: 2
 ---
+## UVic Guidelines for Using Generative AI in Research
+As a researcher it is very important that you carefully review UVic's guidelines for using [*Generative AI in research*](https://www.uvic.ca/research-innovation/strategic-initiatives/gen-ai-in-research/index.php){:target="_blank"}, which are based on Canada's [Tri-agency Artificial Intelligence guidelines](https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/use-generative-artificial-intelligence-development-and-review-research-proposals/guidance-use-artificial-intelligence-development-and-review-research-grant-proposals){:target="_blank"}.
+
 ## Pre-Workshop Videos & Activities
 This workshop consists of a small amount of instruction so that most of the scheduled time can be devoted to interactive practice with various Generative AI (GenAI) tools. This allows participants to learn to use key features of these GenAI tools for research purposes and indirectly for general productivity. Some of the GenAI tools included in the active learning portion of the workshop are:
 - [Microsoft CoPilot](https://copilot.microsoft.com/){:target="_blank"} (UVic licensed) (general purpose)
