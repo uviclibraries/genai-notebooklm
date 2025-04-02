@@ -12,7 +12,10 @@ nav_order: 1
 - Active learning time: 60 min
 
 ## About the workshop 
-Workshop participants will explore the use of NoteBookLM as a personal Generative AI (GenAI) tool grounded in the information you trust. “When you upload the documents central to your projects, tools like NotebookLM instantly become an expert in the information” in the documents you uploaded to them (NotebookLM.google, 2024). In the hands-on portion of the workshop, participants will explore GenAI tool usage and output evaluation for accuracy and biases. The workshop will also encourage informed, responsible cloud-based GenAI use.
+- This workshop focuses on using NoteBookLM, a personal Generative AI (GenAI) tool, that becomes an expert on the specific documents you provide.
+- Crucially, NoteBookLM's functionality is directly dependent on the documents you upload. It uses these documents as its training data.
+- Participants will engage in hands-on activities to explore GenAI tool usage and learn how to evaluate output for accuracy and potential biases, based on the uploaded documents.
+- The workshop will also promote informed and responsible use of cloud-based GenAI.
 
 ## Learning objectives
 
