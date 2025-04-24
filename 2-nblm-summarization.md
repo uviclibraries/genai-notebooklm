@@ -27,7 +27,7 @@ Instead of summarizing all three journal articles we're going to direct NoteBook
    - Let's try again and make it a little bit longer: ```Shorten the promotional message to 150 words.```
    - How does it look now? Better? Worse? Feel free to play around with this giving NotebookLM additional instructions on length, tone, and audience (maybe have it craft a message for students duing their first week of classes?)
 4. Can you think of any other ways you could summarize the journal article for a specific purpose?
-   - How about summarizing it for 5 key points for an academic poster you need to create based on an article you wrote: ```Provide me with 5 one-sentence bullet points to help me create an academic poster for a Makerspace conference poster session.``
+   - How about summarizing it for 5 key points for an academic poster you need to create based on an article you wrote: ```Provide me with 5 one-sentence bullet points to help me create an academic poster for a Makerspace conference poster session.```
    - Does the text NoteBookLM response look helpful?
    - Are there any inaccuracies?
    - Feel free to give it follow-up prompts of course
