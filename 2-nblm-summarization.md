@@ -40,7 +40,7 @@ Instead of summarizing all three journal articles we're going to direct NoteBook
 ## Summarize Meeting Notes & Create Action Items
 We're going to summarize a transcription of a meeting held via Zoom for a fictitious "Makerspace Executive Weekly Meeting" in a new notebook:
 1. Create a new notebook:
-   - Click on the **NotebookLM logo** on the top right of the screen, which will take you out of the current notebook and to the main NotebookLM screen.
+   - Click on the **NotebookLM logo** on the top left of the screen, which will take you out of the current notebook and to the main NotebookLM screen.
    - Click on the blue **Create new** button on the left side of the screen. You're in a new notebook now.
 <img src="images/nblm-new-notebook3.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="Try NotebookLM button"><br>
 2. Add the PDF of the meeting notes:
