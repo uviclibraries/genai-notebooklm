@@ -46,28 +46,28 @@ This workshop is part of our Generative AI Workshop Pathway. The Pathway worksho
 **NotebookLM** has evolved into a powerful AI-driven research and note-taking assistant that helps you summarize, visualize, and learn from your own uploaded materials.  
 As of **October 2025**, NotebookLM now includes major upgrades across visual tools, AI responses, and collaboration features.
 
-### 🌟 Core Features
+### Core Features
 - **AI-grounded responses** – NotebookLM now generates answers strictly based on your provided sources, with inline citations for easy verification.  
 - **Expanded input formats** – Upload PDFs, Google Docs, Word files, text, website links, or even transcribe YouTube videos directly.
 - **Studio Panel** – A new workspace for generating and organizing custom outputs like reports, study guides, and blog drafts.
 
-### 🧠 Learning & Output Tools
+### Learning & Output Tools
 - **Flashcards and Quizzes** – Automatically generate study aids from your uploaded materials, with adjustable topic and difficulty levels.  
 - **Mind Maps** – Create interactive diagrams to explore conceptual relationships across your sources.  
 - **Reports** – Updated report generator suggests content structures dynamically based on your notes.
 
-### 🔊 Audio and 🎥 Video Overviews
+###  Audio and Video Overviews
 - **Audio Overviews** – Turn documents into AI-hosted discussions with multiple styles (Brief, Critique, Debate).  
 - **Interactive Mode (Beta)** – Speak to the AI hosts to ask follow-up questions live.  
 - **Video Overviews** – Generate narrated video summaries with visuals from Google’s *Nano Banana* image model (watercolor, whiteboard, or anime styles).
 
-### 🤝 Collaboration and Premium Options
+### Collaboration and Premium Options
 - **Public Notebooks** – Share your notebooks via links; others can view and interact without editing your originals.  
 - **Team Collaboration** – Invite colleagues with customizable access levels.  
 - **NotebookLM Plus** – Premium plan offering enhanced audio/video limits, analytics, and team dashboards.  
 - **Enterprise Tier** – Adds Microsoft Office integration, advanced permissions, and corporate security options.
 
-### 🎓 Learning Tools & Partnerships
+### Learning Tools & Partnerships
 - **Featured Notebooks** – Access curated examples from *The Economist* and *The Atlantic.*  
 - **Discovery Tool** – Search and add related references directly within NotebookLM.  
 - **Academic Integration** – New collaboration with *OpenStax* provides interactive textbooks and peer-reviewed materials.
