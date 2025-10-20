@@ -29,18 +29,7 @@ At the end of this workshop, you will be able to:
 8. Summarize Survey Feedback: Summarize large numbers of short-answer survey responses, to help you quickly understand the key issues being brought up by respondents. 
 9. Presentation Assistance: Based on a journal article create a script along with slide titles for a Presentation with Google Slides or Microsoft PowerPoint.
 
-[NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
-
-## Generative AI Workshop Pathway
-
-This workshop is part of our Generative AI Workshop Pathway. The Pathway workshops are designed to help subject area experts and non-experts, and help meet the needs of students, faculty, & staff by offering foundational to advanced research & productivity skills training:
-
-- **[GenAI Introductory Workshops](https://uviclibraries.github.io/genai-pathway/#introductory-workshops){:target="_blank"}**
-- **[GenAI Intermediate Workshops](https://uviclibraries.github.io/genai-pathway/#intermediate-workshops){:target="_blank"}**
-- **[GenAI Advanced Workshops](https://uviclibraries.github.io/genai-pathway/#intermediate-workshops){:target="_blank"}**
-
 ---
-
 ## 🔄 NotebookLM 2025 Feature Update
 
 **NotebookLM** has evolved into a powerful AI-driven research and note-taking assistant that helps you summarize, visualize, and learn from your own uploaded materials.  
@@ -73,5 +62,15 @@ As of **October 2025**, NotebookLM now includes major upgrades across visual too
 - **Academic Integration** – New collaboration with *OpenStax* provides interactive textbooks and peer-reviewed materials.
 
 ---
+[NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
 
+## Generative AI Workshop Pathway
+
+This workshop is part of our Generative AI Workshop Pathway. The Pathway workshops are designed to help subject area experts and non-experts, and help meet the needs of students, faculty, & staff by offering foundational to advanced research & productivity skills training:
+
+- **[GenAI Introductory Workshops](https://uviclibraries.github.io/genai-pathway/#introductory-workshops){:target="_blank"}**
+- **[GenAI Intermediate Workshops](https://uviclibraries.github.io/genai-pathway/#intermediate-workshops){:target="_blank"}**
+- **[GenAI Advanced Workshops](https://uviclibraries.github.io/genai-pathway/#intermediate-workshops){:target="_blank"}**
+
+---
 
