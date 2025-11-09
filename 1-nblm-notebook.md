@@ -6,124 +6,230 @@ parent: Workshop Activities
 ---
 
 # Getting Started with NotebookLM’s _Notebook Guide_
-<img src="images/5-notebooklm-logo.png" style="float:right;width:350px;padding:10px;" alt="NotebookLM Logo">
+<img src="images/5-notebooklm-logo-2025.png" style="float:right;width:280px;padding:10px;" alt="NotebookLM Logo">
 
-> “Upload PDFs, websites, YouTube videos, audio files, Google Docs, or Google Slides, and NotebookLM will summarize them and make interesting connections between topics. With your sources in place, NotebookLM becomes a personalized AI expert grounded in the information that matters most to you and provides clear citations to exact quotes from your sources. NotebookLM does not use your personal data — including uploads, queries, and responses — to train its models.” ([NotebookLM](https://notebooklm.google.com/){:target="_blank"}, 2025)
+> **What NotebookLM does (2025):**  
+> Upload PDFs, websites, YouTube videos, audio files, Google Docs/Slides, and more. NotebookLM builds a **personalized AI expert** based on *your* sources (not the open web), with **inline citations**, **notebook-level tools** (Reports, Study Guide, Timeline, FAQ), and **Studio** (Audio/Video Overviews, Flashcards, Quizzes). Mobile apps (iOS/Android) now support nearly all workflows.
 
-> **Accuracy & Safety:** NotebookLM reduces errors by grounding on your sources, but it can still make mistakes. Always verify factual claims, especially outside your expertise.
+> **Accuracy & Safety**  
+> NotebookLM is more reliable when it stays grounded in your sources, but it **can still make errors**. Verify claims (especially statistics, dates, and quotes), and prefer sources with clear authorship and publication details.
 
-If you have questions or get stuck during the exercise, please ask the instructor.
+If you have questions during the exercise, please ask your instructor.
 
 ---
 
-## Log in to NotebookLM
-1. Go to the **[NotebookLM website](https://notebooklm.google.com/){:target="_blank"}**.
-2. Click **Try NotebookLM** and sign in with a Google/Gmail account.  
-   > If you don’t have an account, click **Create account** and follow the prompts. Ask your instructor if you run into issues.
+## Quick Orientation (the UI at a glance)
 
-<img src="images/5-notebooklm-try.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Try NotebookLM button"><br>
+- **Left: Sources panel** – your uploaded items (PDF, links, Docs). Click to view a source and its **auto-summary**.  
+- **Center: Chat** – ask questions, get **inline citations** to exact passages, request transformations, or generate structured outputs.  
+- **Right: Studio (Notebook Guide)** – one-click builders: **Audio Overview**, **Reports**, **Study Guide**, **Timeline**, **FAQ**, plus **Flashcards** & **Quizzes**.
+
+> **Tip:** Start with **Notebook Guide** to get a structured “lay of the land,” then use **Chat** for specifics and **Studio** for high-fidelity deliverables.
+
+---
+
+## Log in to NotebookLM (Web + Mobile)
+
+1) Go to **[notebooklm.google.com](https://notebooklm.google.com/){:target="_blank"}**  
+2) Click **Try NotebookLM** and sign in with your Google account.  
+   - No account? Click **Create account** and follow the steps.  
+3) Optional: Install the **NotebookLM** mobile app (iOS/Android). The app now supports **Flashcards, Quizzes,** and full notebook workflows (uploading from device, listening to Audio Overviews on the go, etc.).
+
+> **Privacy note:** Your sources, questions, and responses are used to serve you in your notebook and are **not** used to train general models. Share notebooks only with people who should see your materials.
 
 ---
 
 ## Create a Notebook & Add Documents
-You’ll start by creating a notebook and adding seed documents so NotebookLM has sources to ground on.
 
-1. **Download the three PDFs** for this activity (note your download location — typically “Downloads” or “Desktop”):
-   - [Document 1](images/badge-article.pdf){:target="_blank"}
-   - [Document 2](images/badge-article-2.pdf){:target="_blank"}
+You’ll create a new notebook, then upload a small set of sources so NotebookLM can ground its responses.
+
+1) **Download the three PDFs** (activity dataset):  
+   - [Document 1](images/badge-article.pdf){:target="_blank"}  
+   - [Document 2](images/badge-article-2.pdf){:target="_blank"}  
    - [Document 3](images/badge-article-3.pdf){:target="_blank"}
-2. Click the blue **Create** button to make a new notebook.  
-   <img src="images/nblm-create.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="Create notebook"><br>
-3. **Upload** the three PDFs using the **Choose file** control in the center of the page.  
-   <img src="images/nblm-add-docs.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="Add documents"><br>
 
-Good job — you’re ready to explore the **Notebook Guide**.
+2) Click **Create** (top left) to start a notebook.  
+   <img src="images/2025-nblm-create.png" style="width:680px;padding:10px;border:1px solid #555;" alt="Create a new notebook"><br>
 
----
+3) **Upload your PDFs** using **Choose file** (center pane).  
+   <img src="images/2025-nblm-upload.png" style="width:820px;padding:10px;border:1px solid #555;" alt="Upload sources"><br>
 
-## Explore the Notebook Guide
+4) Confirm each source appears in the **Sources** panel (left). Click a source to view its **auto-summary** at the top.
 
-The Notebook Guide auto-generates structured helpers from your sources: **Audio Overview**, **Reports**, **Study Guide**, **Timeline**, and **FAQ**. Use these to get a “lay of the land” before deep-diving in Studio.
-
-> **Note on citations:** NotebookLM’s **chat responses** include inline citations. Some **Notebook Guide** outputs (e.g., Reports) summarize without inline citations, so plan to spot-check facts against source passages.
-
-### 1) Source Summaries
-- Click each source in the left panel and read its **auto-summary** (top of the source view).  
-  <img src="images/nblm-summary.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="Source summary"><br>
-
-> **Reflection:** Where does the summary capture the main points well? Where would you add nuance? Note 2 claims to verify in the original PDF.
+> **Best practice:** Use clean, accessible PDFs (selectable text, not just images). If you must use scans, ensure OCR is embedded or add a text transcript.
 
 ---
 
-### 2) **Audio Overview** (Podcast-style two-host discussion)
-- Click **Generate** to create the Audio Overview, or **Customize** first to specify audience and goals.  
-  Example customization:  
-  `Audience: Parents sending a child to university; focus on job prospects after graduation.`
-- Generation typically takes 2–5 minutes and yields ~10–18 minutes of audio.  
-  <img src="images/nblm-generate-podcast.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="Generate Audio Overview"><br>
-- **Play** via the light-blue play button.  
-- **Download** via the three-dot menu (⋮) → **Download**.  
-- Sample (if you don’t want to wait): [Podcast Summary Audio](images/nblm-podcast-summary.mp3){:target="_blank"} (12-min).
+## Explore the Notebook Guide (2025 Upgrades)
 
-> **Reflection:**  
-> • What worked well in the two-host explanation?  
-> • Where did it gloss over details or over-claim?  
-> • How could a stakeholder (e.g., a dean/employer) use this format?
+The **Notebook Guide** (in Studio) gives you one-click overviews of everything in your notebook. These are **grounded** on your uploaded sources.
 
----
+> **Citations behavior:**  
+> - **Chat**: shows inline citations by default.  
+> - **Reports** and some Notebook Guide outputs: may summarize without inline citations. For important facts, ask Chat:  
+>   *“Cite the exact sentence and page supporting this claim.”*
 
-### 3) **Reports** (Briefing Document)
-- Reports provide a structured overview (sections, bullets) of your sources.  
-- Click **Reports**. It usually takes ~30–60 seconds to generate under **Notes** (e.g., “Digital Badges: Comprehensive Overview”).  
-  <img src="images/nblm-briefing-doc-button2.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="Reports button"><br>
+### 1) Source Summaries (per-document overview)
+Click a source (left panel) to see its autogenerated **summary** plus key topics.
 
-> **Reflection:**  
-> • Is the structure clear and useful?  
-> • Where do you want explicit citations to verify claims?  
-> • How might you adapt this into a handout or executive summary?
+<img src="images/2025-nblm-source-summary.png" style="width:750px;padding:10px;border:1px solid #555;" alt="Source summary view"><br>
+
+**Why use it:** Quickly gauge a document’s scope before deep-diving.
+
+> **Reflection:** Where is the summary faithful? Where is it vague? Write down *two* claims to verify in the original.
 
 ---
 
-### 4) **Study Guide**
-- Generates: short-answer questions (with answers), essay prompts (without answers), and a glossary.  
-- Click **Study Guide** (30–60 seconds to generate).  
-  <img src="images/nblm-study-guide-button2.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="Study Guide button"><br>
+### 2) Audio Overview (podcast-style, two hosts)
+Generates a **two-speaker audio** that walks through your notebook’s content. You can **Customize** audience, tone, and **length** (Shorter/Default/Longer). An **Interactive mode** lets you “join the conversation” to ask follow-ups.
 
-> **Reflection:**  
-> • Are the Q&A accurate and at the right difficulty?  
-> • Which essay prompt best surfaces deeper reasoning?  
-> • Where would you add/challenge a definition in the glossary?
+<img src="images/2025-nblm-audio-overview.png" style="width:620px;padding:10px;border:1px solid #555;" alt="Generate Audio Overview"><br>
 
----
+**Steps**
+1. Go to **Studio → Audio Overview**  
+2. Click **Customize** → define *Audience*, *Goals*, *Length* → **Generate**  
+3. Click **Play**, or **⋮ → Download** for offline listening
 
-### 5) **Timeline**
-- Lists major events/findings chronologically across your sources — great for multi-document sets.  
-- Click **Timeline** (30–60 seconds to generate).  
-  <img src="images/nblm-timeline-button2.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="Timeline button"><br>
+**Example customization**  
+“**Audience:** university parents worried about job prospects; **Goal:** demystify how digital badges help employers understand student skills; **Tone:** encouraging but realistic.”
 
-> **Reflection:**  
-> • Did the timeline miss an important milestone?  
-> • Where did ordering clarify the narrative of your topic?  
-> • One item you’d fact-check directly in the source?
+> **Reflection:** Where was the explanation strong? What should be shorter/clearer? How might this help non-technical stakeholders?
 
 ---
 
-### 6) **FAQ**
-- Produces source-specific Q&A snapshots — helpful for quickly locating which document covers which concept.  
-- Click **FAQ** (30–60 seconds to generate).  
-  <img src="images/nblm-faq-button2.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="FAQ button"><br>
+### 3) Reports (briefing documents)
+Creates a **sectioned, skimmable report** with headings, bullets, and takeaways from your full source set. Can be generated in multiple languages.
 
-> **Reflection:**  
-> • Which answers were strongest? Which need citation or nuance?  
-> • How could you use this as a study or revision tool?
+<img src="images/2025-nblm-reports.png" style="width:460px;padding:10px;border:1px solid #555;" alt="Reports button"><br>
+
+> **Reflection:** Is the structure optimal for your audience (executive vs. student)? Where do you need citations? Ask Chat to attach citations to specific claims.
 
 ---
 
-> **Heads up:** The old **Table of Contents** feature/button is no longer available in the Notebook Guide.
+### 4) Study Guide (Q&A, essays, glossary)
+Builds:
+- Short-answer questions (with answers)  
+- Essay prompts (no answers)  
+- Glossary of terms (good for quick refreshers)
+
+<img src="images/2025-nblm-study-guide.png" style="width:460px;padding:10px;border:1px solid #555;" alt="Study Guide button"><br>
+
+> **Reflection:** Are the questions pitched at the right level? Which glossary entry needs clearer wording or a source quote?
 
 ---
 
-## Chatting with Your Notebook
-Next, you’ll experiment with interactive chat techniques on your sources and the outputs above to probe details, verify claims, and create variants.
+### 5) Timeline (chronological synthesis)
+Extracts **events/findings** and orders them across all sources.
 
-[NEXT STEP: Text/Audio/Video Summarization](2-nblm-summarization){: .btn .btn-blue }
+<img src="images/2025-nblm-timeline.png" style="width:460px;padding:10px;border:1px solid #555;" alt="Timeline button"><br>
+
+> **Reflection:** What surprised you about the sequencing? Name one timeline item you’ll confirm directly in the source.
+
+---
+
+### 6) FAQ (document-scoped questions)
+Auto-generates an FAQ that helps you find “which source says what” without re-reading every page.
+
+<img src="images/2025-nblm-faq.png" style="width:460px;padding:10px;border:1px solid #555;" alt="FAQ button"><br>
+
+> **Reflection:** Which answer was most actionable? Where would you want a quote and page number?
+
+---
+
+## New & Notable (Studio, 2025 edition)
+
+- **Flashcards** – Convert your notebook into study decks; choose deck size, difficulty, and include definitions/quotes.  
+  <img src="images/2025-nblm-flashcards.png" style="width:640px;padding:10px;border:1px solid #555;" alt="Flashcards"><br>
+
+- **Quizzes** – Generate auto-graded quizzes; customize length, hints, and language.  
+  <img src="images/2025-nblm-quizzes.png" style="width:640px;padding:10px;border:1px solid #555;" alt="Quizzes"><br>
+
+- **Multiple Overviews per notebook** – Create **separate Audio/Video Overviews** for chapters, audiences, or languages. Name them clearly (e.g., `Employer Brief – EN`, `Student Explainer – ES`, `Faculty Deep-Dive – EN (Long)`).
+
+- **Discover mode** – Let NotebookLM propose **relevant web sources** to enrich your notebook. Always **verify credibility** and consider saving offline copies for reproducibility.
+
+- **Custom Personas** – In Chat, set a role/voice (e.g., **“Exam Coach”** or **“Research Mentor”**). This influences how answers are structured.
+
+- **Larger context window** – Handle bigger source sets in a single notebook with greater continuity across long chats and complex reports.
+
+---
+
+## “Do this, not that” (quick quality checklist)
+
+**Do**
+- Upload final/authoritative versions (publisher PDFs, DOIs).  
+- Ask for **citations**: “Cite the exact sentence and page.”  
+- Keep **one idea per prompt**; iterate with follow-ups.  
+- Compare outputs: **Audio vs. Report vs. FAQ**.  
+- Use **Flashcards/Quizzes** to test retention.
+
+**Avoid**
+- Mixing unrelated topics in one notebook.  
+- Accepting numeric claims without source quotes.  
+- Uploading low-quality scans without OCR.  
+- Using one massive prompt for many tasks (split it).
+
+---
+
+## Troubleshooting & Tips
+
+**I don’t see citations.**  
+Use **Chat**:  
+> “Attach inline citations to the following Report section and list the exact quote and page for each claim.”
+
+**Audio Overview is too long/short.**  
+Use **Customize → Length** and set Shorter/Default/Longer. Or:  
+> “Regenerate as a 6–7 minute overview focusing only on employer-relevant outcomes.”
+
+**Summaries feel generic.**  
+Provide **audience + purpose** up front:  
+> “Summarize for **provincial policymakers**; focus on budget impacts and credentialing quality controls.”
+
+**Sources conflict.**  
+Ask:  
+> “Show a side-by-side of conflicting claims with citations, then provide a reconciliation and confidence rating.”
+
+**Mobile parity.**  
+Most features work in the app. For long editing (Reports), prefer desktop; for **Flashcards/Quizzes/Audio**, the app is great.
+
+---
+
+## Privacy, Collaboration, and Export
+
+- **Privacy:** Notebooks remain private to you unless you share. Review source sensitivity before inviting collaborators.  
+- **Collaboration:** Share notebooks read-only (students) vs. editor (co-instructors). Define roles clearly.  
+- **Export:** Download **Audio (MP3)**, **Reports (Markdown/PDF)**, and **Flashcards/Quizzes (CSV or screenshot)** for LMS upload.
+
+---
+
+## Practice Prompts (copy-paste)
+
+**Summarization**
+- “Summarize this source in plain English for a first-year student; bold the top three takeaways.”
+
+**Evidence**
+- “Provide an evidence table with: Claim | Direct Quote | Citation (page/section) | Confidence.”
+
+**Compare**
+- “Compare Source A vs. Source B on methodology, sample size, and bias; end with a bullet ‘So what for educators?’”
+
+**Transform**
+- “Rewrite the findings as a 2-minute dean’s briefing, max 180 words, with 3 actionable items.”
+
+**Test**
+- “Generate 10 flashcards (term|definition|source quote) and 5 quiz questions (with answers) from these sections.”
+
+---
+
+## Reflection (write briefly)
+- What did NotebookLM do best for this topic?  
+- Which feature (Report, Audio, Flashcards, Quiz) helped you most, and why?  
+- List one claim you verified in the source and how you verified it.  
+- What will you change about your prompts or sources next time?
+
+---
+
+## Ready for Next Step
+Let’s move into hands-on summarization and media creation.
+
+[NEXT STEP: Text / Audio / Video Summarization](2-nblm-summarization){: .btn .btn-blue }
