@@ -64,6 +64,23 @@ As of **October 2025**, NotebookLM now includes major upgrades across visual too
 - **Academic Integration** – New collaboration with *OpenStax* provides interactive textbooks and peer-reviewed materials.
 
 ---
+
+## 📊 2024 vs 2025 NotebookLM Comparison
+
+| Capability | 2024 Version | 2025 Version |
+|-------------|--------------|--------------|
+| **Studio Outputs** | One Audio & Video Overview per notebook | Multiple outputs per type; tile-based UI |
+| **Visual Styles** | Basic color themes | 6 Nano Banana styles (Watercolor, Papercraft, Anime, Whiteboard, Retro Print, Heritage) |
+| **Languages** | English only | Rolling out to ~80 languages |
+| **AI Model** | Gemini 1.5 Pro | Gemini 2.5 Flash (long-context, faster) |
+| **Sharing** | Export files only | Domain-restricted share links for Audio/Video Overviews |
+| **Learning Tools** | Text summaries and reports | Mind Maps, Quizzes, Flashcards auto-generated |
+| **Interface** | Linear workflow | Multitasking and real-time cross-pane updates |
+
+> The 2025 release redefines NotebookLM as an **interactive learning studio**, not just a summarizer.
+
+
+---
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
 
 ---
