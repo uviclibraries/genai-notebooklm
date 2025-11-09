@@ -67,32 +67,39 @@ As of **October 2025**, NotebookLM now includes major upgrades across visual too
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
 
 ---
+
 ## 🧭 NotebookLM Interface Overview (2025)
 
 ### 🗂️ Sources Panel
-Upload and organize documents (PDFs, links, docs, transcripts).
-![Sources Panel](images/sources-panel.png)
+Upload and organize documents (PDFs, links, docs, transcripts).  
+![Sources Panel](images/Sources.png)
 
 ---
+
 ### 💬 Chat Panel
-Ask questions, summarize, and generate content grounded in your sources.
-![Chat Panel](images/chat-panel.png)
+Ask questions, summarize, and generate content grounded in your sources.  
+![Chat Panel](images/Chat.png)
+
 ---
+
 ### 🏗️ Studio Workspace
-Create outputs: audio/video overviews, mind maps, reports, quizzes, and flashcards.
-![Studio Workspace](images/studio-workspace.png)
+Create outputs such as Audio/Video Overviews, Mind Maps, Reports, Quizzes, and Flashcards.  
+![Studio Workspace](images/Studio Activity.png)
 
 #### Studio tools at a glance
+
 | Tool | What it does | Visual |
 |---|---|---|
-| **Audio Overview** | AI hosts narrate and connect ideas from your sources. | ![Audio Overview](images/audio-overview.png) |
-| **Video Overview** | Generates narrated explainers with visuals (Brief or Explainer). | ![Video Overview](images/video-overview.png) |
-| **Mind Map** | Auto-diagrams key topics and relationships. | ![Mind Map](images/mind-map.png) |
-| **Reports** | Briefings/study guides with inline citations. | ![Reports](images/reports.png) |
-| **Quiz** | Creates comprehension checks from your notes. | ![Quiz](images/quiz.png) |
-| **Flashcards** | Spaced-repetition cards for memory. | ![Flashcards](images/flashcards.png) |
+| **Audio Overview** | AI hosts narrate and connect ideas from your sources. | ![Audio Overview](images/Audio Overview.png) |
+| **Video Overview** | Generates narrated explainers with visuals (Brief or Explainer). | ![Video Overview](images/Video Overview.png) |
+| **Mind Map** | Auto-diagrams key topics and relationships. | ![Mind Map](images/mindmap-activity.png) |
+| **Reports** | Briefings and study guides with inline citations. | ![Reports](images/Reports.png) |
+| **Quiz** | Creates comprehension checks from your notes. | ![Quiz](images/Quiz.png) |
+| **Flashcards** | Builds spaced-repetition cards for memory reinforcement. | ![Flashcards](images/Flashcards.png) |
 
-> Tip: Studio lets you keep multiple outputs of the **same type** (e.g., several Audio Overviews for different chapters/audiences/languages) and you can **multitask** (listen to audio while exploring a mind map).
+> Tip: Studio now supports **multiple outputs of the same type** (e.g., several Audio or Video Overviews for different chapters/audiences/languages).  
+> You can also **multitask**—listen to audio while exploring a Mind Map or editing notes.
+
 
 ## Generative AI Workshop Pathway
 
