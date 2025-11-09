@@ -66,6 +66,34 @@ As of **October 2025**, NotebookLM now includes major upgrades across visual too
 ---
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
 
+---
+## 🧭 NotebookLM Interface Overview (2025)
+
+### 🗂️ Sources Panel
+Upload and organize documents (PDFs, links, docs, transcripts).
+![Sources Panel](images/sources-panel.png)
+
+---
+### 💬 Chat Panel
+Ask questions, summarize, and generate content grounded in your sources.
+![Chat Panel](images/chat-panel.png)
+---
+### 🏗️ Studio Workspace
+Create outputs: audio/video overviews, mind maps, reports, quizzes, and flashcards.
+![Studio Workspace](images/studio-workspace.png)
+
+#### Studio tools at a glance
+| Tool | What it does | Visual |
+|---|---|---|
+| **Audio Overview** | AI hosts narrate and connect ideas from your sources. | ![Audio Overview](images/audio-overview.png) |
+| **Video Overview** | Generates narrated explainers with visuals (Brief or Explainer). | ![Video Overview](images/video-overview.png) |
+| **Mind Map** | Auto-diagrams key topics and relationships. | ![Mind Map](images/mind-map.png) |
+| **Reports** | Briefings/study guides with inline citations. | ![Reports](images/reports.png) |
+| **Quiz** | Creates comprehension checks from your notes. | ![Quiz](images/quiz.png) |
+| **Flashcards** | Spaced-repetition cards for memory. | ![Flashcards](images/flashcards.png) |
+
+> Tip: Studio lets you keep multiple outputs of the **same type** (e.g., several Audio Overviews for different chapters/audiences/languages) and you can **multitask** (listen to audio while exploring a mind map).
+
 ## Generative AI Workshop Pathway
 
 This workshop is part of our Generative AI Workshop Pathway. The Pathway workshops are designed to help subject area experts and non-experts, and help meet the needs of students, faculty, & staff by offering foundational to advanced research & productivity skills training:
