@@ -21,13 +21,15 @@ nav_order: 1
 
 At the end of this workshop, you will be able to:
 
-1. Describe to a friend the fundamental capabilities of NotebookLM, including Text generation, Summarization, Translation, Question-answering
-2. Notebook guide: Use the built-in prompts in the  “Notebook guide” to quickly create: Briefing documents & an Audio summary of the documents in a 2-person podcast format
-3. Create Lecture or Meeting Transcription Summarizations: Prompt NotebookLM to create a summary based on who is the intended audience for the summary, and the purpose of the summary (for example meeting notes).
-4. Create Research Summaries: Efficiently summarize and analyze research literature such as journal articles, reports, presentations and videos including citations. Verify all facts and claims.
-7. Ideation & Brainstorming: Evaluate a group of journal articles for gaps in the literature and potential research questions to fill those gaps or explore a related topic.
-8. Summarize Survey Feedback: Summarize large numbers of short-answer survey responses, to help you quickly understand the key issues being brought up by respondents. 
-9. Presentation Assistance: Based on a journal article create a script along with slide titles for a Presentation with Google Slides or Microsoft PowerPoint.
+1. Describe the core capabilities of NotebookLM (text generation, summarization, translation, Q&A).
+2. Use the **Notebook guide** to quickly create briefing docs and a two-host audio summary.
+3. Create lecture/meeting transcription summaries tailored to audience and purpose.
+4. Produce research summaries with citations; verify facts/claims against sources.
+5. Generate presentation assistance (script + slide titles for Google Slides/PowerPoint).
+6. Perform ideation/brainstorming: identify gaps and form research questions.
+7. Summarize short-answer survey feedback to surface key issues.
+8. Apply responsible-use checks (bias/hallucination mitigation with grounded prompts).
+9. Share artifacts (export, screenshots) for portfolios or class submissions.
 
 ---
 ## 🔄 NotebookLM 2025 Feature Update
