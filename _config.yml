@@ -1,43 +1,44 @@
-title: GenAI - NotebookLM
+title: GenAI - NotebookLM (2025 Edition)
 remote_theme: pmarsceill/just-the-docs
 
-# Footer "Edit this page on GitHub" link text
-gh_edit_repository: "https://github.com/uviclibraries/genai-notebooklm" # the github URL for your repo
-gh_edit_link: true # show or hide edit this page link
+# --- GitHub "Edit this page" ---
+gh_edit_repository: "https://github.com/chiragvijaykumar/genai-notebooklm" # your repo
+gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_branch: "master" # the branch that your docs is served from
-# gh_edit_source: docs # the source that your files originate from
-gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+gh_edit_branch: "main" # your branch
+gh_edit_view_mode: "tree"
 
-# license information for workshop content
+# --- Licensing (keep CC BY 4.0) ---
 license_name: "Creative Commons Attribution 4.0 International License"
 license_url: "http://creativecommons.org/licenses/by/4.0/"
 license_image_url: "https://i.creativecommons.org/l/by/4.0/88x31.png"
 
+# --- External link in header (optional) ---
 aux_links:
   "UVic Libraries Digital Scholarship Commons":
     - "//lib.uvic.ca/dsc"
-
 aux_links_new_tab: true
 
-# Footer Information
-# Back to top link
+# --- Footer ---
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "<img src=\"https://i.creativecommons.org/l/by/4.0/88x31.png\" style=\"float:right;\">
-Copyright &copy; 2023 <a href=\"https://uvic.ca/library/dsc/\">UVic Libraries Digital Scholarship Commons</a> - <a href=\"mailto:dscommons@uvic.ca\">dscommons@uvic.ca</a>
-<br>View other <a href=\"https://lib.uvic.ca/curric\">DSC workshops</a>
-<br>Distributed by an <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License.</a>"
+footer_content: "<img src=\"https://i.creativecommons.org/l/by/4.0/88x31.png\" style=\"float:right;\"> Copyright &copy; 2025 <a href=\"https://github.com/chiragvijaykumar\">Chirag Vijay Kumar</a> • Distributed under <a href=\"http://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>"
 
-# Footer last edited timestamp
-last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+# Last edited timestamp (works when pages have last_modified_date in front matter)
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
 
-# Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
+# --- SEO / social (optional polish) ---
+description: "NotebookLM Workshop (2025): Interface tour, Studio upgrades, Video/Audio Overviews, Mind Maps, Reports, Quizzes, Flashcards."
+author: "Chirag Vijay Kumar"
+
+# Optional custom CSS (only if you created assets/custom.css)
+# custom_css: "assets/custom.css"
+
+# --- Google Analytics (keep your code) ---
 ga_tracking: G-J1P4V8MFWB
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+ga_tracking_anonymize_ip: true
 
 plugins:
   - jekyll-seo-tag
