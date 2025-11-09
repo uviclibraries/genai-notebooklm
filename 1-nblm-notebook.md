@@ -3,85 +3,127 @@ layout: default
 title: 1 - A Personalized GenAI Assistant
 nav_order: 6
 parent: Workshop Activities
-customjs: http://code.jquery.com/jquery-1.4.2.min.js
---- 
-# Getting Started with NotebookLM's _Notebook Guide_ 
-<img src="images/5-notebooklm-logo.png" style="float:right;width:350px;padding:10px;" alt="NoteboolLM Logo">
-"Upload PDFs, websites, YouTube videos, audio files, Google Docs, or Google Slides, and NotebookLM will summarize them and make interesting connections between topics. With all of your sources in place, NotebookLM gets to work and becomes a personalized AI expert in the information that matters most to you. NotebookLM provides clear citations for its work, showing you the exact quotes from your sources. NotebookLM does not use your personal data, including your source uploads, queries, and the responses from the model for training." ([NotebookLM](https://notebooklm.google/){:target="_blank"}, 2024)
+---
 
-> NOTE: Like all other Generative AI tools, NotebookLM will sometimes make mistakes, although because you are providing it with training data, it will likely make fewer mistakes than general purpose Generative AI tools. Always research any factual claims it makes if you are not a subject area expert. 
+# Getting Started with NotebookLM’s _Notebook Guide_
+<img src="images/5-notebooklm-logo.png" style="float:right;width:350px;padding:10px;" alt="NotebookLM Logo">
 
-If you have any questions or get stuck as you work through this exercise, please ask the instructor for assistance.
+> “Upload PDFs, websites, YouTube videos, audio files, Google Docs, or Google Slides, and NotebookLM will summarize them and make interesting connections between topics. With your sources in place, NotebookLM becomes a personalized AI expert grounded in the information that matters most to you and provides clear citations to exact quotes from your sources. NotebookLM does not use your personal data — including uploads, queries, and responses — to train its models.” ([NotebookLM](https://notebooklm.google.com/){:target="_blank"}, 2025)
 
-## Logon to NotebookLM
-- If you haven't already, please navigate to the [NoteBookLM website](https://notebooklm.google/){:target="_blank"}.
-- Click on the black **Try NoteboolLM** button and then log on with a Google or Gmail account.
-> NOTE: If you don't have a Google or Gmail account you'll need to click on the small **Create account** link to create an account before you can log in to NotebookLM. If you have any problems logging in, please ask your instructor for help.
+> **Accuracy & Safety:** NotebookLM reduces errors by grounding on your sources, but it can still make mistakes. Always verify factual claims, especially outside your expertise.
+
+If you have questions or get stuck during the exercise, please ask the instructor.
+
+---
+
+## Log in to NotebookLM
+1. Go to the **[NotebookLM website](https://notebooklm.google.com/){:target="_blank"}**.
+2. Click **Try NotebookLM** and sign in with a Google/Gmail account.  
+   > If you don’t have an account, click **Create account** and follow the prompts. Ask your instructor if you run into issues.
 
 <img src="images/5-notebooklm-try.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Try NotebookLM button"><br>
 
-## Create a Notebook & Add Documents to It
-Before we can start testing, we need to create a new notebook and add some documents and media to it so that it has some source documents to train on and draw from.
+---
 
-1. Download each of the following three documents to use as training data for your notebook in this activity, and please make note of where your web browser is saving them (usually in your Downloads or Desktop folders):
+## Create a Notebook & Add Documents
+You’ll start by creating a notebook and adding seed documents so NotebookLM has sources to ground on.
+
+1. **Download the three PDFs** for this activity (note your download location — typically “Downloads” or “Desktop”):
    - [Document 1](images/badge-article.pdf){:target="_blank"}
    - [Document 2](images/badge-article-2.pdf){:target="_blank"}
    - [Document 3](images/badge-article-3.pdf){:target="_blank"}
-2. Create a new notebook by clicking on the blue **Create** button.
-<img src="images/nblm-create.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
-3. Upload the three documents you downloaded by clicking on the blue **choose file** link in the middle of the page.
-<img src="images/nblm-add-docs.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="Add documents"><br>
-4. Good job! You're now ready to explore the Notebook guide.
-   
-## Exploring the Notebook Guide 
-1. Each individual article will have a summary when you click it on the left side pannel of the sources.
-   - For all 3 articles it will be visible (see photo example), the sentence starts with Three sources explore the use of digital badges in education and professional development... An expert in informal credentialling (or badging) has reviewed the summary, and it is an accurate summary of the information contained in the three journal articles.
-<img src="images/nblm-summary.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="Summary"><br>
-> **NOTE: You should always double-check the accuracy of the facts and claims made by NotebookLM (and all other GenAI tools), as they sometimes make mistakes or hallucinate.
-> Note: There are several minor hallucinations in the Notebook Guide. The notebook guides DOES NOT provide citations that can be easily fact-check making it more difficult to verify its facts and claims.**
-2. **Podcast Summary**:
-  - To create a podcast summary, all you need to do is click on the blue **Generate** button **-OR-** You can also click on the **Customize** button to give NoteBookLM more context before it generates the podcast summary. For example you can click on the Customize button and type: ```The audience for this podcast are parents who are sending a child to university for the first time, and are concerned about the job prospects for their child after graduation.```
-  - It typically takes between two and five minutes to generate the podcast, and the podcasts seem to be about 10 to 18 minutes long depending on how much information it needs to summarize.<br>
-<img src="images/nblm-generate-podcast.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="NotebookLM Generate Podcast button"><br>
-  - Once the podcast has been generated, you can listen to the podcast by clicking on the light blue play button.
-  - To download the podcast to your computer to share with other people click on the **three vertical dots** to the right of the play button and then click on the **Download** button.
-  - If you don't want to wait for NotebookLM to create the podcast you can listen to the version it created for the DSC: [Podcast Summary Audio](images/nblm-podcast-summary.mp3){:target="_blank"} (12-min).
-  > - **Reflection**: What do you think of the quality of the Podcast it created?
-  > - **Reflection**: Can you think of any ways that this type of Podcast summary could be useful?
-  > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
-3. **Briefing Document**:
-  - Briefing documents are a quick way to understand the contents of the documents in your notebook. **NOTE**: NotebookLM does not provide inline citations in this type of document like it does when it responds to your prompts, which makes verifying factual claims more time-consuming.
-  - To create a briefing document simply click on the **breifing doc** button. It will take 30-60 seconds to generate the briefing guide unnder notes (this will be titled a Digital Badges: Comprehensive Overview).<br>
-    <img src="images/nblm-briefing-doc-button2.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="Briefing Document Button"><br>
-  > - **Reflection**: What do you think of the quality of the Briefing Document?
-  > - **Reflection**: Can you think of any ways that you would find this kind of summary useful?
-  > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created summary?
-4. **Study Guide**:
-  - Study guides are a great way to test your knowledge of a topic using GenAI-generated short answer questions with the answers to those questions available to you to check to see how you did.
-  - The study guide also contains essay questions, with no answers, and a glossary of terms that could potentially be quite helpful.
-  - To create a study guide simply click on the **Study Guide** button. It will take 30-60 seconds to generate the study guide.<br>
-    <img src="images/nblm-study-guide-button2.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="Study Guide Button"><br>
-  > - **Reflection**: What do you think of the quality of the Study Guide questions and answers?
-  > - **Reflection**: Can you think of any ways that you would find this kind of Study Guide useful?
-  > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created study guide?
-5. **Timeline**:
-  - The Timeline summary lists major events recorded in all of the documents in chronological order. This can be quite helpful especially when you are working with more than one or two documents, as NotebookLM nicely organizes them by date with a short summary for each.
-  - To create a timeline simply click on the **Timeline** button. It will take 30-60 seconds to generate the timeline.<br>
-    <img src="images/nblm-timeline-button2.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="Timeline Button"><br>
-  > - **Reflection**: What do you think of the quality of the Timeline dates and summaries? Did it miss anything?
-  > - **Reflection**: Can you think of any ways that you would find a Timeline useful?
-  > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Timeline?
-6. **Frequently Asked Questions**:
-  - The Frequently Asked Questions feature creates a summary for each of the documents in your notebook. This could help you identify which document contains specific information or a particular concept.
-  - To create a timeline simply click on the **Timeline** button. It will take 30-60 seconds to generate the timeline.<br>
-    <img src="images/nblm-faq-button2.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="Timeline Button"><br>
-  > - **Reflection**: What do you think of the quality of the Frequently Asked Questions (FAQ)?
-  > - **Reflection**: Could the FAQ be helpful for studying or reviewing in a course?
-  > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created FAQs?
+2. Click the blue **Create** button to make a new notebook.  
+   <img src="images/nblm-create.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="Create notebook"><br>
+3. **Upload** the three PDFs using the **Choose file** control in the center of the page.  
+   <img src="images/nblm-add-docs.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="Add documents"><br>
 
-Note: there is no more **table of contents** feature or button. 
+Good job — you’re ready to explore the **Notebook Guide**.
+
+---
+
+## Explore the Notebook Guide
+
+The Notebook Guide auto-generates structured helpers from your sources: **Audio Overview**, **Reports**, **Study Guide**, **Timeline**, and **FAQ**. Use these to get a “lay of the land” before deep-diving in Studio.
+
+> **Note on citations:** NotebookLM’s **chat responses** include inline citations. Some **Notebook Guide** outputs (e.g., Reports) summarize without inline citations, so plan to spot-check facts against source passages.
+
+### 1) Source Summaries
+- Click each source in the left panel and read its **auto-summary** (top of the source view).  
+  <img src="images/nblm-summary.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="Source summary"><br>
+
+> **Reflection:** Where does the summary capture the main points well? Where would you add nuance? Note 2 claims to verify in the original PDF.
+
+---
+
+### 2) **Audio Overview** (Podcast-style two-host discussion)
+- Click **Generate** to create the Audio Overview, or **Customize** first to specify audience and goals.  
+  Example customization:  
+  `Audience: Parents sending a child to university; focus on job prospects after graduation.`
+- Generation typically takes 2–5 minutes and yields ~10–18 minutes of audio.  
+  <img src="images/nblm-generate-podcast.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="Generate Audio Overview"><br>
+- **Play** via the light-blue play button.  
+- **Download** via the three-dot menu (⋮) → **Download**.  
+- Sample (if you don’t want to wait): [Podcast Summary Audio](images/nblm-podcast-summary.mp3){:target="_blank"} (12-min).
+
+> **Reflection:**  
+> • What worked well in the two-host explanation?  
+> • Where did it gloss over details or over-claim?  
+> • How could a stakeholder (e.g., a dean/employer) use this format?
+
+---
+
+### 3) **Reports** (Briefing Document)
+- Reports provide a structured overview (sections, bullets) of your sources.  
+- Click **Reports**. It usually takes ~30–60 seconds to generate under **Notes** (e.g., “Digital Badges: Comprehensive Overview”).  
+  <img src="images/nblm-briefing-doc-button2.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="Reports button"><br>
+
+> **Reflection:**  
+> • Is the structure clear and useful?  
+> • Where do you want explicit citations to verify claims?  
+> • How might you adapt this into a handout or executive summary?
+
+---
+
+### 4) **Study Guide**
+- Generates: short-answer questions (with answers), essay prompts (without answers), and a glossary.  
+- Click **Study Guide** (30–60 seconds to generate).  
+  <img src="images/nblm-study-guide-button2.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="Study Guide button"><br>
+
+> **Reflection:**  
+> • Are the Q&A accurate and at the right difficulty?  
+> • Which essay prompt best surfaces deeper reasoning?  
+> • Where would you add/challenge a definition in the glossary?
+
+---
+
+### 5) **Timeline**
+- Lists major events/findings chronologically across your sources — great for multi-document sets.  
+- Click **Timeline** (30–60 seconds to generate).  
+  <img src="images/nblm-timeline-button2.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="Timeline button"><br>
+
+> **Reflection:**  
+> • Did the timeline miss an important milestone?  
+> • Where did ordering clarify the narrative of your topic?  
+> • One item you’d fact-check directly in the source?
+
+---
+
+### 6) **FAQ**
+- Produces source-specific Q&A snapshots — helpful for quickly locating which document covers which concept.  
+- Click **FAQ** (30–60 seconds to generate).  
+  <img src="images/nblm-faq-button2.png" style="width:400px;padding:10px;border: 1px solid #555;" alt="FAQ button"><br>
+
+> **Reflection:**  
+> • Which answers were strongest? Which need citation or nuance?  
+> • How could you use this as a study or revision tool?
+
+---
+
+> **Heads up:** The old **Table of Contents** feature/button is no longer available in the Notebook Guide.
+
+---
 
 ## Chatting with Your Notebook
-In the following activities, we'll experiment with some interactive chat techniques with the documents to explore what else NotebookLM can do for you!
-  
+Next, you’ll experiment with interactive chat techniques on your sources and the outputs above to probe details, verify claims, and create variants.
+
 [NEXT STEP: Text/Audio/Video Summarization](2-nblm-summarization){: .btn .btn-blue }
