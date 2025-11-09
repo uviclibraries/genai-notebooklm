@@ -25,6 +25,50 @@ has_toc: true
 
 ---
 
+## 🎭 Shakespeare Text Analysis Activity (Context & Setup)
+
+### Why Shakespeare?
+William Shakespeare’s works (1564–1616) are among the most linguistically rich texts in English—full of **dense metaphor**, **emotional paradox**, and **inverted syntax**. That makes them ideal for stress-testing **NotebookLM** as a reasoning partner: summarizing archaic language, mapping imagery, extracting themes, and generating study aids.
+
+For this workshop we’ll use short excerpts from *The Complete Works of Shakespeare* (Project Gutenberg edition) to:
+- Translate poetry into modern English
+- Identify tone, imagery, and metaphor
+- Generate **Mind Maps**, **Audio/Video Overviews**, **quizzes**, and **flashcards**
+- Compare how prompt wording changes the outputs
+
+> Outcome: you’ll see how NotebookLM acts as both a **literary interpreter** and a **teaching assistant**, turning complex text into clear, reusable learning objects.
+
+### Selected Passages (use any 1–3)
+**1) *A Lover’s Complaint* (lines 4–19)**  
+> “O father, what a hell of witchcraft lies  
+> In the small orb of one particular tear! …  
+> Both fire from hence and chill extincture hath.”
+
+**2) *King Lear* V.3 (Lear’s lament)**  
+> “Why should a dog, a horse, a rat, have life,  
+> And thou no breath at all? … Look there, look there!”
+
+**3) *Cymbeline* V.5 (Soothsayer’s prophecy)**  
+> “The lofty cedar, royal Cymbeline,  
+> Personates thee; and thy lopp’d branches point …”
+
+*Each passage is deliberately tricky (emotional inversion, compact imagery, archaic phrasing), perfect for NotebookLM.*
+
+### Prompts to Try in NotebookLM
+
+| Goal | Example Prompt |
+|------|----------------|
+| Simplify | “Rewrite this passage in simple modern English.” |
+| Analyze | “List all metaphors and explain their literal meaning.” |
+| Visualize | “Create a mind map of the imagery and emotions.” |
+| Summarize | “Explain the tone and message of this passage in 3 sentences.” |
+| Create | “Turn this excerpt into a 2-minute podcast script between two AI hosts.” |
+| Test | “Generate five quiz questions about themes and imagery.” |
+
+> 💡 Tip: Have the whole group use the *same* passage and prompt set first; compare how phrasing changes the outputs. Then iterate with new prompts.
+
+---
+
 ## 🔬 Feature Exploration Activities (1–6)
 
 ### 🧩 Activity 1: Studio Panel Exploration
