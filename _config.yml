@@ -42,3 +42,5 @@ ga_tracking_anonymize_ip: true
 
 plugins:
   - jekyll-seo-tag
+
+custom_css: "assets/custom.css"
