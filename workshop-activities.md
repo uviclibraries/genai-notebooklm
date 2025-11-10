@@ -14,8 +14,8 @@ has_toc: true
 
 | Studio Tool     | Preview Image                                      |
 |-----------------|----------------------------------------------------|
-| Audio Overview  | ![Audio Overview](images/Audio Overview.png)       |
-| Video Overview  | ![Video Overview](images/Video Overview.png)       |
+| Audio Overview  | ![Audio Overview](images/Audio-Overview.png)       |
+| Video Overview  | ![Video Overview](images/Video-Overview.png)       |
 | Mind Map        | ![Mind Map](images/mindmap-activity.png)           |
 | Reports         | ![Reports](images/Reports.png)                     |
 | Quiz            | ![Quiz](images/Quiz.png)                           |
