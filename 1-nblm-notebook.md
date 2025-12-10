@@ -196,4 +196,5 @@ Write your workflow down somewhere you’ll actually see it again.
 
 Next, we’ll go deeper into **summarizing text, audio, and video** with more control over audience, tone, and length.
 
-[NEXT STEP: Text / Audio / Video Summarization](2-nblm-summarization){: .btn .btn-blue }
+[NEXT STEP: Text / Audio / Video Summarization](2-nblm-summarization.html){: .btn .btn-blue }
+
