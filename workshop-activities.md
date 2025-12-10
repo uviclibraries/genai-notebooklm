@@ -99,6 +99,46 @@ Use this page as a “menu” during the workshop. Each activity has its own det
 4. Decide which format/style best fits your audience and why.
 
 ---
+### Infographics and Slide Decks
+
+NotebookLM can also turn your notebooks into **visual outputs** that are easier to share with non-specialists:
+
+- **Infographics**  
+  - Generate one-page visual summaries of a reading, project, or process.  
+  - Useful for posters, handouts, orientation materials, or quick overviews for community partners.  
+  - In the workshop, you will create an infographic from a small set of sources and then critique it for clarity, accuracy, and visual hierarchy.
+
+- **Slide decks**  
+  - Draft a multi-slide presentation (outline, slide titles, bullet points, and speaking notes) directly from your notebook.  
+  - You will practice taking an AI-generated deck and **editing it like a human expert**: tightening the narrative, removing fluff, checking every claim against citations, and adapting the tone to your real audience.
+
+We treat these features as **first-draft helpers**, not final products. The focus is on using AI to get from “blank slide” to a structured story faster—while you stay in control of the message and design.
+
+---
+
+### Studio: Slide Decks & Infographics
+
+Use these optional activities if you want to push beyond text and audio:
+
+- **Slide Deck Draft**  
+  - Pick any notebook you’ve created (e.g., the badge articles or your own course/project docs).  
+  - Ask NotebookLM to generate a **slide outline** or full draft deck for a 5–10 minute talk.  
+  - Copy the outline into Google Slides or PowerPoint and edit:
+    - Keep the helpful structure (section order, key points).  
+    - Rewrite vague or generic bullets.  
+    - Remove any slide that doesn’t serve a clear purpose.
+
+- **Infographic Summary**  
+  - Ask NotebookLM to create a **one-page infographic specification**: title, sections, 3–5 key points, and suggested icons/visuals.  
+  - Use that specification to design a simple infographic in your preferred tool (Canva, PowerPoint, Google Slides, etc.).  
+  - Optionally, compare two versions: one for **experts** (more detail) and one for **non-specialists** (fewer, clearer points).
+
+> **Pro tip:**  
+> When you generate slide decks or infographics, always specify **audience**, **time limit**, and **medium** in your prompt (e.g., “10-minute talk for non-experts using 5–7 slides”). The more specific the context, the more usable the AI-generated structure will be.
+
+
+
+---
 
 ### 👥 Activity 5: Team Collaboration Sprint
 **Goal:** Practice sharing and role-based review.  
