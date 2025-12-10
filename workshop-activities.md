@@ -10,6 +10,21 @@ has_toc: true
 
 ---
 
+## Workshop Roadmap
+
+| Activity | Focus                                      | Time  | NotebookLM Features                        |
+|---------|--------------------------------------------|-------|--------------------------------------------|
+| 1       | Build your first notebook                  | 20–25 | Sources, source summaries, basic chat      |
+| 2       | Summarizing text, audio, and video         | 20–25 | Source summaries, chat, citations          |
+| 3       | Brainstorming & research question ideas    | 20–25 | Chat, Notebook Guide, idea generation      |
+| 4       | Summarizing survey / qualitative responses | 15–20 | Reports, themes, tables, citation checking |
+| 5       | Turning an article into a presentation     | 20–25 | Reports, Slide planning, Studio tools      |
+
+Use this page as a “menu” during the workshop. Each activity has its own detailed instructions linked from the left-hand navigation.
+
+---
+
+
 ## 🔍 Activity Preview Gallery
 
 | Studio Tool     | Preview Image                                      |
