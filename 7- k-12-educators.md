@@ -3,6 +3,15 @@ layout: default
 title: Additional Resources
 nav_order: 10
 ---
+## Learning goals
+
+By the end of this activity, you will be able to:
+
+- Use NotebookLM to compare multiple **versions of a story** for K–12 learners.  
+- Generate **age-appropriate prompts, questions, and activities** connected to curriculum outcomes.  
+- Support students in **critical reading** of AI-assisted content rather than accepting it blindly.
+
+
 # Additional Resources & Acknowledgements
 
 ## NotebookLM – Official Help & Guides
