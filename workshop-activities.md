@@ -35,7 +35,8 @@ Use this page as a “menu” during the workshop. Each activity has its own det
 | Reports         | ![Reports](images/Reports.png)                     |
 | Quiz            | ![Quiz](images/Quiz.png)                           |
 | Flashcards      | ![Flashcards](images/Flashcards.png)               |
-
+| Infographic     | ![Flashcards](images/Flashcards.png)               |
+| Slide Deck      | ![Flashcards](images/Flashcards.png)               |
 > Tip: Studio supports **multiple outputs of the same type** (e.g., several Audio or Video Overviews for different chapters/audiences/languages). You can also **multitask**—listen to an Audio Overview while exploring a Mind Map.
 
 ---
