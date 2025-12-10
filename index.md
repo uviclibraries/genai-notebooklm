@@ -5,126 +5,147 @@ nav_order: 1
 ---
 <img src="images/5-notebooklm-try.png" style="float:right;width:350px;padding:10px;" alt="Decorative">
 
-# GenAI: NotebookLM a Personal RAG Tool for Research & Productivity (_Intermediate_)
+# GenAI: NotebookLM – A Personal Tool for Research & Productivity (_Intermediate_)
 
-- Pre-workshop activities: 10 min 
-- Introductory presentation: 15 min
-- Active learning time: 60 min
+- Pre-workshop activities: 10 min  
+- Introductory presentation: 15 min  
+- Active learning time: 60 min  
 
-## About the workshop 
-- This workshop focuses on using NoteBookLM, a personal Generative AI (GenAI) tool, that becomes an expert on the specific documents you provide.
-- Crucially, NoteBookLM's functionality is directly dependent on the documents you upload. It uses these documents as its training data.
-- Participants will engage in hands-on activities to explore GenAI tool usage and learn how to evaluate output for accuracy and potential biases, based on the uploaded documents.
-- The workshop will also promote informed and responsible use of cloud-based GenAI.
+---
+
+## What is NotebookLM?
+
+NotebookLM is Google’s AI research and study workspace. Instead of chatting with a generic model, you load your own sources (papers, PDFs, Docs, Sheets, web pages, videos, notes), and NotebookLM builds a “thinking partner” that stays grounded in those materials.
+
+You can then ask questions, generate explanations, and create outputs (reports, flashcards, slide decks, infographics, audio/video overviews) that are all based on the content you provided. This makes NotebookLM especially useful for courses, research projects, literature reviews, and complex real-world documents.
+
+---
+
+## What does NotebookLM do?
+
+At a high level, NotebookLM lets you:
+
+- **Organize sources into notebooks** for each course, project, or topic.
+- **Chat with an AI that cites your sources**, so you can see exactly where each answer comes from.
+- **Run Deep Research** to pull in high-quality web sources and save the structured report back into your notebook.
+- **Generate learning tools** like flashcards, quizzes, study guides, and concept summaries.
+- **Create teaching and communication assets** such as reports, timelines, infographics, and slide decks.
+- **Produce audio and video overviews** that turn long documents into podcast-style discussions or short explainers.
+
+The goal is to reduce the time you spend skimming, copying, and re-formatting information so you can focus on understanding, analysis, and creation.
+
+---
+
+## About this workshop
+
+This intermediate workshop focuses on using NotebookLM as a **personal RAG (Retrieval-Augmented Generation) tool** for research and productivity. Rather than treating AI as a general chatbot, we show you how to build a targeted assistant that:
+
+- Knows only what you give it (your sources)
+- Can explain, summarize, and compare those sources
+- Can transform them into slides, reports, and study materials
+
+We will use live examples to show how NotebookLM handles typical academic and professional workflows, including note-taking, synthesizing articles, and preparing presentations.
+
+---
 
 ## Learning objectives
 
-At the end of this workshop, you will be able to:
+By the end of this workshop, you will be able to:
 
-1. Describe the core capabilities of NotebookLM (text generation, summarization, translation, Q&A).
-2. Use the **Notebook guide** to quickly create briefing docs and a two-host audio summary.
-3. Create lecture/meeting transcription summaries tailored to audience and purpose.
-4. Produce research summaries with citations; verify facts/claims against sources.
-5. Generate presentation assistance (script + slide titles for Google Slides/PowerPoint).
-6. Perform ideation/brainstorming: identify gaps and form research questions.
-7. Summarize short-answer survey feedback to surface key issues.
-8. Apply responsible-use checks (bias/hallucination mitigation with grounded prompts).
-9. Share artifacts (export, screenshots) for portfolios or class submissions.
-
----
-## 🔄 NotebookLM 2025 Feature Update
-
-**NotebookLM** has evolved into a powerful AI-driven research and note-taking assistant that helps you summarize, visualize, and learn from your own uploaded materials.  
-As of **October 2025**, NotebookLM now includes major upgrades across visual tools, AI responses, and collaboration features.
-
-### Core Features
-- **AI-grounded responses** – NotebookLM now generates answers strictly based on your provided sources, with inline citations for easy verification.  
-- **Expanded input formats** – Upload PDFs, Google Docs, Word files, text, website links, or even transcribe YouTube videos directly.
-- **Studio Panel** – A new workspace for generating and organizing custom outputs like reports, study guides, and blog drafts.
-
-### Learning & Output Tools
-- **Flashcards and Quizzes** – Automatically generate study aids from your uploaded materials, with adjustable topic and difficulty levels.  
-- **Mind Maps** – Create interactive diagrams to explore conceptual relationships across your sources.  
-- **Reports** – Updated report generator suggests content structures dynamically based on your notes.
-
-###  Audio and Video Overviews
-- **Audio Overviews** – Turn documents into AI-hosted discussions with multiple styles (Brief, Critique, Debate).  
-- **Interactive Mode (Beta)** – Speak to the AI hosts to ask follow-up questions live.  
-- **Video Overviews** – Generate narrated video summaries with visuals from Google’s *Nano Banana* image model (watercolor, whiteboard, or anime styles).
-
-### Collaboration and Premium Options
-- **Public Notebooks** – Share your notebooks via links; others can view and interact without editing your originals.  
-- **Team Collaboration** – Invite colleagues with customizable access levels.  
-- **NotebookLM Plus** – Premium plan offering enhanced audio/video limits, analytics, and team dashboards.  
-- **Enterprise Tier** – Adds Microsoft Office integration, advanced permissions, and corporate security options.
-
-### Learning Tools & Partnerships
-- **Featured Notebooks** – Access curated examples from *The Economist* and *The Atlantic.*  
-- **Discovery Tool** – Search and add related references directly within NotebookLM.  
-- **Academic Integration** – New collaboration with *OpenStax* provides interactive textbooks and peer-reviewed materials.
+1. **Describe the core capabilities of NotebookLM** (source-grounded Q&A, summarization, translation, and document synthesis).
+2. **Create and organize a notebook** with multiple sources (PDFs, Docs, web pages, etc.).
+3. **Use Notebook Guides / Studio tools** to generate briefing docs, study guides, and short written reports.
+4. **Generate and evaluate audio or video overviews**, including how to verify their accuracy against the original sources.
+5. **Create presentation assistance** (slide titles, outlines, and speaking notes) for Google Slides or PowerPoint.
+6. **Use flashcards and quizzes** to turn your notebook into a study or revision tool.
+7. **Summarize qualitative feedback** (e.g., survey responses) into themes, insights, and next-step questions.
 
 ---
 
-## 📊 2024 vs 2025 NotebookLM Comparison
+## Key NotebookLM features we will explore
 
-| Capability | 2024 Version | 2025 Version |
-|-------------|--------------|--------------|
-| **Studio Outputs** | One Audio & Video Overview per notebook | Multiple outputs per type; tile-based UI |
-| **Visual Styles** | Basic color themes | 6 Nano Banana styles (Watercolor, Papercraft, Anime, Whiteboard, Retro Print, Heritage) |
-| **Languages** | English only | Rolling out to ~80 languages |
-| **AI Model** | Gemini 1.5 Pro | Gemini 2.5 Flash (long-context, faster) |
-| **Sharing** | Export files only | Domain-restricted share links for Audio/Video Overviews |
-| **Learning Tools** | Text summaries and reports | Mind Maps, Quizzes, Flashcards auto-generated |
-| **Interface** | Linear workflow | Multitasking and real-time cross-pane updates |
+### 1. Source-grounded chat
 
-> The 2025 release redefines NotebookLM as an **interactive learning studio**, not just a summarizer.
+- Creating notebooks for a course, project, or research topic  
+- Uploading PDFs, Google Docs, Slides, Sheets, web pages, and YouTube / media transcripts  
+- Asking questions and reading answers with inline citations back to the original documents  
+- Using the chat to check, compare, and explain complex passages
 
+### 2. Deep Research
+
+- Using NotebookLM’s research panel to discover sources on the web  
+- Understanding the difference between fast scans and deeper multi-step research  
+- Importing the resulting research report and citations into your notebook  
+- Using Deep Research to complement (not replace) traditional database searching
+
+### 3. Studio tools: reports, mind maps, and timelines
+
+- Generating structured **reports** (briefing docs, study guides, FAQs, blog-style summaries)  
+- Building **mind maps** and **timelines** to visualize people, events, or key concepts  
+- Editing and refining generated content while always checking back against the sources
+
+### 4. Audio and video overviews
+
+- Creating **Audio Overviews** (podcast-style two-host discussions of your sources)  
+- Exploring **interactive audio**: pausing, asking follow-up questions, and steering the conversation  
+- Generating **Video Overviews** that turn your material into short, narrated explainers  
+- Using audio/video as alternative ways to review long or dense material
+
+### 5. Slide decks and infographics
+
+- Using **Slide Decks** to automatically draft multi-slide presentations from your notebook  
+- Using **Infographics** to condense key ideas into a single visual summary  
+- Exporting and refining AI-generated decks and visuals in your preferred slide tool  
+- Discussing strengths, limitations, and responsible use of these artifacts
+
+### 6. Study tools: flashcards and quizzes
+
+- Auto-creating flashcards from lecture notes, readings, or project documents  
+- Generating quizzes at different difficulty levels for self-testing  
+- Using explanations and citations to deepen understanding (not just memorize answers)  
+- Sharing flashcards/quizzes with peers for collaborative study
 
 ---
-[NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
+
+## Responsible and critical use
+
+Throughout the workshop, we will emphasize:
+
+- **Verification** – always checking AI-generated text, slides, and summaries against the original sources.
+- **Citation and academic integrity** – using NotebookLM as a reading and thinking partner, not as a ghost-writer.
+- **Privacy and data handling** – what kinds of documents are appropriate to upload, and when not to use cloud tools.
+- **Bias awareness** – understanding that outputs reflect both your uploaded sources and the underlying model’s limitations.
 
 ---
 
-## 🧭 NotebookLM Interface Overview (2025)
+## Who is this workshop for?
 
-### 🗂️ Sources Panel
-Upload and organize documents (PDFs, links, docs, transcripts).  
-![Sources Panel](images/Sources.png)
+This intermediate session is designed for:
+
+- Students working on essays, theses, capstone projects, and literature reviews  
+- Instructors preparing lectures, slides, or course materials  
+- Researchers and staff who need to summarize reports, policies, or long technical documents  
+- Anyone comfortable with basic GenAI tools who wants **deeper, source-grounded workflows**
+
+You do **not** need to be an AI expert; basic familiarity with web tools and text editors is enough.
 
 ---
 
-### 💬 Chat Panel
-Ask questions, summarize, and generate content grounded in your sources.  
-![Chat Panel](images/Chat.png)
+## Before the workshop
+
+To get the most out of the session, please:
+
+- Review the **Pre-Workshop Activities** page in this site for short videos and AI usage guidelines.  
+- Bring a laptop (recommended) and, if possible, a PDF or document you regularly work with (e.g., a reading, report, or project document) that you can safely upload to NotebookLM.
 
 ---
-
-### 🏗️ Studio Workspace
-Create outputs such as Audio/Video Overviews, Mind Maps, Reports, Quizzes, and Flashcards.  
-![Studio Workspace](images/Studio Activity.png)
-
-#### Studio tools at a glance
-
-| Tool | What it does | Visual |
-|---|---|---|
-| **Audio Overview** | AI hosts narrate and connect ideas from your sources. | ![Audio Overview](images/Audio Overview.png) |
-| **Video Overview** | Generates narrated explainers with visuals (Brief or Explainer). | ![Video Overview](images/Video Overview.png) |
-| **Mind Map** | Auto-diagrams key topics and relationships. | ![Mind Map](images/mindmap-activity.png) |
-| **Reports** | Briefings and study guides with inline citations. | ![Reports](images/Reports.png) |
-| **Quiz** | Creates comprehension checks from your notes. | ![Quiz](images/Quiz.png) |
-| **Flashcards** | Builds spaced-repetition cards for memory reinforcement. | ![Flashcards](images/Flashcards.png) |
-
-> Tip: Studio now supports **multiple outputs of the same type** (e.g., several Audio or Video Overviews for different chapters/audiences/languages).  
-> You can also **multitask**—listen to audio while exploring a Mind Map or editing notes.
-
 
 ## Generative AI Workshop Pathway
 
-This workshop is part of our Generative AI Workshop Pathway. The Pathway workshops are designed to help subject area experts and non-experts, and help meet the needs of students, faculty, & staff by offering foundational to advanced research & productivity skills training:
+This workshop is part of our Generative AI Workshop Pathway, which offers a progression from foundational to advanced research and productivity skills:
 
-- **[GenAI Introductory Workshops](https://uviclibraries.github.io/genai-pathway/#introductory-workshops){:target="_blank"}**
-- **[GenAI Intermediate Workshops](https://uviclibraries.github.io/genai-pathway/#intermediate-workshops){:target="_blank"}**
+- **[GenAI Introductory Workshops](https://uviclibraries.github.io/genai-pathway/#introductory-workshops){:target="_blank"}**  
+- **[GenAI Intermediate Workshops](https://uviclibraries.github.io/genai-pathway/#intermediate-workshops){:target="_blank"}**  
 - **[GenAI Advanced Workshops](https://uviclibraries.github.io/genai-pathway/#intermediate-workshops){:target="_blank"}**
 
 ---
-
