@@ -40,36 +40,6 @@ Use this page as a “menu” during the workshop. Each activity has its own det
 > Tip: Studio supports **multiple outputs of the same type** (e.g., several Audio or Video Overviews for different chapters/audiences/languages). You can also **multitask**—listen to an Audio Overview while exploring a Mind Map.
 
 ---
-
-## 🎭 Shakespeare Text Analysis Activity (Context & Setup)
-
-### Why Shakespeare?
-William Shakespeare’s works (1564–1616) are among the most linguistically rich texts in English—full of **dense metaphor**, **emotional paradox**, and **inverted syntax**. That makes them ideal for stress-testing **NotebookLM** as a reasoning partner: summarizing archaic language, mapping imagery, extracting themes, and generating study aids.
-
-For this workshop we’ll use short excerpts from *The Complete Works of Shakespeare* (Project Gutenberg edition) to:
-- Translate poetry into modern English
-- Identify tone, imagery, and metaphor
-- Generate **Mind Maps**, **Audio/Video Overviews**, **quizzes**, and **flashcards**
-- Compare how prompt wording changes the outputs
-
-> Outcome: you’ll see how NotebookLM acts as both a **literary interpreter** and a **teaching assistant**, turning complex text into clear, reusable learning objects.
-
-### Selected Passages (use any 1–3)
-**1) *A Lover’s Complaint* (lines 4–19)**  
-> “O father, what a hell of witchcraft lies  
-> In the small orb of one particular tear! …  
-> Both fire from hence and chill extincture hath.”
-
-**2) *King Lear* V.3 (Lear’s lament)**  
-> “Why should a dog, a horse, a rat, have life,  
-> And thou no breath at all? … Look there, look there!”
-
-**3) *Cymbeline* V.5 (Soothsayer’s prophecy)**  
-> “The lofty cedar, royal Cymbeline,  
-> Personates thee; and thy lopp’d branches point …”
-
-*Each passage is deliberately tricky (emotional inversion, compact imagery, archaic phrasing), perfect for NotebookLM.*
-
 ### Prompts to Try in NotebookLM
 
 | Goal | Example Prompt |
