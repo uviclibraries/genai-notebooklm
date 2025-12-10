@@ -105,6 +105,23 @@ By the end of this workshop, you will be able to:
 - Using explanations and citations to deepen understanding (not just memorize answers)  
 - Sharing flashcards/quizzes with peers for collaborative study
 
+### 7. Infographics 
+
+NotebookLM can also turn your notebooks into **visual outputs** that are easier to share with non-specialists:
+
+  - Generate one-page visual summaries of a reading, project, or process.  
+  - Useful for posters, handouts, orientation materials, or quick overviews for community partners.  
+  - In the workshop, you will create an infographic from a small set of sources and then critique it for clarity, accuracy, and visual hierarchy.
+
+### 8. Slide Deck
+NotebookLM can also turn your notebooks into **visual outputs** that are easier to share with non-specialists:
+
+  - Draft a multi-slide presentation (outline, slide titles, bullet points, and speaking notes) directly from your notebook.  
+  - You will practice taking an AI-generated deck and **editing it like a human expert**: tightening the narrative, removing fluff, checking every claim against citations, and adapting the tone to your real audience.
+
+We treat these features as **first-draft helpers**, not final products. The focus is on using AI to get from “blank slide” to a structured story faster—while you stay in control of the message and design.
+
+
 ---
 
 ## Responsible and critical use
