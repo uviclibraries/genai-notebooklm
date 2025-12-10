@@ -144,8 +144,8 @@ To get the most out of the session, please:
 
 This workshop is part of our Generative AI Workshop Pathway, which offers a progression from foundational to advanced research and productivity skills:
 
-- **[GenAI Introductory Workshops](https://uviclibraries.github.io/genai-pathway/#introductory-workshops){:target="_blank"}**  
-- **[GenAI Intermediate Workshops](https://uviclibraries.github.io/genai-pathway/#intermediate-workshops){:target="_blank"}**  
-- **[GenAI Advanced Workshops](https://uviclibraries.github.io/genai-pathway/#intermediate-workshops){:target="_blank"}**
+- **[GenAI Introductory Workshops](https://uviclibraries.github.io/genai-pathway/#introductory-workshops)**  
+- **[GenAI Intermediate Workshops](https://uviclibraries.github.io/genai-pathway/#intermediate-workshops)**  
+- **[GenAI Advanced Workshops](https://uviclibraries.github.io/genai-pathway/#intermediate-workshops)**
 
 ---
