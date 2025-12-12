@@ -5,6 +5,16 @@ nav_order: 8
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
+## Learning goals
+
+By the end of this activity, you will be able to:
+
+- Use NotebookLM to **brainstorm questions, angles, and follow-up ideas** grounded in your sources.  
+- Turn readings into **research questions, project ideas, or assignment prompts**.  
+- Guide NotebookLM to **build on your own thinking**, not just generate random ideas.  
+- Capture the best ideas in a reusable format (outline, list of RQs, or action plan).
+
+
 # Brainstorming & Ideation for Research Questions
 <img src="images/nblm-brain-storm.jpeg" style="float:right;width:400px;padding:10px;" alt="Brainstorm visualization">
 In this activity, we'll explore how GenAI can help you explore a group of journal articles and a video for gaps in the literature and potential research questions to fill those gaps or explore a related topic. 

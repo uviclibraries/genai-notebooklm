@@ -5,6 +5,15 @@ nav_order: 8
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
+## Learning goals
+
+By the end of this activity, you will be able to:
+
+- Use NotebookLM to create a **presentation outline** from one or more sources.  
+- Turn summaries into **slides, section headings, and speaker notes**.  
+- Adjust slide content for **different audiences and time limits**.  
+- Critically review AI-generated slides to keep them accurate, concise, and audience-appropriate.
+
 # Convert an Article to a Presentation
 <img src="images/6-chatgpt-powerpoint.jpg" style="float:right;width:400px;padding:10px;" alt="GenAI helping someone create a PowerPoint presentation">
 You've written an essay or journal article, and now you need to create a conference presentation? NotebookLM can help. In this activity, with the help of NotebookLM and Meta.ai, you will create a presentation based on a journal article or essay.

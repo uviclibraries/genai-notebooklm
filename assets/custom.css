@@ -1,0 +1,30 @@
+/* Custom style tweaks */
+:root {
+  --brand-color: #0046b8;
+  --link-color: #005ae0;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+  letter-spacing: 0.2px;
+}
+
+table img {
+  max-width: 200px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+blockquote {
+  background-color: #f5f7fa;
+  border-left: 4px solid var(--brand-color);
+  padding: 10px 20px;
+  border-radius: 4px;
+}
+
+.btn-blue {
+  background-color: var(--brand-color);
+  color: white !important;
+  border-radius: 6px;
+  padding: 6px 12px;
+}

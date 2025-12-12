@@ -18,6 +18,15 @@ Outline:
 - Use different prompt strategies to customize the summary by using, personas, examples, tone, vocabulary level, and voice.
 - Explore the usefulness of NotebookLM citations, in particular how they take you to the passages in the document that they used to support their summary of information. This is a very useful verification tool.
 
+## Learning goals
+
+By the end of this activity, you will be able to:
+
+- Load **survey or qualitative text** (comments, reflections, open-ended responses) into a NotebookLM notebook.  
+- Ask NotebookLM to identify **themes, patterns, and representative quotes**.  
+- Turn messy text into **concise summaries, tables, or reports** for different audiences.  
+- Use citations and excerpts to ensure that themes are **actually supported** by the data.
+
 ## Getting Started
 Let's go back to the notebook with the three journal articles we've already created, and add a YouTube video to the notebook so that there will be four items for NotebookLM to draw information from:
 

@@ -1,30 +1,74 @@
 ---
 layout: default
-title: 7- K-12 Educators
+title: Additional Resources
 nav_order: 10
-parent: Workshop Activities
-customjs: http://code.jquery.com/jquery-1.4.2.min.js
---- 
+---
+## Learning goals
 
-# Teaching Resource : An Introduction to AI for K-12 Education 
+By the end of this activity, you will be able to:
 
-Curricular Connections:
-[BC Digital Literacy Framework](https://www2.gov.bc.ca/assets/gov/education/kindergarten-to-grade-12/teach/teaching-tools/digital-literacy-framework.pdf){:target="_blank"}, [Language Arts](https://curriculum.gov.bc.ca/curriculum/english-language-arts/3/core){:target="_blank"} such as "stories can be understood from different perspectives." (many other litteracy connections across grade levels) and [ADST curriculum](https://curriculum.gov.bc.ca/curriculum/adst){:target="_blank"}
+- Use NotebookLM to compare multiple **versions of a story** for K–12 learners.  
+- Generate **age-appropriate prompts, questions, and activities** connected to curriculum outcomes.  
+- Support students in **critical reading** of AI-assisted content rather than accepting it blindly.
 
-1. First download the following 3 PDF documents. These documents will be used as training data for this activity for educators. Note that various stories and documents can be used to focus on similarities and differences at various grade levels. This is just an example of a well known fairytale that aligns with some of the outcomes of the BC curriculum. 
-   - [Document 1](images/3-pigs-1.pdf){:target="_blank"}
-   - [Document 2](images/3-pigs-2.pdf){:target="_blank"}
-   - [Document 3](images/3-pigs-3.pdf){:target="_blank"}
 
-2. Create a new notebook by clicking on **Create** button.
-<img src="images/nblm-create.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
-3. Upload the three documents you downloaded by clicking on the blue **choose file** link in the middle of the page.
-<img src="images/nblm-add-docs.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="Add documents"><br>
-4. Next, we will compare these 3 versions of the 3 little pigs. During this process you can have students do this activity on their own and make Venn diagrams or T-charts etc. You could also do this as a whole class.
-5. Make sure all 3 articles are selected, then in the **start typing box**, type ```What are some similarities.```
-6. You can then type ```Make a T chart```
-7. You could also ask it to  ```Make a Venn diagram``` (It will share the sections of the Venn diagram and you can create the visual from there).
-8. Note that this tool can also be used for comprehension and for students to seek details for example we could ask ```What materials were used to construct each pig's house?``` and it can also be used to create your own story and pull out key story elements, for instance ask NotebookLM to ```Create a plan for my own version of the 3 little pigs```
-9. Great work you have completed the K-12 Educators activity! There are many other questions to ask, feel free to continue to try out the tool and ask questions to get more specific answers. Also you can add another article or unselect one, as other options. 
+# Additional Resources & Acknowledgements
 
- [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
+## NotebookLM – Official Help & Guides
+
+These links focus specifically on NotebookLM:
+
+- [NotebookLM homepage](https://notebooklm.google/){:target="_blank"}  
+- [NotebookLM Help Center](https://support.google.com/notebooklm){:target="_blank"}  
+- [NotebookLM feature overview & announcements](https://blog.google/technology/ai/notebooklm/){:target="_blank"}  
+
+Use these to check current features, limitations, and updates.
+
+---
+
+## Tutorials & How-To Videos
+
+These videos and guides show NotebookLM and related GenAI tools in action:
+
+- [Basic Google NotebookLM tutorial for educators](https://www.youtube.com/watch?v=w5ZcWmAltgQ){:target="_blank"} (12 min)  
+- [Google is developing a new AI tool that is perfect for students](https://www.youtube.com/watch?v=ACIh44E5AoU){:target="_blank"} (6 min)  
+- [Intro to Generative AI for research & writing](https://www.youtube.com/results?search_query=generative+ai+for+research){:target="_blank"}  
+
+Explore other tutorials that match your discipline or use case.
+
+---
+
+## Other GenAI Tools Mentioned in This Workshop
+
+While this workshop focuses on **NotebookLM**, you may also encounter:
+
+- [ChatGPT](https://chat.openai.com/){:target="_blank"} – general-purpose chat and coding assistant  
+- [Microsoft Copilot](https://copilot.microsoft.com/){:target="_blank"} – integrated into Microsoft 365 tools  
+- [Google Gemini](https://gemini.google.com/){:target="_blank"} – Google’s general-purpose AI assistant  
+- [Perplexity](https://www.perplexity.ai/){:target="_blank"} – research-style question answering with sources  
+
+The core ideas of **source-grounded, critical AI use** apply to all of them.
+
+---
+
+## Ethics, Academic Integrity, and Critical Use
+
+For deeper discussion of responsible AI use in research and teaching:
+
+- [UVic Guidelines for using generative AI in research](https://www.uvic.ca/research/teachers-staff/research-admin/research-policies/ai-guidelines/index.php){:target="_blank"}  
+- [Tri-Agency guidance on AI in research development and review](https://www.sshrc-crsh.gc.ca/en/research-funding/policies/guidelines-research-data-management/tri-agency-guidance-use-artificial-intelligence-review-development-and-review-research-grant-proposals){:target="_blank"}  
+
+Key principles emphasized in this workshop:
+
+- Always **verify AI-generated content** using citations and original sources  
+- Be transparent with students, colleagues, and supervisors about how you use AI  
+- Never upload sensitive or confidential data into external AI systems  
+
+---
+
+## Acknowledgements
+
+- [UBC Library Research Commons](https://github.com/ubc-library-rc){:target="_blank"} for their assistance with the Jekyll template for GitHub Pages.  
+- UVic Libraries **Digital Scholarship Commons** team for workshop design, testing, and facilitation.
+
+[NEXT STEP: Workshop Evaluation Survey](workshop-survey.html){: .btn .btn-blue }
