@@ -36,6 +36,17 @@ The goal is to reduce the time you spend skimming, copying, and re-formatting in
 
 ---
 
+## Responsible and critical use
+
+Throughout the workshop, we will emphasize:
+
+- **Verification** – always checking AI-generated text, slides, and summaries against the original sources.
+- **Citation and academic integrity** – using NotebookLM as a reading and thinking partner, not as a ghost-writer.
+- **Privacy and data handling** – what kinds of documents are appropriate to upload, and when not to use cloud tools.
+- **Bias awareness** – understanding that outputs reflect both your uploaded sources and the underlying model’s limitations.
+
+---
+
 ## Learning objectives
 
 By the end of this workshop, you will be able to:
@@ -47,15 +58,6 @@ By the end of this workshop, you will be able to:
 5. **Create presentation assistance** (slide titles, outlines, and speaking notes) for Google Slides or PowerPoint.
 6. **Use flashcards and quizzes** to turn your notebook into a study or revision tool.
 7. **Summarize qualitative feedback** (e.g., survey responses) into themes, insights, and next-step questions.
-
-## Responsible and critical use
-
-Throughout the workshop, we will emphasize:
-
-- **Verification** – always checking AI-generated text, slides, and summaries against the original sources.
-- **Citation and academic integrity** – using NotebookLM as a reading and thinking partner, not as a ghost-writer.
-- **Privacy and data handling** – what kinds of documents are appropriate to upload, and when not to use cloud tools.
-- **Bias awareness** – understanding that outputs reflect both your uploaded sources and the underlying model’s limitations.
 
 ---
 
