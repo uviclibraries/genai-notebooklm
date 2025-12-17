@@ -2,7 +2,7 @@ title: GenAI - NotebookLM (2025 Edition)
 remote_theme: pmarsceill/just-the-docs
 
 # --- GitHub "Edit this page" ---
-gh_edit_repository: "https://github.com/chiragvijaykumar/genai-notebooklm" # your repo
+gh_edit_repository: "https://github.com/uviclibraries/genai-notebooklm" # your repo
 gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_branch: "main" # your branch
