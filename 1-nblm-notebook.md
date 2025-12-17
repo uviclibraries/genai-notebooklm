@@ -6,11 +6,9 @@ parent: Workshop Activities
 ---
 
 # Getting Started with NotebookLM’s _Notebook Guide_
-<img src="images/5-notebooklm-logo-2025.png" style="float:right;width:280px;padding:10px;" alt="NotebookLM Logo">
+<img src="images/5-notebooklm-logo.png" style="float:right;width:280px;padding:10px;" alt="NotebookLM Logo">
 
 > **Quick idea:** In this activity you’ll turn a small pile of readings, notes, or webpages into a **personal AI assistant** that actually knows your stuff and cites it back to you.
-
----
 
 ## Learning goals
 
@@ -19,37 +17,6 @@ By the end of this activity, you will be able to:
 - Build a **notebook** with multiple sources (PDFs, Docs, webpages, etc.).
 - Use **Notebook Guide / Studio tools** (Report, Audio, Flashcards, Quiz) on your own material.
 - Judge whether NotebookLM’s output is **accurate, biased, or hallucinating** by checking against the originals.
-
----
-
-## What NotebookLM does (2025 snapshot)
-
-NotebookLM is a **source-grounded AI workspace**:
-
-- You load your own sources: PDFs, web pages, Google Docs/Slides/Sheets, YouTube links, audio files, images.
-- NotebookLM creates a **notebook** and lets you:
-  - Chat with an AI that cites those sources.
-  - Use **Notebook Guide / Studio** to generate reports, study guides, mind maps, timelines, audio/video overviews, flashcards, and quizzes.
-- Web research (via **Deep Research**) can be added later, but this activity focuses on **your uploaded sources**.
-
-> **Accuracy & safety reminder**
-> - NotebookLM is strongest when it stays grounded in your sources.
-> - Always skim the original document before trusting a summary.
-> - For any “fact,” ask it to **show the exact quote and source**.
-
----
-
-## What you need for this activity
-
-- A Google account (for NotebookLM).
-- A laptop with Chrome/Firefox/Edge.
-- 2–4 short **documents you care about**, for example:
-  - A course reading (PDF),
-  - An assignment brief or project description,
-  - A web page or blog post,
-  - A slide deck or Google Doc.
-
-You can use the workshop sample documents, or your own.
 
 ---
 
