@@ -36,18 +36,6 @@ The goal is to reduce the time you spend skimming, copying, and re-formatting in
 
 ---
 
-## About this workshop
-
-This intermediate workshop focuses on using NotebookLM as a **personal RAG (Retrieval-Augmented Generation) tool** for research and productivity. Rather than treating AI as a general chatbot, we show you how to build a targeted assistant that:
-
-- Knows only what you give it (your sources)
-- Can explain, summarize, and compare those sources
-- Can transform them into slides, reports, and study materials
-
-We will use live examples to show how NotebookLM handles typical academic and professional workflows, including note-taking, synthesizing articles, and preparing presentations.
-
----
-
 ## Learning objectives
 
 By the end of this workshop, you will be able to:
@@ -71,28 +59,6 @@ Throughout the workshop, we will emphasize:
 
 ---
 
-## Who is this workshop for?
-
-This intermediate session is designed for:
-
-- Students working on essays, theses, capstone projects, and literature reviews  
-- Instructors preparing lectures, slides, or course materials  
-- Researchers and staff who need to summarize reports, policies, or long technical documents  
-- Anyone comfortable with basic GenAI tools who wants **deeper, source-grounded workflows**
-
-You do **not** need to be an AI expert; basic familiarity with web tools and text editors is enough.
-
----
-
-## Before the workshop
-
-To get the most out of the session, please:
-
-- Review the **Pre-Workshop Activities** page in this site for short videos and AI usage guidelines.  
-- Bring a laptop (recommended) and, if possible, a PDF or document you regularly work with (e.g., a reading, report, or project document) that you can safely upload to NotebookLM.
-
----
-
 ## Generative AI Workshop Pathway
 
 This workshop is part of our Generative AI Workshop Pathway, which offers a progression from foundational to advanced research and productivity skills:
@@ -100,5 +66,3 @@ This workshop is part of our Generative AI Workshop Pathway, which offers a prog
 - **[GenAI Introductory Workshops](https://uviclibraries.github.io/genai-pathway/#introductory-workshops)**  
 - **[GenAI Intermediate Workshops](https://uviclibraries.github.io/genai-pathway/#intermediate-workshops)**  
 - **[GenAI Advanced Workshops](https://uviclibraries.github.io/genai-pathway/#intermediate-workshops)**
-
----
