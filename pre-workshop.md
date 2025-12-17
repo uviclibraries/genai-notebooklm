@@ -6,16 +6,6 @@ nav_order: 2
 
 # Pre-Workshop Activities
 
-## Who this workshop is for
-
-This session is designed for:
-
-- **Students** working on essays, capstones, theses, or portfolios  
-- **Instructors and staff** preparing slides, handouts, or course guides  
-- **Researchers and professionals** who read long reports and need clear summaries  
-
-You do **not** need to be an AI expert. Basic comfort with web tools and text documents is enough.
-
 ## What you’ll do in the workshop
 
 During the live session, you will:
