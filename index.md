@@ -25,9 +25,9 @@ You can then ask questions, generate explanations, and create outputs (reports, 
 
 At a high level, NotebookLM lets you:
 
-- **Organize sources into notebooks** for each course, project, or topic.
-- **Chat with an AI that cites your sources**, so you can see exactly where each answer comes from.
-- **Run Deep Research** to pull in high-quality web sources and save the structured report back into your notebook.
+- **Create notebooks** for individual courses, projects, or topics.
+- **Automatically cites sources**, so you can see exactly where each answer comes from in the documents you've uploaded to NotebookLM.
+- **Run Deep Research** to optionally pull in high-quality web sources and save the structured report back into your notebook.
 - **Generate learning tools** like flashcards, quizzes, study guides, and concept summaries.
 - **Create teaching and communication assets** such as reports, timelines, infographics, and slide decks.
 - **Produce audio and video overviews** that turn long documents into podcast-style discussions or short explainers.
@@ -59,63 +59,6 @@ By the end of this workshop, you will be able to:
 5. **Create presentation assistance** (slide titles, outlines, and speaking notes) for Google Slides or PowerPoint.
 6. **Use flashcards and quizzes** to turn your notebook into a study or revision tool.
 7. **Summarize qualitative feedback** (e.g., survey responses) into themes, insights, and next-step questions.
-
----
-
-## Key NotebookLM features we will explore
-
-### 1. Source-grounded chat
-
-- Creating notebooks for a course, project, or research topic  
-- Uploading PDFs, Google Docs, Slides, Sheets, web pages, and YouTube / media transcripts  
-- Asking questions and reading answers with inline citations back to the original documents  
-- Using the chat to check, compare, and explain complex passages
-
-### 2. Deep Research
-
-- Using NotebookLM’s research panel to discover sources on the web  
-- Understanding the difference between fast scans and deeper multi-step research  
-- Importing the resulting research report and citations into your notebook  
-- Using Deep Research to complement (not replace) traditional database searching
-
-### 3. Studio tools: reports, mind maps, and timelines
-
-- Generating structured **reports** (briefing docs, study guides, FAQs, blog-style summaries)  
-- Building **mind maps** and **timelines** to visualize people, events, or key concepts  
-- Editing and refining generated content while always checking back against the sources
-
-### 4. Audio and video overviews
-
-- Creating **Audio Overviews** (podcast-style two-host discussions of your sources)  
-- Exploring **interactive audio**: pausing, asking follow-up questions, and steering the conversation  
-- Generating **Video Overviews** that turn your material into short, narrated explainers  
-- Using audio/video as alternative ways to review long or dense material
-
-### 5. Slide decks and infographics
-
-- Using **Slide Decks** to automatically draft multi-slide presentations from your notebook  
-- Using **Infographics** to condense key ideas into a single visual summary  
-- Exporting and refining AI-generated decks and visuals in your preferred slide tool  
-- Discussing strengths, limitations, and responsible use of these artifacts
-
-### 6. Study tools: flashcards and quizzes
-
-- Auto-creating flashcards from lecture notes, readings, or project documents  
-- Generating quizzes at different difficulty levels for self-testing  
-- Using explanations and citations to deepen understanding (not just memorize answers)  
-- Sharing flashcards/quizzes with peers for collaborative study
-
-### 7. Infographics 
-  - Generate one-page visual summaries of a reading, project, or process.  
-  - Useful for posters, handouts, orientation materials, or quick overviews for community partners.  
-  - In the workshop, you will create an infographic from a small set of sources and then critique it for clarity, accuracy, and visual hierarchy.
-
-### 8. Slide Deck
-  - Draft a multi-slide presentation (outline, slide titles, bullet points, and speaking notes) directly from your notebook.  
-  - You will practice taking an AI-generated deck and **editing it like a human expert**: tightening the narrative, removing fluff, checking every claim against citations, and adapting the tone to your real audience.
-
-We treat these features as **first-draft helpers**, not final products. The focus is on using AI to get from “blank slide” to a structured story faster—while you stay in control of the message and design.
----
 
 ## Responsible and critical use
 
