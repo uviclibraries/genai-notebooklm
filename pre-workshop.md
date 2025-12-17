@@ -16,8 +16,6 @@ This session is designed for:
 
 You do **not** need to be an AI expert. Basic comfort with web tools and text documents is enough.
 
----
-
 ## What you’ll do in the workshop
 
 During the live session, you will:
@@ -28,8 +26,6 @@ During the live session, you will:
 - Practice **verifying** AI-generated content by checking citations against the original documents  
 
 By the end, you should have at least one “real” notebook you can keep using for your studies or work.
-
----
 
 ## What to bring
 
@@ -45,27 +41,14 @@ To get the most out of the workshop, please bring:
 
 If you don’t have your own documents, sample materials will be provided.
 
----
-
-## UVic Guidelines for Using Generative AI in Research
-
-As a researcher it is very important that you carefully review UVic’s guidance on generative AI. Please read:
-
-- [UVic Guidelines for using generative artificial intelligence in research](https://www.uvic.ca/research/teachers-staff/research-admin/research-policies/ai-guidelines/index.php){:target="_blank"}  
-- [Tri-Agency guidance on the use of AI in research development and review](https://www.sshrc-crsh.gc.ca/en/research-funding/policies/guidelines-research-data-management/tri-agency-guidance-use-artificial-intelligence-review-development-and-review-research-grant-proposals){:target="_blank"}
-
----
-
 ## Pre-Workshop Videos & Activities
 
 This workshop consists of a small amount of instruction followed by **hands-on activities**. To be ready to jump straight into NotebookLM, please:
 
-1. Review the UVic and Tri-Agency AI guidelines above.  
+1. As a researcher it is very important that you carefully review UVic’s guidance on generative AI. Please read: [UVic](https://www.uvic.ca/research/teachers-staff/research-admin/research-policies/ai-guidelines/index.php){:target="_blank"} and [Tri-Agency guidance on the use of AI in research development and review](https://www.sshrc-crsh.gc.ca/en/research-funding/policies/guidelines-research-data-management/tri-agency-guidance-use-artificial-intelligence-review-development-and-review-research-grant-proposals){:target="_blank"}.  
 2. Watch at least one short GenAI overview:
-
 - [Here's Why GPT4All Could Be A Real Game-Changer](https://www.youtube.com/watch?v=XNRcjdfkADI){:target="_blank"} (3 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XNRcjdfkADI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 3. (Optional) Log in once to **[NotebookLM](https://notebooklm.google/){:target="_blank"}** so your account is ready.
 
 During the workshop, we may also mention other GenAI tools, including:
@@ -75,6 +58,5 @@ During the workshop, we may also mention other GenAI tools, including:
 - [ChatGPT](https://chat.openai.com/){:target="_blank"} (general purpose)  
 - [Google Gemini](https://gemini.google.com/){:target="_blank"} (general purpose)  
 
----
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
