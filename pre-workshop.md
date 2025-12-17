@@ -37,8 +37,8 @@ This workshop consists of a small amount of instruction followed by **hands-on a
 
 1. As a researcher it is very important that you carefully review UVic’s guidance on generative AI. Please read: [UVic](https://www.uvic.ca/research/teachers-staff/research-admin/research-policies/ai-guidelines/index.php){:target="_blank"} and [Tri-Agency guidance on the use of AI in research development and review](https://www.sshrc-crsh.gc.ca/en/research-funding/policies/guidelines-research-data-management/tri-agency-guidance-use-artificial-intelligence-review-development-and-review-research-grant-proposals){:target="_blank"}.  
 2. Watch at least one short GenAI overview:
-- [Here's Why GPT4All Could Be A Real Game-Changer](https://www.youtube.com/watch?v=XNRcjdfkADI){:target="_blank"} (3 min)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XNRcjdfkADI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [Here's Why GPT4All Could Be A Real Game-Changer](https://www.youtube.com/watch?v=pHHyLQaWL5I){:target="_blank"} (9 min)<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pHHyLQaWL5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 3. (Optional) Log in once to **[NotebookLM](https://notebooklm.google/){:target="_blank"}** so your account is ready.
 
 During the workshop, we may also mention other GenAI tools, including:
