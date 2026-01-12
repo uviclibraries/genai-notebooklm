@@ -22,17 +22,17 @@ By the end of this activity, you will be able to:
 
 ## Step 1 – Create your first notebook
 
-1. Open [notebooklm.google](https://notebooklm.google/) and sign in.  
+1. Open [notebooklm.google](https://notebooklm.google/){:target="_blank"} and sign in.  
 2. Click **New notebook**.  
 3. Give it a **purposeful title**, e.g.:
-   - “CIVE 5xx – Literature Review”
+   - “Literature Review”
    - “Thesis – Methodology Sources”
    - “Workshop Demo – NotebookLM”
-
 4. Add **at least 2–3 sources**:
-   - Click **Add source** → upload a PDF or select a Google Doc/Slide/Sheet.
-   - Paste a URL to a publicly accessible article or page.
-   - (Optional) Add a YouTube link or audio file.
+   - Either find a document of your own, or you can download this [Journal Article](assets/badges.pdf){:target="_blank"} to use as a source in the next step.
+   - Click **Add source** → upload your own PDF, or the Journal Article PDF above if you downloaded it, or if you use Google Drive you can select a Google Doc/Slide/Sheet.
+   - Also, paste a URL to a publicly accessible article or page. You can use this URL if you'd like: https://richmccue.com/2025/12/27/create-a-high-quality-infographic-for-your-course-outline-in-less-than-2-minutes/ 
+   - (Optional) Add a YouTube link or audio file. Here's a YouTube link if you'd like to use it: https://www.youtube.com/watch?v=-88S0CoNGp8
 
 > **Pro tip:** Mix formats in one notebook (PDF + web page + slides). NotebookLM is good at weaving them together, but you’ll want to know which source each idea came from.
 
