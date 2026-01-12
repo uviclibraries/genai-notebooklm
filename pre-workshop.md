@@ -21,12 +21,12 @@ By the end, you should have at least one “real” notebook you can keep using 
 
 To get the most out of the workshop, please bring:
 
-- A **laptop** (recommended for full NotebookLM features)  
+- A **laptop** which you'll need for a Zoom based workshop and is recommended to use all of NotebookLM's features
 - A **Google account** you can sign in with  
 - 2–3 documents you can safely upload, such as:  
   - A course reading (PDF)  
   - An assignment brief or project description  
-  - A publicly accessible article or webpage  
+  - A publicly accessible article or web page  
 - (Optional) **Headphones**, if you want to listen to Audio Overviews without disturbing others  
 
 If you don’t have your own documents, sample materials will be provided.
