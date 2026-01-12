@@ -13,15 +13,11 @@ nav_order: 1
 
 ---
 
-## What is NotebookLM?
+## What is NotebookLM and what does it do?
 
-NotebookLM is Google’s AI research and study workspace. Instead of chatting with a generic model, you load your own sources (papers, PDFs, Docs, Sheets, web pages, videos, notes), and NotebookLM builds a “thinking partner” that stays grounded in those materials.
+NotebookLM is Google’s AI research and study workspace. Instead of chatting with a generic model that uses the whole internet as it's source of data (both the good and the bad), you load your own sources (papers, PDFs, Docs, Sheets, web pages, videos, notes), into NotebookLM and it builds a “thinking partner” that stays grounded in those materials.
 
 You can then ask questions, generate explanations, and create outputs (reports, flashcards, slide decks, infographics, audio/video overviews) that are all based on the content you provided. This makes NotebookLM especially useful for courses, research projects, literature reviews, and complex real-world documents.
-
----
-
-## What does NotebookLM do?
 
 At a high level, NotebookLM lets you:
 
@@ -33,19 +29,6 @@ At a high level, NotebookLM lets you:
 - **Produce audio and video overviews** that turn long documents into podcast-style discussions or short explainers.
 
 The goal is to reduce the time you spend skimming, copying, and re-formatting information so you can focus on understanding, analysis, and creation.
-
----
-
-## Responsible and critical use
-
-Throughout the workshop, we will emphasize:
-
-- **Verification** – always checking AI-generated text, slides, and summaries against the original sources.
-- **Citation and academic integrity** – using NotebookLM as a reading and thinking partner, not as a ghost-writer.
-- **Privacy and data handling** – what kinds of documents are appropriate to upload, and when not to use cloud tools.
-- **Bias awareness** – understanding that outputs reflect both your uploaded sources and the underlying model’s limitations.
-
----
 
 ## Learning objectives
 
