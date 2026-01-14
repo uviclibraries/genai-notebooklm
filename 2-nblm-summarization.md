@@ -52,5 +52,4 @@ Avoid generic prompts like “summarize this.” You’ll get vague, forgettable
 1. In the **Sources** panel, **de-select** Documents 2 and 3 so that only **Document 1** is active.  
 2. In **Chat**, ask something like:
 
-```Create a 180–220 word summary for parents explaining how the University Makerspace (Library Digital Scholarship Commons) helps with co-op job searches and post-graduation employment. 
-Use plain language, include three concrete benefits supported by evidence from Document 1, and include inline citations.```
+```Create a 180–220 word summary for parents explaining how the University Makerspace (Library Digital Scholarship Commons) helps with co-op job searches and post-graduation employment. Use plain language, include three concrete benefits supported by evidence from Document 1, and include inline citations.```
