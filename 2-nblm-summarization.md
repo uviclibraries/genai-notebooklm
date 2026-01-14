@@ -5,7 +5,7 @@ nav_order: 7
 parent: Workshop Activities
 ---
 
-# Summarizing Text, Audio & Video (2025 Edition)
+# Summarizing Text, Audio & Video)
 <img src="images/nblm-summarize-text2.gif" style="float:right;width:420px;padding:10px;border:1px solid #555;" alt="NotebookLM source summary view">
 
 In this module, you’ll use **NotebookLM** to transform your uploaded documents, meeting transcripts, and even videos into audience-ready summaries—and then refine, translate, and output those summaries in multiple formats.
