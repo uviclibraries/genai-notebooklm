@@ -30,19 +30,6 @@ Feel free to explore other tutorials that match your discipline or use case.
 
 ---
 
-## Other GenAI Tools Mentioned in This Workshop
-
-While this workshop focuses on **NotebookLM**, you may also encounter:
-
-- [ChatGPT](https://chat.openai.com/){:target="_blank"} – general-purpose chat and coding assistant  
-- [Microsoft Copilot](https://copilot.microsoft.com/){:target="_blank"} – integrated into Microsoft 365 tools  
-- [Google Gemini](https://gemini.google.com/){:target="_blank"} – Google’s general-purpose AI assistant  
-- [Perplexity](https://www.perplexity.ai/){:target="_blank"} – research-style question answering with sources  
-
-The core ideas of **source-grounded, critical use of AI** apply to all of them.
-
----
-
 ## Ethics, Academic Integrity, and Critical Use
 
 For deeper discussion of responsible AI use in research and teaching:
