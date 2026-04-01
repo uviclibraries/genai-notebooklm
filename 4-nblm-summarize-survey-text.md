@@ -1,92 +1,207 @@
 ---
 layout: default
 title: 4 - Summarize Survey Feedback
-nav_order: 8
+nav_order: 5
 parent: Workshop Activities
-customjs: http://code.jquery.com/jquery-1.4.2.min.js
---- 
+---
+
 # Summarize Short Answer Survey Feedback
-<img src="images/4-survey-logo.jpeg" style="float:right;width:300px;padding:10px;" alt="Decorative">
-In this activity, we'll explore how GenAI can help you summarize short answer survey responses, to help you quickly understand at a high level the key issues being brought up by respondents for a specific survey question. If you asked multiple questions you'd need to upload the responses for each question in individual documents. We'll also review how to customize these summaries by adjusting the tone, style, and language level.  
 
-> NOTE: Like all other Generative AI tools, NotebookLM will sometimes make mistakes, although because you are providing it with training data, it will likely make fewer mistakes than general purpose Generative AI tools. Always research any factual claims it makes when summarizing survey question responses.
+![Decorative](images/4-survey-logo.jpeg)
 
-If you have any questions or get stuck as you work through this exercise, please ask the instructor for assistance.
+In this activity you'll use NotebookLM to summarize free-text survey responses — helping you quickly identify key themes, patterns, and actionable insights from qualitative data. You'll also learn how to customize summaries by adjusting tone, style, and language level, and how to use NotebookLM's citation tools to verify that its conclusions are actually grounded in what respondents said.
 
-Outline:
-- Summarize feedback from all responses to a single free-form survey question.
-- Use different prompt strategies to customize the summary by using, personas, examples, tone, vocabulary level, and voice.
-- Explore the usefulness of NotebookLM citations, in particular how they take you to the passages in the document that they used to support their summary of information. This is a very useful verification tool.
+> **Note:** Like all GenAI tools, NotebookLM will sometimes make mistakes. Because you are providing it with your own data it will likely make fewer than a general-purpose tool — but always verify its claims against the original responses, especially before sharing findings with others.
+
+If you get stuck at any point, ask the instructor.
+
+---
 
 ## Learning goals
 
 By the end of this activity, you will be able to:
 
-- Load **survey or qualitative text** (comments, reflections, open-ended responses) into a NotebookLM notebook.  
-- Ask NotebookLM to identify **themes, patterns, and representative quotes**.  
-- Turn messy text into **concise summaries, tables, or reports** for different audiences.  
-- Use citations and excerpts to ensure that themes are **actually supported** by the data.
+* Load **qualitative survey text** (open-ended responses, comments, reflections) into a NotebookLM notebook.
+* Ask NotebookLM to identify **themes, patterns, and representative quotes**.
+* Turn messy text into **concise summaries, tables, or reports** for different audiences.
+* Use **citations and excerpts** to verify that themes are actually supported by the data.
+* Customize summaries by adjusting **tone, persona, and vocabulary level**.
 
-## Getting Started
-Let's go back to the notebook with the three journal articles we've already created, and add a YouTube video to the notebook so that there will be four items for NotebookLM to draw information from:
+---
 
-1. Download the following two documents, each with survey question responses, to use as training data for your notebook in this activity. When you do this for your own survey data, please note that you'll need to export the responses for each survey question you want to analyze into separate documents (using either TXT or PDF formats for both). Please make note of where your web browser is saving the survey response PDF files for this exercise (usually in your Downloads or Desktop folders):
-   - [Survey Question Response 1](images/survey-question-1.pdf){:target="_blank"}
-   - [Survey Question Response 2](images/survey-question-2.pdf){:target="_blank"}
-2. Create a new notebook by clicking on the blue **Create new** button on the left side of the screen.
-<img src="images/nblm-create-new.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
-3. Upload the two documents you downloaded by clicking on the blue **choose file** link in the middle of the page. You'll need to either select the two documents, and add them together, or do as the video below shows and add them individually:<br>
-<img src="images/nblm-add-surveys3.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="Add Survey Documents"><br>
-4. Good job! You're now ready to explore ways to summarize the survey responses!
+## Getting started
 
-## Initial Exploration of Survey Question 1 Responses
-1. Let's limit our first summary to Survey Question 1 Responses:
-   - De-select **survey-question-2.pdf** file by clicking on the checkbox on the right of the file name.<br>
-   <img src="images/nblm-deselect-q-2.png" style="width:250px;padding:20px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
-   - You will now only be asking questions about the responses to _Survey Question 1_.
-3. Let's ask NotebookLM to summarize the responses to _Survey Question 1_ by typing the following into the chat box and pressing Enter: ```Please analyze the following short-answer survey responses from participants who attended a university-level workshop. Summarize the key feedback by identifying recurring themes, specific suggestions for improvement, and notable positive aspects. Highlight actionable insights and any patterns in participant opinions. Present the findings clearly, categorizing them into strengths, areas for improvement, and additional comments or suggestions. Ensure the summary is concise and easy to understand.```
-  - **Reflection**: Do the themes and suggestions questions look reasonable based on reading the comments in the _Survey Question 1_ PDF document?
-  - **Reflection**: In my response, two instructors are highlighted for being particularly expert and helpful. Do we know if that is because these two instructors teach most of the workshops, and equally expert and helpful instructors teach only a handful of workshops so aren't highlighted by NotebookLM? You don't have the data to evaluate this question, but it would be something to explore if this was your research project.
-4. NotebookLM provides linkable citations for the factual claims or interpretations it makes. Let's see if these citations can help validate NotebookLM's claims:
-  - Click on the first citation link which is a **1** in a little grey circle.
-  - The Source guide with appear on the right side of the NotebookLM interface. Please read the highlighted passage to see if it supports the claim that it's supposed to support. Does it seem accurate?<br>
-<img src="images/nblm-citation-check.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Citation Check"><br>
-  - Click on the second citation link which is a **2** in a little grey circle. Does the highlighted passage support the claim that it's supposed to support?
-  - Feel free to check out further citations in the document to see how it's done.
-5. Now close the **Source guide** by clicking on the little icon in the top right corner of the Source guide area (see image below).
-<img src="images/nblm-close-source-guide.png" style="float:right;width:250px;padding:10px;border: 1px solid #555;" alt="Citation Check">
-6. Let's check our Survey Question 2 responses:
-  - Click on the Sources checkbox to select **survey-question-2.pdf** and deselect the **survey-question-1.pdf** document.
-  <img src="images/nblm-deselect-q-1.png" style="float:right;width:250px;padding:10px;border: 1px solid #555;" alt="Deselect document 1 and select document 2">
-  - Let's ask NotebookLM to summarize the responses to _Survey Question 2_ by typing the following into the chat box and pressing Enter: ```Please analyze the following short-answer survey responses from participants who attended a university-level workshop. Summarize the key feedback by identifying recurring themes, specific suggestions for improvement, and notable positive aspects. Highlight actionable insights and any patterns in participant opinions. Present the findings clearly, categorizing them into strengths, areas for improvement, and additional comments or suggestions. Ensure the summary is concise and easy to understand.```
-  - Note that the summary is shorter for the responses to Survey Question 2. This isn't surprising as about half the number of people responded to this survey question compared to Question 1.
-  - Try looking at the citations to see how reasonable they look.
-  - You might want to try a follow-up question like: ```Please expand on the Actionable Insights section.```
-> - **Reflection**: What do you think of the quality of the summaries it created?
-> - **Reflection**: Could this help you in your research workflow? If so where, and would it be worth your time and effort to work on your prompting skills to make the most of NotebookLM features?
->  - **Reflection**: What potential drawback can you think of from over reliance on GenAI document summaries for your research?
-   
-## Studio Tools
-1. Let's get ready to check out some of the Studio Tools that come with NotebookLM:
-   - Click on the **Select all sources** checkbox on the bottom right of the window.
-   - If the **Studio** pane is not open on the right side of your browser, click on the expand Studio icon (see) image below. You should now see the **Studio** pane on the right side.
-   <img src="images/nblm-studio-tools.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Studio Tools"><br>
-2. **Podcast Summary**:
-  - To create a podcast summary, all you need to do is click on the blue **Generate** button (see image above). It typically takes between two and five minutes to generate the podcast, and the podcasts seem to be about 10 to 18 minutes long depending on how much information it needs to summarize.<br>
-  - Once the podcast has been generated, you can listen to the podcast by clicking on the light blue play button.
-  - To download the podcast to your computer to share with other people click on the **three vertical dots** to the right of the play button and then click on the **Download** button.
-  - If you don't want to wait for NotebookLM to create the podcast you can listen to the version it created for the DSC: [Podcast Summary Audio](images/nblm-podcast-summary.mp3){:target="_blank"} (12-min).
-  > - **Reflection**: What do you think of the quality of the Podcast it created?
-  > - **Reflection**: Can you think of any ways that this type of Podcast summary could be useful?
-  > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
-4. **Briefing doc**:<img src="images/nblm-studio-notes.png" style="float:right;width:300px;padding:20px;border: 1px solid #555;" alt="Studio Notes">
-- Briefing documents are a quick way to summarize and understand the contents of the survey feedback information in your notebook in a general way. **NOTE**: NotebookLM does not provide inline citations in this type of document like it does when it responds to your prompts, which makes verifying factual claims more time-consuming.
-  - To create a briefing document, simpley click on the **Briefing Document** button on the right side of the page. It will take 30-60 seconds to generate the briefing document.<br>
-  - Once it is finished creating your briefing document, simpley click on the document link directly below Studio Buttons on the right side of the page, and scan through the summary
-  > - **Reflection**: What do you think of the quality of the Summary?
-  > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created summary?
-5. **FAQ**: The FAQ tools is probably not a very useful tool in the context of evaluating short-answer survey feedback, but feel free to give it a try and let the instructor know if you find anything useful there!
-6.  **Study Guide**: The Study Guide tools is probably not a very useful in the context of summarizing and evaluating short answer survey feedback, but feel free to click the **Study Guide** button and let the instructor know if you find anything useful there!
-7. **Timeline**: If there are no dates in the free form survey feedback, NotebookLM will not be able to generate a Timeline. That said, give it a try and see what happens!
-  
-[NEXT STEP: Creating Presentations](5-nblm-presentations.html){: .btn .btn-blue }
+1. Download the two sample survey response documents below. Each file contains responses to a single open-ended survey question. When working with your own survey data, export the responses for each question into separate documents (TXT or PDF format work best):
+   * [Survey Question Response 1](images/survey-question-1.pdf)
+   * [Survey Question Response 2](images/survey-question-2.pdf)
+2. In NotebookLM, click the blue **Create new** button to start a fresh notebook.
+
+   ![NotebookLM Create new button](images/nblm-create-new.png)
+
+3. Upload both documents by clicking **Choose file** and selecting them.
+
+   ![Add Survey Documents](images/nblm-add-surveys3.gif)
+
+4. Confirm both files appear in the **Sources** panel. You're now ready to start summarizing.
+
+---
+
+## 1) Initial exploration — Survey Question 1
+
+1. De-select **survey-question-2.pdf** by clicking its checkbox so that NotebookLM only draws from Question 1 responses.
+
+   ![Deselect document 2](images/nblm-deselect-q-2.png)
+
+2. Paste this prompt to generate your first summary:
+```
+Please analyze the following short-answer survey responses from participants
+who attended a university-level workshop. Summarize the key feedback by
+identifying recurring themes, specific suggestions for improvement, and
+notable positive aspects. Highlight actionable insights and any patterns
+in participant opinions. Present the findings clearly, categorizing them
+into: Strengths | Areas for improvement | Additional comments & suggestions.
+Ensure the summary is concise and easy to understand.
+```
+
+3. Read the output and reflect:
+   * Do the themes look reasonable compared to what you can see in the PDF?
+   * If two instructors are highlighted as particularly helpful — do you actually know whether that's because they teach most workshops, or just because they're mentioned more often? NotebookLM can't answer that without more data. Note the limitation.
+
+**Verify the citations:**
+
+4. Click the **1** citation marker (small grey circle) in the response. The Source panel will open on the right — read the highlighted passage and ask: does it actually support the claim?
+
+   ![Citation Check](images/nblm-citation-check.png)
+
+5. Click the **2** citation marker and repeat. Check as many as you have time for — this is the most important habit to build with any AI summarization tool.
+
+6. Close the Source panel using the icon in the top-right corner of that panel.
+
+   ![Close source guide](images/nblm-close-source-guide.png)
+
+---
+
+## 2) Survey Question 2
+
+1. Switch sources: select **survey-question-2.pdf** and de-select **survey-question-1.pdf**.
+
+   ![Deselect document 1 and select document 2](images/nblm-deselect-q-1.png)
+
+2. Run the same summary prompt as above. Notice that the output is shorter — this is expected since fewer people responded to Question 2.
+
+3. Try a follow-up to push for more depth:
+```
+Please expand on the Actionable Insights section. For each insight,
+suggest one concrete next step a workshop organizer could take,
+and cite the response(s) that support it.
+```
+
+4. Check two citations to see if the suggested actions are genuinely grounded in what respondents said.
+
+> **Reflection:** Could this workflow save you time when analyzing your own survey data? What would you still need to do manually that NotebookLM can't do for you?
+
+---
+
+## 3) Customize tone, persona & language level
+
+The same data can be summarized very differently depending on who will read the report. Practice switching context:
+
+**Version A — For a senior administrator (formal, action-oriented)**
+```
+Summarize the key findings from Survey Question 1 responses as a
+150-word executive briefing for a dean or department head.
+Formal tone. Lead with the single most important finding.
+End with two recommended actions. Include citations.
+```
+
+**Version B — For the workshop team (conversational, detailed)**
+```
+Summarize the same responses as a casual internal memo for the
+workshop instructors who ran the session. Friendly tone.
+Include specific quotes from participants (cited) that illustrate
+the main strengths and the main area to improve.
+Maximum 200 words.
+```
+
+**Version C — Plain language (for a public-facing report)**
+```
+Write a 120-word plain-language summary of the survey findings
+suitable for publishing on a library website. Grade 8 reading level.
+No jargon. No citations needed — just clear, honest findings.
+```
+
+> **Reflection:** Which version was most accurate? Which needed the most editing? What does that tell you about where to use NotebookLM and where to write from scratch?
+
+---
+
+## 4) Studio tools
+
+Select all sources before using the Studio tools — click **Select all sources** at the bottom of the Sources panel, then open the **Studio** pane on the right side of the screen.
+
+![Studio Tools](images/nblm-studio-tools.png)
+
+### Podcast / Audio Overview
+
+The Audio Overview turns your survey data into a short conversational podcast-style summary — useful for sharing findings with people who won't read a report.
+
+1. Click the blue **Generate** button under Audio Overview. Generation takes 2–5 minutes.
+2. Listen to the first 2–3 minutes and ask yourself:
+   * Does it accurately represent the main themes?
+   * Does it oversimplify or miss anything important?
+   * Would you share this with a colleague as a fair summary of the data?
+3. To download: click the **three vertical dots** next to the play button → **Download**.
+
+> If you don't want to wait, listen to this pre-generated example: [Podcast Summary Audio](images/nblm-podcast-summary.mp3) (12 min).
+
+**Acceptance criteria before sharing an Audio Overview:**
+* Main themes match what you found in manual review
+* No claims that contradict the source data
+* Tone is appropriate for your intended audience
+
+### Briefing document
+
+A Briefing Doc gives you a structured written summary of everything in the notebook — useful as a starting point for a formal report.
+
+1. Click **Briefing Document** in the Studio panel. It takes 30–60 seconds.
+2. Click the document link that appears and scan through it.
+3. Note: unlike chat responses, Briefing Docs do **not** include inline citations — which makes verifying claims more time-consuming. Don't share a Briefing Doc without manually spot-checking key claims against the source PDFs.
+
+> **Reflection:** Given the lack of inline citations, when would you use a Briefing Doc vs. asking questions in the chat?
+
+### FAQ
+
+The FAQ tool generates a list of questions and answers based on your sources. For survey data it can surface questions that respondents implicitly raised but didn't state directly.
+
+1. Click **FAQ** and scan the output.
+2. Ask: are these questions actually grounded in what respondents said, or are they generic?
+3. Follow up with:
+```
+Which of these FAQ items is most directly supported by the survey
+responses, and which is the most speculative? Explain with citations.
+```
+
+### Study guide & timeline
+
+* **Study Guide** — most useful for course content, not survey data. Try it and see if anything useful comes out for your context.
+* **Timeline** — only works if responses contain dates or time references. Try it — if the responses contain no dates, NotebookLM will tell you.
+
+---
+
+## Self-check (2 min)
+
+* Did you **verify at least two citations** by clicking them and reading the source passage?
+* Did you produce summaries for **at least two different audiences** (Sections 2 and 3)?
+* Did you identify at least **one limitation** of NotebookLM's analysis that you would need to address manually?
+* Before sharing any Audio Overview or Briefing Doc, did you check it against the **acceptance criteria**?
+
+---
+
+## Badge evidence
+
+Save a screenshot of:
+1. A summary output with at least one citation clicked and verified.
+2. One of your customized tone/persona versions (Version A, B, or C from Section 3).
+
+---
+
+[NEXT STEP: Article to Presentation](5-nblm-presentations.html)
