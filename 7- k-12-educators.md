@@ -7,8 +7,6 @@ parent: Workshop Activities
 
 # Teaching Resource: Using NotebookLM in K-12 Education
 
-![NotebookLM Logo](images/5-notebooklm-logo.png)
-
 This activity is designed for K-12 teachers who want to explore how NotebookLM can support classroom learning — both as a tool for teachers to prepare materials, and as a guided tool for students to practise critical thinking, comparison, and comprehension skills.
 
 The example below uses three versions of a well-known fairytale to demonstrate comparison and perspective-taking — skills that connect to the BC curriculum across multiple subject areas and grade levels. The same approach works with any set of texts relevant to your class.
@@ -21,18 +19,6 @@ The example below uses three versions of a well-known fairytale to demonstrate c
 > **Note:** NotebookLM is a Google product and requires a Google account. Before using it with students, check your district's policies on student data privacy and approved tools. For younger students, consider running the tool as a whole-class demonstration rather than having each student use it individually.
 
 If you get stuck at any point, ask the instructor.
-
----
-
-## Learning goals
-
-By the end of this activity, you will be able to:
-
-* Set up a **NotebookLM notebook** with multiple texts for classroom comparison activities.
-* Use NotebookLM to **generate comparison tools** (T-charts, Venn diagrams, theme summaries) that support BC curriculum outcomes.
-* Design **student-facing prompts** that build critical thinking rather than just accepting AI output.
-* Use NotebookLM as a **teacher preparation tool** to create lesson plans, differentiated materials, and comprehension questions from your own documents.
-* Identify appropriate **grade levels and use cases** for NotebookLM in a K-12 context.
 
 ---
 
@@ -234,4 +220,4 @@ Save a screenshot of:
 
 ---
 
-[NEXT STEP: Earn a Workshop Badge](informal-credentials.html)
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
