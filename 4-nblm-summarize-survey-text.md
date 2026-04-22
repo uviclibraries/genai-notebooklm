@@ -64,9 +64,7 @@ Let's go back to the notebook with the three journal articles we've already crea
 ## Studio Tools
 1. Let's get ready to check out some of the Studio Tools that come with NotebookLM:
    - Click on the **Select all sources** checkbox on the bottom right of the window.
-   - If the **Studio** pane is not open on the right side of your browser, click on the expand Studio icon (see) image below. You should now see the **Studio** pane on the right side.
-   <img src="images/nblm-studio-tools.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Studio Tools"><br>
-4. **Reports**:
+2. **Reports**:
   - Reports are a quick way to summarize and understand the contents of the survey feedback information in your notebook in a general way. **NOTE**: NotebookLM does not provide inline citations in this type of document like it does when it responds to your prompts, which makes verifying factual claims more time-consuming.
   - To create a briefing document, simpley click on the **Reports** button on the right side of the page. You will be given options to choose from, as well as the ability to use one of a few predefined prompts, or type in your own prompt. It will take 30-60 seconds to generate the briefing document.<br>
   - Once it is finished creating your briefing document, simpley click on the document link directly below Studio Buttons on the right side of the page, and scan through the summary
@@ -79,7 +77,7 @@ Let's go back to the notebook with the three journal articles we've already crea
   - Once it is finished creating your briefing document, simpley click on the document link directly below Studio Buttons on the right side of the page, and scan through the summary
   > - **Reflection**: What do you think of the quality of the Summary?
   > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created summary?
-2. **Audio Overview**:
+4. **Audio Overview**:
   - To create an audio overview, all you need to do is click on the blue **Audio Overview** button . Select the options that make the most sense for you (including chaning the language if you like), as well as provide a prompt describing what you want, and who your audience is
   - It typically takes between two and five minutes to generate the podcast, and the podcasts seem to be about 10 to 18 minutes long depending on how much information it needs to summarize.<br>
   - Once the podcast has been generated, you can listen to the podcast by clicking on the light blue play button.
