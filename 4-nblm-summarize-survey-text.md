@@ -75,17 +75,17 @@ Let's go back to the notebook with the three journal articles we've already crea
   - Provide a prompt for your data table. For example ```Create a table with feedback for specific instructors. Include: workshop, instructor name, and a quote of the feedback given.```
   - It will take 30-60 seconds to generate the briefing document.<br>
   - Once it is finished creating your briefing document, simpley click on the document link directly below Studio Buttons on the right side of the page, and scan through the summary
-  > - **Reflection**: What do you think of the quality of the Summary?
-  > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created summary?
+  > - **Reflection**: What do you think of the quality of the data in the table?
+  > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created table?
 4. **Audio Overview**:
-  - To create an audio overview, all you need to do is click on the blue **Audio Overview** button . Select the options that make the most sense for you (including chaning the language if you like), as well as provide a prompt describing what you want, and who your audience is
-  - It typically takes between two and five minutes to generate the podcast, and the podcasts seem to be about 10 to 18 minutes long depending on how much information it needs to summarize.<br>
-  - Once the podcast has been generated, you can listen to the podcast by clicking on the light blue play button.
-  - To download the podcast to your computer to share with other people click on the **three vertical dots** to the right of the play button and then click on the **Download** button.
+  - To create an audio overview, all you need to do is click on the blue **Audio Overview** button . Select the options that make the most sense for you (including chaning the language if you like), as well as provide a prompt describing what you want, and who your target audience is.
+  - It typically takes between two and five minutes to generate the podcast, and the podcasts seem to be about 10 to 18 minutes long depending on how much information it needs to summarize.
+  - Once the audio overview has been generated, you can listen to it by clicking on the light blue play button.
+  - To download the audio overview to your computer to share with other people click on the **three vertical dots** to the right of the play button and then click on the **Download** button.
   - If you don't want to wait for NotebookLM to create the podcast you can listen to the version it created for the DSC: [Podcast Summary Audio](images/nblm-podcast-summary.mp3){:target="_blank"} (12-min).
-  > - **Reflection**: What do you think of the quality of the Podcast it created?
-  > - **Reflection**: Can you think of any ways that this type of Podcast summary could be useful?
-  > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
+  > - **Reflection**: What do you think of the quality of the audio overview it created?
+  > - **Reflection**: Can you think of any ways that this type of audio overview summary could be useful?
+  > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created audio overview summary?
 4. **Video Overview**: 
 5. **Infographic**: 
 6. **Slide Deck**: 
