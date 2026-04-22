@@ -90,4 +90,4 @@ Let's go back to the notebook with the three journal articles we've already crea
 5. **Infographic**: 
 6. **Slide Deck**: 
   
-[NEXT STEP: Creating Presentations](5-nblm-presentations.html){: .btn .btn-blue }
+[NEXT STEP: Creating Presentations](7-k-12-educators.html){: .btn .btn-blue }
