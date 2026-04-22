@@ -127,35 +127,13 @@ Now we switch to **active recall** tools.
 
 ---
 
-## Step 6 – Build your own workflow
-
-Take 5–10 minutes to design a **repeatable workflow** you could actually use after this workshop. For example:
-
-- **Thesis / dissertation mode**
-  - One notebook per chapter.
-  - Sources: key articles + your own draft.
-  - Tools: Reports (for argument structure), Study Guides (for exams), Audio Overview (for long walks).
-
-- **Teaching / course prep mode**
-  - One notebook per course or module.
-  - Sources: readings, slide decks, assignment briefs.
-  - Tools: Reports (lecture outlines), FAQs (student Q&A), Slide Decks (draft lecture slides).
-
-- **Survey / feedback analysis mode**
-  - One notebook per survey/project.
-  - Sources: export of free-text responses.
-  - Tools: Reports (themes), Tables (example quotes), Flashcards (practice discussing findings).
-
-Write your workflow down somewhere you’ll actually see it again.
-
----
-
-## Reflection (write briefly)
+## Reflectz:
 
 - What did NotebookLM do best for this topic?  
 - Which feature (Report, Audio, Flashcards, Quiz, Audio Overview) helped you most, and why?  
-- List one claim you **verified in the source** and how you verified it.  
-- How might you adapt this notebook for your **real** work or studies next week?
+- Which claim that NotebookLM made that **verified in the source** and how you verified it? 
+- Do you think NotebookLM could be helpful in your **real** work or studies next week?
+- What potential drawbacks or issues could you experience using NotebookLM in the future?
 
 ---
 
