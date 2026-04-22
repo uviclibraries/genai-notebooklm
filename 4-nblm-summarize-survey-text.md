@@ -26,13 +26,14 @@ By the end of this activity, you will be able to:
 Let's go back to the notebook with the three journal articles we've already created, and add a YouTube video to the notebook so that there will be four items for NotebookLM to draw information from:
 
 1. Download the following two documents, each with survey question responses, to use as training data for your notebook in this activity. When you do this for your own survey data, please note that you'll need to export the responses for each survey question you want to analyze into separate documents in a format that NotebookLM accepts (like TXT or PDF formats). Please make note of where your web browser is saving the survey response PDF files for this exercise (usually in your Downloads or Desktop folders):
+   - <a href="images/survey-question-1.pdf" download>Survey Question Response 1</a>
    - [Survey Question Response 1](images/survey-question-1.pdf){:target="_blank"}
    - [Survey Question Response 2](images/survey-question-2.pdf){:target="_blank"}
-2. Create a new notebook by clicking on the blue **Create new** button on the left side of the screen.
+3. Create a new notebook by clicking on the blue **Create new** button on the left side of the screen.
 <img src="images/nblm-create-new.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
-3. Upload the two documents you downloaded by clicking on the blue **choose file** link in the middle of the page. You'll need to either select the two documents, and add them together, or do as the video below shows and add them individually:<br>
+4. Upload the two documents you downloaded by clicking on the blue **choose file** link in the middle of the page. You'll need to either select the two documents, and add them together, or do as the video below shows and add them individually:<br>
 <img src="images/nblm-add-surveys3.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="Add Survey Documents"><br>
-4. Good job! You're now ready to explore ways to summarize the survey responses!
+5. Good job! You're now ready to explore ways to summarize the survey responses!
 
 ## Initial Exploration of Survey Question 1 Responses
 1. Let's limit our first summary to Survey Question 1 Responses:
