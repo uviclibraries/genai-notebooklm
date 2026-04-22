@@ -66,7 +66,20 @@ Let's go back to the notebook with the three journal articles we've already crea
    - Click on the **Select all sources** checkbox on the bottom right of the window.
    - If the **Studio** pane is not open on the right side of your browser, click on the expand Studio icon (see) image below. You should now see the **Studio** pane on the right side.
    <img src="images/nblm-studio-tools.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Studio Tools"><br>
-2. **Podcast Summary**:
+4. **Reports**:<img src="images/nblm-studio-notes.png" style="float:right;width:300px;padding:20px;border: 1px solid #555;" alt="Studio Notes">
+- Briefing documents are a quick way to summarize and understand the contents of the survey feedback information in your notebook in a general way. **NOTE**: NotebookLM does not provide inline citations in this type of document like it does when it responds to your prompts, which makes verifying factual claims more time-consuming.
+  - To create a briefing document, simpley click on the **Briefing Document** button on the right side of the page. It will take 30-60 seconds to generate the briefing document.<br>
+  - Once it is finished creating your briefing document, simpley click on the document link directly below Studio Buttons on the right side of the page, and scan through the summary
+  > - **Reflection**: What do you think of the quality of the Summary?
+  > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created summary?
+3. **Data Table**: Create a customize table of data based on your prompt.
+  - To create a data table, simpley click on the **Data Table** button on the right side of the page.
+  - Provide a prompt for your data table. For example ```Create a table with feedback for specific instructors. Include: workshop, instructor name, and a quote of the feedback given.```
+  - It will take 30-60 seconds to generate the briefing document.<br>
+  - Once it is finished creating your briefing document, simpley click on the document link directly below Studio Buttons on the right side of the page, and scan through the summary
+  > - **Reflection**: What do you think of the quality of the Summary?
+  > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created summary?
+2. **Audio Overview**:
   - To create a podcast summary, all you need to do is click on the blue **Generate** button (see image above). It typically takes between two and five minutes to generate the podcast, and the podcasts seem to be about 10 to 18 minutes long depending on how much information it needs to summarize.<br>
   - Once the podcast has been generated, you can listen to the podcast by clicking on the light blue play button.
   - To download the podcast to your computer to share with other people click on the **three vertical dots** to the right of the play button and then click on the **Download** button.
@@ -74,14 +87,8 @@ Let's go back to the notebook with the three journal articles we've already crea
   > - **Reflection**: What do you think of the quality of the Podcast it created?
   > - **Reflection**: Can you think of any ways that this type of Podcast summary could be useful?
   > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created Podcast summary?
-4. **Briefing doc**:<img src="images/nblm-studio-notes.png" style="float:right;width:300px;padding:20px;border: 1px solid #555;" alt="Studio Notes">
-- Briefing documents are a quick way to summarize and understand the contents of the survey feedback information in your notebook in a general way. **NOTE**: NotebookLM does not provide inline citations in this type of document like it does when it responds to your prompts, which makes verifying factual claims more time-consuming.
-  - To create a briefing document, simpley click on the **Briefing Document** button on the right side of the page. It will take 30-60 seconds to generate the briefing document.<br>
-  - Once it is finished creating your briefing document, simpley click on the document link directly below Studio Buttons on the right side of the page, and scan through the summary
-  > - **Reflection**: What do you think of the quality of the Summary?
-  > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created summary?
-5. **FAQ**: The FAQ tools is probably not a very useful tool in the context of evaluating short-answer survey feedback, but feel free to give it a try and let the instructor know if you find anything useful there!
-6.  **Study Guide**: The Study Guide tools is probably not a very useful in the context of summarizing and evaluating short answer survey feedback, but feel free to click the **Study Guide** button and let the instructor know if you find anything useful there!
-7. **Timeline**: If there are no dates in the free form survey feedback, NotebookLM will not be able to generate a Timeline. That said, give it a try and see what happens!
+4. **Video Overview**: 
+5. **Infographic**: 
+6. **Slide Deck**: 
   
 [NEXT STEP: Creating Presentations](5-nblm-presentations.html){: .btn .btn-blue }
