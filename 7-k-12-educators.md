@@ -41,7 +41,7 @@ If you get stuck at any point, ask the instructor.
 
 ---
 
-## 1) Comparison activities (student-facing)
+## 1. Comparison activities (student-facing)
 
 These prompts work well as whole-class demonstrations or guided individual activities depending on your grade level and available devices.
 
@@ -90,7 +90,7 @@ List specific words or phrases used in each text.
 
 ---
 
-## 2) Comprehension and close reading
+## 2. Comprehension and close reading
 
 Use these prompts to support comprehension activities at different levels.
 
@@ -118,7 +118,7 @@ Grade 4 students.
 
 ---
 
-## 3) NotebookLM as a teacher preparation tool
+## 3. NotebookLM as a teacher preparation tool
 
 Beyond classroom activities, NotebookLM is a powerful tool for teachers to prepare materials from their own documents. Try these with the Three Little Pigs notebook or swap in your own course readings.
 
@@ -159,7 +159,7 @@ activity sequence with timing, and one formative assessment idea.
 
 ---
 
-## 4) Bringing your own classroom texts
+## 4. Bringing your own classroom texts
 
 The real power of this approach is using texts from your own teaching. Try replacing the Three Little Pigs documents with:
 
@@ -178,7 +178,7 @@ that would help students meet this outcome.
 
 ---
 
-## 5) Critical AI literacy — teaching students to evaluate NotebookLM
+## 5. Critical AI literacy — teaching students to evaluate NotebookLM
 
 One of the most valuable things you can do with NotebookLM in a classroom is use it to teach students to think critically about AI output. Try this structured activity:
 
