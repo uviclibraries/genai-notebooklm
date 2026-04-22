@@ -58,7 +58,9 @@ Present those similarities and differences as a T-chart with
 two columns: Similarities | Differences.
 ```
 
-> **Teaching tip:** Have students predict similarities and differences before running the prompt. Compare their predictions to NotebookLM's output — where did they agree? Where did NotebookLM miss something students caught?
+> **Teaching tip:** Have students predict similarities and differences **before running the prompt**. Compare their predictions to NotebookLM's output.
+>   — where did they agree?
+>   - Where did NotebookLM miss something students caught?
 
 ### Venn diagram prompt:
 ```
