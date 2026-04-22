@@ -13,11 +13,6 @@ In this activity, we'll explore how GenAI can help you summarize short answer su
 
 If you have any questions or get stuck as you work through this exercise, please ask the instructor for assistance.
 
-Outline:
-- Summarize feedback from all responses to a single free-form survey question.
-- Use different prompt strategies to customize the summary by using, personas, examples, tone, vocabulary level, and voice.
-- Explore the usefulness of NotebookLM citations, in particular how they take you to the passages in the document that they used to support their summary of information. This is a very useful verification tool.
-
 ## Learning goals
 
 By the end of this activity, you will be able to:
