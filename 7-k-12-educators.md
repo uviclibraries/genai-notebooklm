@@ -46,7 +46,7 @@ If you get stuck at any point, ask the instructor.
 
 These prompts work well as whole-class demonstrations or guided individual activities depending on your grade level and available devices.
 
-### Similarities and differences
+### Similarities and differences prompts:
 ```
 What are the most important similarities and differences between
 the three versions of this story?
@@ -60,7 +60,7 @@ two columns: Similarities | Differences.
 
 > **Teaching tip:** Have students predict similarities and differences before running the prompt. Compare their predictions to NotebookLM's output — where did they agree? Where did NotebookLM miss something students caught?
 
-### Venn diagram
+### Venn diagram prompt:
 ```
 Organize the key differences between the three versions into
 a three-circle Venn diagram. List what is unique to each version
@@ -69,16 +69,16 @@ and what they all share in the centre.
 
 NotebookLM will describe the sections in text. Students can then draw or fill in a physical or digital Venn diagram from that description — connecting the AI output to a hands-on task.
 
-### Perspective and theme
+### Perspective and theme prompt:
 ```
 How does the perspective of the story change across the three versions?
 Which version is most sympathetic to the wolf, and which is most
 sympathetic to the pigs? Use evidence from each text.
 ```
 
-> **Discussion prompt for students:** Do you agree with NotebookLM's answer? Can you find a passage it missed that changes the answer?
+> **Reflection**: Do you agree with NotebookLM's answer? Can you find a passage it missed that changes the answer?
 
-### Character and setting details
+### Character and setting details prompts:
 ```
 What materials were used to construct each pig's house across
 the three versions? Are there any differences in how the houses
@@ -91,7 +91,7 @@ List specific words or phrases used in each text.
 
 ---
 
-## 2. Comprehension and close reading
+## 2. Comprehension and close reading prompts:
 
 Use these prompts to support comprehension activities at different levels.
 
