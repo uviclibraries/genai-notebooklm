@@ -25,12 +25,9 @@ If you get stuck at any point, ask the instructor.
 ## Getting started
 
 1. Download the three versions of *The Three Little Pigs* below. These will be your training documents for this activity:
-   * <a href="Document 1" download>images/3-pigs-1.pdf</a>
-   * <a href="Document 2" download>images/3-pigs-2.pdf</a>
-   * <a href="Document 3" download>images/3-pigs-3.pdf</a>
-   * [Document 1](images/3-pigs-1.pdf)
-   * [Document 2](images/3-pigs-2.pdf)
-   * [Document 3](images/3-pigs-3.pdf)
+   * <a href="images/3-pigs-1.pdf" download>Document 1</a>
+   * <a href="images/3-pigs-2.pdf" download>Document 2</a>
+   * <a href="images/3-pigs-3.pdf" download>Document 3</a>
 
 2. In NotebookLM, click **Create** to start a new notebook. Name it something like "Three Little Pigs — Classroom Demo."
 
