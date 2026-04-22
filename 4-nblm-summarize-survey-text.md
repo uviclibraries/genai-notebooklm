@@ -17,7 +17,7 @@ If you have any questions or get stuck as you work through this exercise, please
 
 By the end of this activity, you will be able to:
 
-- Load **survey or qualitative text** (comments, reflections, open-ended responses) into a NotebookLM notebook.  
+- Load **survey or qualitative text** (comments, reflections, open-ended responses) into a NotebookLM notebook in a format that NotebookLM accepts.  
 - Ask NotebookLM to identify **themes, patterns, and representative quotes**.  
 - Turn messy text into **concise summaries, tables, or reports** for different audiences.  
 - Use citations and excerpts to ensure that themes are **actually supported** by the data.
@@ -25,7 +25,7 @@ By the end of this activity, you will be able to:
 ## Getting Started
 Let's go back to the notebook with the three journal articles we've already created, and add a YouTube video to the notebook so that there will be four items for NotebookLM to draw information from:
 
-1. Download the following two documents, each with survey question responses, to use as training data for your notebook in this activity. When you do this for your own survey data, please note that you'll need to export the responses for each survey question you want to analyze into separate documents (using either TXT or PDF formats for both). Please make note of where your web browser is saving the survey response PDF files for this exercise (usually in your Downloads or Desktop folders):
+1. Download the following two documents, each with survey question responses, to use as training data for your notebook in this activity. When you do this for your own survey data, please note that you'll need to export the responses for each survey question you want to analyze into separate documents in a format that NotebookLM accepts (like TXT or PDF formats). Please make note of where your web browser is saving the survey response PDF files for this exercise (usually in your Downloads or Desktop folders):
    - [Survey Question Response 1](images/survey-question-1.pdf){:target="_blank"}
    - [Survey Question Response 2](images/survey-question-2.pdf){:target="_blank"}
 2. Create a new notebook by clicking on the blue **Create new** button on the left side of the screen.
