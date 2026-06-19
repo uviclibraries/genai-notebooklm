@@ -6,47 +6,63 @@ nav_order: 2
 
 # Pre-Workshop Activities
 
-## What you’ll do in the workshop
+## What you'll do in the workshop
 
 During the live session, you will:
 
-- Build a **NotebookLM notebook** from your own sources (PDFs, Docs, webpages, etc.)  
-- Generate **summaries, study guides, and brainstorming prompts** grounded in those sources  
-- Explore **Studio tools** such as Audio Overview, Video Overview, Reports, Mind Maps, Flashcards, and Quizzes  
-- Practice **verifying** AI-generated content by checking citations against the original documents  
+* Build a **NotebookLM notebook** from your own sources (PDFs, Docs, webpages, etc.)
+* Generate **summaries, study guides, and brainstorming prompts** grounded in those sources
+* Explore **Studio tools** such as Audio Overview, Video Overview, Reports, Mind Maps, Flashcards, and Quizzes
+* Practice **verifying** AI-generated content by checking citations against the original documents
 
-By the end, you should have at least one “real” notebook you can keep using for your studies or work.
+By the end, you should have at least one notebook you can keep using for your studies or work.
+
+---
 
 ## What to bring
 
-To get the most out of the workshop, please bring:
+* A **laptop** — required for Zoom-based workshops and recommended for full access to NotebookLM's features
+* A **Google account** you can sign in with
+* **2–3 documents** you can safely upload, such as:
+  * A course reading (PDF)
+  * An assignment brief or project description
+  * A publicly accessible article or web page
+* (Optional) **Headphones**, if you want to listen to Audio Overviews without disturbing others
 
-- A **laptop** which you'll need for a Zoom based workshop and is recommended to use all of NotebookLM's features
-- A **Google account** you can sign in with  
-- 2–3 documents you can safely upload, such as:  
-  - A course reading (PDF)  
-  - An assignment brief or project description  
-  - A publicly accessible article or web page  
-- (Optional) **Headphones**, if you want to listen to Audio Overviews without disturbing others  
+If you don't have your own documents, sample materials will be provided.
 
-If you don’t have your own documents, sample materials will be provided.
+---
 
-## Pre-Workshop Videos & Activities
+## Pre-workshop checklist
 
-This workshop consists of a small amount of instruction followed by **hands-on activities**. To be ready to jump straight into NotebookLM, please:
+Complete these steps before the session so you can jump straight into the hands-on activities:
 
-1. As a researcher it is very important that you carefully review UVic’s guidance on generative AI. Please read: [UVic](https://www.uvic.ca/research/teachers-staff/research-admin/research-policies/ai-guidelines/index.php){:target="_blank"} and [Tri-Agency guidance on the use of AI in research development and review](https://www.sshrc-crsh.gc.ca/en/research-funding/policies/guidelines-research-data-management/tri-agency-guidance-use-artificial-intelligence-review-development-and-review-research-grant-proposals){:target="_blank"}.  
-2. Watch at least one short GenAI overview:
-- [NotebookLM for Resaerch](https://www.youtube.com/watch?v=pHHyLQaWL5I){:target="_blank"} (9 min)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pHHyLQaWL5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-3. (Optional) Log in once to **[NotebookLM](https://notebooklm.google/){:target="_blank"}** so your account is ready.
+1. Review UVic's guidance on generative AI in research — this is important before using any AI tool for academic work:
+   * [UVic AI guidelines for researchers](https://www.uvic.ca/research/teachers-staff/research-admin/research-policies/ai-guidelines/index.php)
+   * [Tri-Agency guidance on AI use in research development and review](https://www.sshrc-crsh.gc.ca/en/research-funding/policies/guidelines-research-data-management/tri-agency-guidance-use-artificial-intelligence-review-development-and-review-research-grant-proposals)
 
-During the workshop, we may also mention other GenAI tools, including:
+2. Watch this short overview of NotebookLM (9 min):
+   * [NotebookLM for Research](https://www.youtube.com/watch?v=pHHyLQaWL5I)
 
-- [Microsoft Copilot](https://copilot.microsoft.com/){:target="_blank"} (general purpose)  
-- [Perplexity](https://www.perplexity.ai/){:target="_blank"} (general purpose)  
-- [ChatGPT](https://chat.openai.com/){:target="_blank"} (general purpose)  
-- [Google Gemini](https://gemini.google.com/){:target="_blank"} (general purpose)  
+3. (Optional but recommended) Log in to [NotebookLM](https://notebooklm.google/) at least once before the session so your account is ready to go.
 
+---
 
-[NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
+## Other GenAI tools mentioned in this workshop
+
+During the workshop we may also reference these general-purpose tools:
+
+* [Microsoft Copilot](https://copilot.microsoft.com/)
+* [Perplexity](https://www.perplexity.ai/)
+* [ChatGPT](https://chat.openai.com/)
+* [Google Gemini](https://gemini.google.com/)
+
+---
+
+## Data safety reminder
+
+* **Do not upload** confidential, personal, or proprietary information into NotebookLM or any GenAI tool.
+* **Redact** names, emails, and IDs before uploading documents (e.g., replace with `[Person_A]`, `[Email_1]`).
+* When in doubt, check UVic's guidance linked above before uploading research data.
+
+[NEXT STEP: Introduction to Hands-On Activities](activities-intro.html)
