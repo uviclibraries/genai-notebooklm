@@ -1,18 +1,19 @@
 ---
 layout: default
 title: 2 - Summarizing
-nav_order: 7
+nav_order: 3
 parent: Workshop Activities
 ---
 
-# Summarizing Text, Audio & Video)
-<img src="images/nblm-summarize-text2.gif" style="float:right;width:420px;padding:10px;border:1px solid #555;" alt="NotebookLM source summary view">
+# Summarizing Text, Audio & Video
 
-In this module, you’ll use **NotebookLM** to transform your uploaded documents, meeting transcripts, and even videos into audience-ready summaries—and then refine, translate, and output those summaries in multiple formats.
+![NotebookLM source summary view](images/nblm-summarize-text2.gif)
 
-> **Important:** AI tools can still miss nuances—even when grounded in your sources. Treat output as a highly capable assistant, not an autopilot. Always verify critical facts and quotes.
+In this activity you'll use NotebookLM to transform uploaded documents, meeting transcripts, and videos into audience-ready summaries — then refine, translate, and output them in multiple formats.
 
-If you need help at any time, please ask the instructor.
+> **Important:** Even when grounded in your sources, NotebookLM can still miss nuances or make errors. Treat its output as a highly capable first draft, not a finished product. Always verify critical facts and quotes against the original source.
+
+If you need help at any time, ask the instructor.
 
 ---
 
@@ -20,36 +21,34 @@ If you need help at any time, please ask the instructor.
 
 By the end of this activity, you will be able to:
 
-- Generate short and long **source-grounded summaries** for text, audio, and video.  
-- Adapt summaries for **different audiences and purposes** (beginner vs expert, student vs supervisor, parent vs colleague).  
-- Turn one or more sources into a **study guide, FAQ, or outline** using NotebookLM.  
-- Use **citations and source previews** to verify and correct NotebookLM’s summaries.
+* Generate short and long **source-grounded summaries** for text, audio, and video.
+* Adapt summaries for **different audiences and purposes** (beginner vs. expert, student vs. supervisor).
+* Combine multiple sources into a **cross-document synthesis**.
+* Use **citations and source previews** to verify and correct NotebookLM's summaries.
+* Adjust **tone, length, and language level** to fit your real-world use case.
 
 ---
 
-## 1) Getting Started: Upload Your Sources
+## 1) Getting started: upload your sources
 
-1. Create a new notebook in **NotebookLM**: from the dashboard, click **Create**.  
-2. Upload the sample sources for this module:
-   - [Document 1](images/badge-article.pdf){:target="_blank"}
-   - [Document 2](images/badge-article-2.pdf){:target="_blank"}
-   - [Document 3](images/badge-article-3.pdf){:target="_blank"}
-3. Confirm that each document appears under the **Sources** panel on the left.  
-4. Click the first document → read the **auto-generated source summary** and skim the original document.  
-5. Check that the text is legible (no garbled OCR). If a document is mostly images without selectable text, upload a text-based or OCR’d version if possible.
+1. Open [notebooklm.google](https://notebooklm.google/) and click **Create** to start a new notebook. Name it something like "Summarization Practice."
+2. Upload the three sample documents for this module:
+   * [Document 1](images/badge-article.pdf)
+   * [Document 2](images/badge-article-2.pdf)
+   * [Document 3](images/badge-article-3.pdf)
+3. Confirm each document appears in the **Sources** panel on the left.
+4. Click the first document and read its **auto-generated source summary**, then skim the original document.
+5. Check that the text is legible — if you see garbled characters it likely means the PDF is image-only and needs an OCR'd version.
 
-> **Pro tip:**  
-> Mix formats in one notebook (PDF + webpage + slides). Later, you can ask NotebookLM to summarize or compare across formats as long as the sources are text-readable.
+> **Pro tip:** Mix formats in one notebook (PDF + webpage + slides). NotebookLM can weave them together, but always know which source each claim came from.
 
 ---
 
-## 2) Summarize With Purpose (Audience • Tone • Length)
+## 2) Summarize with purpose: audience, tone & length
 
-Avoid generic prompts like “summarize this.” You’ll get vague, forgettable output. Instead, anchor the summary in a **real scenario**.
+Avoid vague prompts like "summarize this." You'll get generic, forgettable output. Anchor every summary in a **real scenario** with a specific audience, tone, and word count.
 
-**Scenario:** You’re preparing promotional copy for parents about the University Makerspace / Library Digital Scholarship Commons.
+**Scenario A — parent-facing promotional copy**
 
-1. In the **Sources** panel, **de-select** Documents 2 and 3 so that only **Document 1** is active.  
-2. In **Chat**, ask something like:
-
-```Create a 180–220 word summary for parents explaining how the University Makerspace (Library Digital Scholarship Commons) helps with co-op job searches and post-graduation employment. Use plain language, include three concrete benefits supported by evidence from Document 1, and include inline citations.```
+1. In the **Sources** panel, de-select Documents 2 and 3 so only **Document 1** is active.
+2. Paste this prompt into the chat box:
