@@ -1,5 +1,5 @@
 title: GenAI - NotebookLM
-remote_theme: pmarsceill/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 # --- GitHub "Edit this page" ---
 gh_edit_repository: "https://github.com/uviclibraries/genai-notebooklm" # your repo
@@ -18,6 +18,22 @@ aux_links:
   "UVic Libraries Digital Scholarship Commons":
     - "//lib.uvic.ca/dsc"
 aux_links_new_tab: true
+
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
 
 # --- Footer ---
 back_to_top: true
@@ -40,7 +56,9 @@ author: "Chirag Vijay Kumar"
 ga_tracking: G-J1P4V8MFWB
 ga_tracking_anonymize_ip: true
 
-plugins:
+plugins:  
+  - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-include-cache
 
 custom_css: "assets/custom.css"
