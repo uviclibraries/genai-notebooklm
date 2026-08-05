@@ -20,7 +20,8 @@ By the end of this activity, you will be able to:
 
 ---
 
-## Step 1 – Create your first notebook
+Step 1 – Create your first notebook
+{: .label .label-step}
 
 1. Open [notebooklm.google](https://notebooklm.google/){:target="_blank"} and sign in.  
 2. Click **New notebook**.  
@@ -36,9 +37,10 @@ By the end of this activity, you will be able to:
 
 > **Pro tip:** Mix formats in one notebook (PDF + web page + slides). NotebookLM is good at weaving them together, but you’ll want to know which source each idea came from.
 
----
+{: .step}
 
-## Step 2 – Explore the source summaries
+Step 2 – Explore the source summaries
+{: .label .label-step}
 
 1. In the **left panel**, click on a **single source** (one PDF, one webpage).  
 2. Look at the **source summary** that NotebookLM generates:
@@ -54,9 +56,10 @@ By the end of this activity, you will be able to:
 > **Mini reflection:**  
 > Write down 2–3 claims from the summary that you want to double-check later. You’ll use these when we talk about verification.
 
----
+{: .step}
 
-## Step 3 – Use Notebook Guide: Reports & Study Guides
+Step 3 – Use Notebook Guide: Reports & Study Guides
+{: .label .label-step}
 
 Now we use the **Notebook Guide / Studio** panel to generate more structured outputs.
 
@@ -82,9 +85,10 @@ Now we use the **Notebook Guide / Studio** panel to generate more structured out
 > “Show the exact quotes and page numbers that support this paragraph.”  
 > Compare answer vs. document. Mark any mismatch.
 
----
+{: .step}
 
-## Step 4 – Audio Overview (podcast-style summary)
+Step 4 – Audio Overview (podcast-style summary)
+{: .label .label-step}
 
 Audio Overviews turn your notebook into a short, conversational explanation you can listen to.
 
@@ -102,9 +106,10 @@ Audio Overviews turn your notebook into a short, conversational explanation you 
 > **Variation:**  
 > Ask NotebookLM: “Regenerate this Audio Overview for a **non-expert audience** (e.g., high-school student or new team member).” Compare what changes.
 
----
+{: .step}
 
-## Step 5 – Flashcards & Quizzes
+Step 5 – Flashcards & Quizzes
+{: .label .label-step}
 
 Now we switch to **active recall** tools.
 
@@ -125,9 +130,9 @@ Now we switch to **active recall** tools.
 > **Goal:**  
 > Don’t just memorize the AI’s answer. Use the flashcards/quiz to identify **which parts of the original documents you still don’t understand**.
 
----
+{: .step}
 
-## Reflectz:
+## Reflect:
 
 - What did NotebookLM do best for this topic?  
 - Which feature (Report, Audio, Flashcards, Quiz, Audio Overview) helped you most, and why?  
