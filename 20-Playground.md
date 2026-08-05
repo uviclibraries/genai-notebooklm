@@ -6,7 +6,7 @@ parent: Workshop Activities
 ---
 
 # Getting Started with NotebookLM’s _Notebook Guide_
-<img src="images/5-notebooklm-logo.png" style="float:right;width:280px;padding:10px;" alt="NotebookLM Logo">
+<img src="images/1-find-models.png" style="float:right;width:280px;padding:10px;" alt="test>
 
 > **Quick idea:** In this activity you’ll turn a small pile of readings, notes, or webpages into a **personal AI assistant** that actually knows your stuff and cites it back to you.
 
