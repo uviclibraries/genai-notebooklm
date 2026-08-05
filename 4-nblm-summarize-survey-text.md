@@ -22,7 +22,9 @@ By the end of this activity, you will be able to:
 - Turn messy text into **concise summaries, tables, or reports** for different audiences.  
 - Use citations and excerpts to ensure that themes are **actually supported** by the data.
 
-## Getting Started
+Step 1 - Getting Started
+{: .label .label-step}
+
 Let's go back to the notebook with the three journal articles we've already created, and add a YouTube video to the notebook so that there will be four items for NotebookLM to draw information from:
 
 1. Download the following two documents, each with survey question responses, to use as training data for your notebook in this activity. When you do this for your own survey data, please note that you'll need to export the responses for each survey question you want to analyze into separate documents in a format that NotebookLM accepts (like TXT or PDF formats). Please make note of where your web browser is saving the survey response PDF files for this exercise (usually in your Downloads or Desktop folders):
@@ -33,8 +35,11 @@ Let's go back to the notebook with the three journal articles we've already crea
 4. Upload the two documents you downloaded by clicking on the blue **choose file** link in the middle of the page. You'll need to either select the two documents, and add them together, or do as the video below shows and add them individually:<br>
 <img src="images/nblm-add-surveys3.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="Add Survey Documents"><br>
 5. Good job! You're now ready to explore ways to summarize the survey responses!
+{: .step}
 
-## Initial Exploration of Survey Question 1 Responses
+Step 2 - Initial Exploration of Survey Question 1 Responses
+{: .label .label-step}
+
 1. Let's limit our first summary to Survey Question 1 Responses:
    - De-select **survey-question-2.pdf** file by clicking on the checkbox on the right of the file name.<br>
    <img src="images/nblm-deselect-q-2.png" style="width:250px;padding:20px;border: 1px solid #555;" alt="NotebookLM Create new button"><br>
@@ -60,8 +65,11 @@ Let's go back to the notebook with the three journal articles we've already crea
 > - **Reflection**: What do you think of the quality of the summaries it created?
 > - **Reflection**: Could this help you in your research workflow? If so where, and would it be worth your time and effort to work on your prompting skills to make the most of NotebookLM features?
 >  - **Reflection**: What potential drawback can you think of from over reliance on GenAI document summaries for your research?
-   
-## Studio Tools
+{: .step}
+
+Step 3 - Studio Tools
+{: .label .label-step}
+
 1. Let's get ready to check out some of the Studio Tools that come with NotebookLM:
    - Click on the **Select all sources** checkbox on the bottom right of the window.
 2. **Reports**:
@@ -89,5 +97,6 @@ Let's go back to the notebook with the three journal articles we've already crea
 4. **Video Overview**: 
 5. **Infographic**: 
 6. **Slide Deck**: 
-  
+{: .step}
+
 [NEXT STEP: Creating Presentations](7-k-12-educators.html){: .btn .btn-blue }
