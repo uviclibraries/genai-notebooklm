@@ -27,7 +27,8 @@ By the end of this activity, you will be able to:
 
 ---
 
-## 1) Getting Started: Upload Your Sources
+Step 1 - Upload Your Sources
+{: .label .label-step}
 
 1. Create a new notebook in **NotebookLM**: from the dashboard, click **Create**.  
 2. Upload the sample sources for this module:
@@ -41,9 +42,10 @@ By the end of this activity, you will be able to:
 > **Pro tip:**  
 > Mix formats in one notebook (PDF + webpage + slides). Later, you can ask NotebookLM to summarize or compare across formats as long as the sources are text-readable.
 
----
+{: .step}
 
-## 2) Summarize With Purpose (Audience • Tone • Length)
+Step 2 - Summarize With Purpose (Audience • Tone • Length)
+{: .label .label-step}
 
 Avoid generic prompts like “summarize this.” You’ll get vague, forgettable output. Instead, anchor the summary in a **real scenario**.
 
@@ -53,3 +55,5 @@ Avoid generic prompts like “summarize this.” You’ll get vague, forgettable
 2. In **Chat**, ask something like:
 
 ```Create a 180–220 word summary for parents explaining how the University Makerspace (Library Digital Scholarship Commons) helps with co-op job searches and post-graduation employment. Use plain language, include three concrete benefits supported by evidence from Document 1, and include inline citations.```
+
+{: .step}
