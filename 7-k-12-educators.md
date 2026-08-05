@@ -23,7 +23,8 @@ If you get stuck at any point, ask the instructor.
 
 ---
 
-## Getting started
+Step 1 - Getting started
+{: .label .label-step}
 
 1. Download the three versions of *The Three Little Pigs* below. These will be your training documents for this activity:
    * <a href="images/3-pigs-1.pdf" download>Document 1</a>
@@ -40,9 +41,10 @@ If you get stuck at any point, ask the instructor.
 
 4. Confirm all three appear in the Sources panel and are selected before moving on.
 
----
+{: .step}
 
-## 1. Comparison activities (student-facing)
+Step 2 - Comparison activities (student-facing)
+{: .label .label-step}
 
 These prompts work well as whole-class demonstrations or guided individual activities depending on your grade level and available devices.
 
@@ -91,9 +93,10 @@ How is the wolf described differently in each version?
 List specific words or phrases used in each text.
 ```
 
----
+{: .step}
 
-## 2. Comprehension and close reading prompts:
+Step 3 - Comprehension and close reading prompts
+{: .label .label-step}
 
 Use these prompts to support comprehension activities at different levels.
 
@@ -119,9 +122,10 @@ Grade 4 students.
 
 > **Teaching tip:** Use the creative extension output as a scaffold, not a finished product. Have students identify one thing they would change and explain why — this keeps the creative thinking with the student.
 
----
+{: .step}
 
-## 3. NotebookLM as a teacher preparation tool
+Step 4 - NotebookLM as a teacher preparation tool
+{: .label .label-step}
 
 Beyond classroom activities, NotebookLM is a powerful tool for teachers to prepare materials from their own documents. Try these with the Three Little Pigs notebook or swap in your own course readings.
 
@@ -160,9 +164,10 @@ activity sequence with timing, and one formative assessment idea.
 
 > **Important:** Always review any lesson plan or student-facing material NotebookLM generates before using it. Check for factual accuracy, age-appropriateness, and alignment with your actual curriculum outcomes. NotebookLM does not know your students, your school context, or your specific curriculum documents unless you upload them.
 
----
+{: .step}
 
-## 4. Bringing your own classroom texts
+Step 5 - Bringing your own classroom texts
+{: .label .label-step}
 
 The real power of this approach is using texts from your own teaching. Try replacing the Three Little Pigs documents with:
 
@@ -179,9 +184,10 @@ I have uploaded [describe your documents here]. I am teaching
 that would help students meet this outcome.
 ```
 
----
+{: .step}
 
-## 5. Critical AI literacy — teaching students to evaluate NotebookLM
+Step 6 - Critical AI literacy — teaching students to evaluate NotebookLM
+{: .label .label-step}
 
 One of the most valuable things you can do with NotebookLM in a classroom is use it to teach students to think critically about AI output. Try this structured activity:
 
@@ -195,7 +201,7 @@ One of the most valuable things you can do with NotebookLM in a classroom is use
 
 This builds the habit of treating AI output as a **starting point for thinking**, not a final answer — a skill students will need throughout their education and careers.
 
----
+{: .step}
 
 ## Reflection
 
