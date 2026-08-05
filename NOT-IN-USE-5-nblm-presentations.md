@@ -1,8 +1,8 @@
----
+
 layout: default
 title: 5 - Article to Presentation
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
---- 
+
 ## Learning goals
 
 By the end of this activity, you will be able to:
