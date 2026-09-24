@@ -5,8 +5,8 @@ nav_order: 6
 parent: Workshop Activities
 ---
 
-# Getting Started with NotebookLM’s _Notebook Guide_
-<img src="images/5-notebooklm-logo.png" style="float:right;width:280px;padding:10px;" alt="NotebookLM Logo">
+# Getting Started with Google Notebook’s _Notebook Guide_
+<img src="images/5-notebooklm-logo.png" style="float:right;width:280px;padding:10px;" alt="decorative">
 
 > **Quick idea:** In this activity you’ll turn a small pile of readings, notes, or webpages into a **personal AI assistant** that actually knows your stuff and cites it back to you.
 
@@ -16,7 +16,7 @@ By the end of this activity, you will be able to:
 
 - Build a **notebook** with multiple sources (PDFs, Docs, webpages, etc.).
 - Use **Notebook Guide / Studio tools** (Report, Audio, Flashcards, Quiz) on your own material.
-- Judge whether NotebookLM’s output is **accurate, biased, or hallucinating** by checking against the originals.
+- Judge whether Google Notebook’s output is **accurate, biased, or hallucinating** by checking against the originals.
 
 ---
 
@@ -28,14 +28,14 @@ Step 1 – Create your first notebook
 3. Give it a **purposeful title**, e.g.:
    - “Literature Review”
    - “Thesis – Methodology Sources”
-   - “Workshop Demo – NotebookLM”
+   - “Workshop Demo – Google Notebook”
 4. Add **at least 2–3 sources**:
    - Either find a document of your own, or you can download this [Journal Article](assets/badges.pdf){:target="_blank"} to use as a source in the next step.
    - Click **Add source** → upload your own PDF, or the Journal Article PDF above if you downloaded it, or if you use Google Drive you can select a Google Doc/Slide/Sheet.
    - Also, paste a URL to a publicly accessible article or page. You can use this URL if you'd like: https://richmccue.com/2025/12/27/create-a-high-quality-infographic-for-your-course-outline-in-less-than-2-minutes/ 
    - (Optional) Add a YouTube link or audio file. Here's a YouTube link if you'd like to use it: https://www.youtube.com/watch?v=-88S0CoNGp8
 
-> **Pro tip:** Mix formats in one notebook (PDF + web page + slides). NotebookLM is good at weaving them together, but you’ll want to know which source each idea came from.
+> **Pro tip:** Mix formats in one notebook (PDF + web page + slides). Google Notebook is good at weaving them together, but you’ll want to know which source each idea came from.
 
 {: .step}
 
@@ -43,7 +43,7 @@ Step 2 – Explore the source summaries
 {: .label .label-step}
 
 1. In the **left panel**, click on a **single source** (one PDF, one webpage).  
-2. Look at the **source summary** that NotebookLM generates:
+2. Look at the **source summary** that Google Notebook generates:
    - Main summary paragraph(s),
    - Key topics,
    - People/places/terms it highlights.
@@ -104,7 +104,7 @@ Audio Overviews turn your notebook into a short, conversational explanation you 
    - Would you trust this to explain your project to a busy colleague?
 
 > **Variation:**  
-> Ask NotebookLM: “Regenerate this Audio Overview for a **non-expert audience** (e.g., high-school student or new team member).” Compare what changes.
+> Ask Google Notebook: “Regenerate this Audio Overview for a **non-expert audience** (e.g., high-school student or new team member).” Compare what changes.
 
 {: .step}
 
@@ -134,11 +134,11 @@ Now we switch to **active recall** tools.
 
 ## Reflect:
 
-- What did NotebookLM do best for this topic?  
+- What did Google Notebook do best for this topic?  
 - Which feature (Report, Audio, Flashcards, Quiz, Audio Overview) helped you most, and why?  
-- Which claim that NotebookLM made that **verified in the source** and how you verified it? 
-- Do you think NotebookLM could be helpful in your **real** work or studies next week?
-- What potential drawbacks or issues could you experience using NotebookLM in the future?
+- Which claim that Google Notebook made that **verified in the source** and how you verified it? 
+- Do you think Google Notebook could be helpful in your **real** work or studies next week?
+- What potential drawbacks or issues could you experience using Google Notebook in the future?
 
 ---
 
