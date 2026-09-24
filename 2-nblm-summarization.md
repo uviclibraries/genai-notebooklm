@@ -6,9 +6,9 @@ parent: Workshop Activities
 ---
 
 # Summarizing Text, Audio & Video)
-<img src="images/nblm-summarize-text2.gif" style="float:right;width:420px;padding:10px;border:1px solid #555;" alt="NotebookLM source summary view">
+<img src="images/nblm-summarize-text2.gif" style="float:right;width:420px;padding:10px;border:1px solid #555;" alt="decorative">
 
-In this module, you’ll use **NotebookLM** to transform your uploaded documents, meeting transcripts, and even videos into audience-ready summaries—and then refine, translate, and output those summaries in multiple formats.
+In this module, you’ll use **Google Notebook** to transform your uploaded documents, meeting transcripts, and even videos into audience-ready summaries—and then refine, translate, and output those summaries in multiple formats.
 
 > **Important:** AI tools can still miss nuances—even when grounded in your sources. Treat output as a highly capable assistant, not an autopilot. Always verify critical facts and quotes.
 
@@ -22,15 +22,15 @@ By the end of this activity, you will be able to:
 
 - Generate short and long **source-grounded summaries** for text, audio, and video.  
 - Adapt summaries for **different audiences and purposes** (beginner vs expert, student vs supervisor, parent vs colleague).  
-- Turn one or more sources into a **study guide, FAQ, or outline** using NotebookLM.  
-- Use **citations and source previews** to verify and correct NotebookLM’s summaries.
+- Turn one or more sources into a **study guide, FAQ, or outline** using Google Notebook.  
+- Use **citations and source previews** to verify and correct Google Notebook’s summaries.
 
 ---
 
 Step 1 - Upload Your Sources
 {: .label .label-step}
 
-1. Create a new notebook in **NotebookLM**: from the dashboard, click **Create**.  
+1. Create a new notebook in **Google Notebook**: from the dashboard, click **Create**.  
 2. Upload the sample sources for this module:
    - [Document 1](images/badge-article.pdf){:target="_blank"}
    - [Document 2](images/badge-article-2.pdf){:target="_blank"}
@@ -40,7 +40,7 @@ Step 1 - Upload Your Sources
 5. Check that the text is legible (no garbled OCR). If a document is mostly images without selectable text, upload a text-based or OCR’d version if possible.
 
 > **Pro tip:**  
-> Mix formats in one notebook (PDF + webpage + slides). Later, you can ask NotebookLM to summarize or compare across formats as long as the sources are text-readable.
+> Mix formats in one notebook (PDF + webpage + slides). Later, you can ask Google Notebook to summarize or compare across formats as long as the sources are text-readable.
 
 {: .step}
 
