@@ -5,7 +5,7 @@ nav_order: 1
 ---
 <img src="images/5-notebooklm-try.png" style="float:right;width:350px;padding:10px;" alt="Decorative">
 
-# GenAI: NotebookLM – A Personal Tool for Research & Productivity (_Intermediate_)
+# GenAI: Google Notebook – A Personal Tool for Research & Productivity (_Intermediate_)
 
 - Pre-workshop activities: 10 min  
 - Introductory presentation: 15 min  
@@ -13,16 +13,16 @@ nav_order: 1
 
 ---
 
-## What is NotebookLM and what does it do?
+## What is Google Notebook and what does it do?
 
-NotebookLM is Google’s AI research and study workspace. Instead of chatting with a generic model that uses the whole internet as it's source of data (both the good and the bad), you load your own sources (papers, PDFs, Docs, Sheets, web pages, videos, notes), into NotebookLM and it builds a “thinking partner” that stays grounded in those materials.
+Google Notebook is Google’s AI research and study workspace. Instead of chatting with a generic model that uses the whole internet as it's source of data (both the good and the bad), you load your own sources (papers, PDFs, Docs, Sheets, web pages, videos, notes), into Google Notebook and it builds a “thinking partner” that stays grounded in those materials.
 
-You can then ask questions, generate explanations, and create outputs (reports, flashcards, slide decks, infographics, audio/video overviews) that are all based on the content you provided. This makes NotebookLM especially useful for courses, research projects, literature reviews, and complex real-world documents.
+You can then ask questions, generate explanations, and create outputs (reports, flashcards, slide decks, infographics, audio/video overviews) that are all based on the content you provided. This makes Google Notebook especially useful for courses, research projects, literature reviews, and complex real-world documents.
 
-At a high level, NotebookLM lets you:
+At a high level, Google Notebook lets you:
 
 - **Create notebooks** for individual courses, projects, or topics.
-- **Automatically cites sources**, so you can see exactly where each answer comes from in the documents you've uploaded to NotebookLM.
+- **Automatically cites sources**, so you can see exactly where each answer comes from in the documents you've uploaded to Google Notebook.
 - **Run Deep Research** to optionally pull in high-quality web sources and save the structured report back into your notebook.
 - **Generate learning tools** like flashcards, quizzes, study guides, and concept summaries.
 - **Create teaching and communication assets** such as reports, timelines, infographics, and slide decks.
@@ -34,7 +34,7 @@ The goal is to reduce the time you spend skimming, copying, and re-formatting in
 
 By the end of this workshop, you will be able to:
 
-1. **Describe the core capabilities of NotebookLM** (source-grounded Q&A, summarization, translation, and document synthesis).
+1. **Describe the core capabilities of Google Notebook** (source-grounded Q&A, summarization, translation, and document synthesis).
 2. **Create and organize a notebook** with multiple sources (PDFs, Docs, web pages, etc.).
 3. **Use Notebook Guides / Studio tools** to generate briefing docs, study guides, and short written reports.
 4. **Generate and evaluate audio or video overviews**, including how to verify their accuracy against the original sources.
