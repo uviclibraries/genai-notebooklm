@@ -10,13 +10,13 @@ nav_order: 10
 <img src="images/ai-usage-label.png" style="float: right;" width = "300px">
 We strongly encourage you to use the [**AI Usage Label**](https://ailabel.netlify.app/){:target="_blank"} tool which is free to use and was developed by [Dr. Faraz Forghan Parast](https://etcl.uvic.ca/2023/11/16/meet-the-etcl-team-faraz-forghan-parast/){:target="_blank"} who is a Fellow at the University of Victoria, [Electronic Textual Cultures Lab](https://etcl.uvic.ca/2023/11/16/meet-the-etcl-team-faraz-forghan-parast/){:target="_blank"} (ETCL). It will help you to disclose how much and how you used AI in your research work, and using it can also help you reflect on the different ways you may or may not be using AI tools in your research process.
 
-## NotebookLM – Official Help & Guides
+## Google Notebook – Official Help & Guides
 
-These links focus specifically on NotebookLM:
+These links focus specifically on Google Notebook:
 
-- [NotebookLM homepage](https://notebooklm.google/){:target="_blank"}  
-- [NotebookLM Help Center](https://support.google.com/notebooklm){:target="_blank"}  
-- [Google NotebookLM announcement and feature overview](https://blog.google/technology/ai/notebooklm/){:target="_blank"}  
+- [Google Notebook homepage](https://notebooklm.google/){:target="_blank"}  
+- [Google Notebook Help Center](https://support.google.com/notebooklm){:target="_blank"}  
+- [Google Google Notebook announcement and feature overview](https://blog.google/technology/ai/notebooklm/){:target="_blank"}  
 
 Use these to check current features, limitations, and updates.
 
@@ -24,9 +24,9 @@ Use these to check current features, limitations, and updates.
 
 ## Tutorials & How-To Videos
 
-These videos and guides show NotebookLM and related GenAI tools in action:
+These videos and guides show Google Notebook and related GenAI tools in action:
 
-- [Basic Google NotebookLM tutorial for educators](https://www.youtube.com/watch?v=w5ZcWmAltgQ){:target="_blank"} (12 min)  
+- [Basic Google Notebook tutorial for educators](https://www.youtube.com/watch?v=w5ZcWmAltgQ){:target="_blank"} (12 min)  
 - [Google is developing a new AI tool that is perfect for students](https://www.youtube.com/watch?v=ACIh44E5AoU){:target="_blank"} (6 min)  
 - [Intro to Generative AI for research & writing (general overview)](https://www.youtube.com/results?search_query=generative+ai+for+research){:target="_blank"}  
 
