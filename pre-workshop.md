@@ -10,7 +10,7 @@ nav_order: 2
 
 During the live session, you will:
 
-- Build a **NotebookLM notebook** from your own sources (PDFs, Docs, webpages, etc.)  
+- Build a **Google Notebook** from your own sources (PDFs, Docs, webpages, etc.)  
 - Generate **summaries, study guides, and brainstorming prompts** grounded in those sources  
 - Explore **Studio tools** such as Audio Overview, Video Overview, Reports, Mind Maps, Flashcards, and Quizzes  
 - Practice **verifying** AI-generated content by checking citations against the original documents  
@@ -21,7 +21,7 @@ By the end, you should have at least one “real” notebook you can keep using 
 
 To get the most out of the workshop, please bring:
 
-- A **laptop** which you'll need for a Zoom based workshop and is recommended to use all of NotebookLM's features
+- A **laptop** which you'll need for a Zoom based workshop and is recommended to use all of Google Notebook's features
 - A **Google account** you can sign in with  
 - 2–3 documents you can safely upload, such as:  
   - A course reading (PDF)  
@@ -33,13 +33,13 @@ If you don’t have your own documents, sample materials will be provided.
 
 ## Pre-Workshop Videos & Activities
 
-This workshop consists of a small amount of instruction followed by **hands-on activities**. To be ready to jump straight into NotebookLM, please:
+This workshop consists of a small amount of instruction followed by **hands-on activities**. To be ready to jump straight into Google Notebook, please:
 
 1. As a researcher it is very important that you carefully review UVic’s guidance on generative AI. Please read: [UVic](https://www.uvic.ca/research/teachers-staff/research-admin/research-policies/ai-guidelines/index.php){:target="_blank"} and [Tri-Agency guidance on the use of AI in research development and review](https://www.sshrc-crsh.gc.ca/en/research-funding/policies/guidelines-research-data-management/tri-agency-guidance-use-artificial-intelligence-review-development-and-review-research-grant-proposals){:target="_blank"}.  
 2. Watch at least one short GenAI overview:
-- [NotebookLM for Resaerch](https://www.youtube.com/watch?v=pHHyLQaWL5I){:target="_blank"} (9 min)<br>
+- [Google Notebook for Resaerch](https://www.youtube.com/watch?v=pHHyLQaWL5I){:target="_blank"} (9 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pHHyLQaWL5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-3. (Optional) Log in once to **[NotebookLM](https://notebooklm.google/){:target="_blank"}** so your account is ready.
+3. (Optional) Log in once to **[Google Notebook](https://notebooklm.google/){:target="_blank"}** so your account is ready.
 
 During the workshop, we may also mention other GenAI tools, including:
 
