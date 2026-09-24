@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Activities Introduction
+title: Self-Directed Introduction
 nav_order: 3
 ---
-# Activities Introduction
+# Introduction for Self-Directed Learners
 
 **Please review the following if you are working through the workshop materials without attending a live event:**
 
-- A - Watch a short NotebookLM overview video (6 min)  
-  [NotebookLM demo – AI research assistant](https://www.youtube.com/watch?v=6dHmu1GALmA){:target="_blank"}  <br>
+- A - Watch a short Google Notebook overview video (6 min)  
+  [Google Notebook demo – AI research assistant](https://www.youtube.com/watch?v=6dHmu1GALmA){:target="_blank"}  <br>
 **-OR-**<br>
 - B - Read the [Introductory Slides](https://docs.google.com/presentation/d/1t_7I8X4dvCMQEYQ9Vcdnt5NpJMu2kAmnMvGkaaPzDKc/){:target="_blank"}<br>
 
