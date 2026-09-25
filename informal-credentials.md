@@ -13,7 +13,7 @@ DSC electronic badges are [cryptographically signed](https://badgecheck.io/){:ta
 
 DSC badges are awarded at the request of workshop participants after a DSC staff member has verified that they have successfully completed one or more of the workshop's hands-on workshop activities. You can see a list of all the badges offered by the DSC on our [Badgr page](https://badgr.com/public/issuers/HI5nEIsFQKiFDSGJWrYNxQ/badges){:target="_blank"}.
 
-### Earn an Informal Credential or Badge for Generative AI: Google Notebook - A Personal Tool for Research & Productivity
+### Earn an Informal Credential or Badge for Generative AI: Gemini Notebook - A Personal Tool for Research & Productivity
 To earn a workshop badge please email screenshots or photographs of the following to [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}:
 
 - Submit an image of a briefing document & an Audio summary of the documents in a 2-person podcast format.
