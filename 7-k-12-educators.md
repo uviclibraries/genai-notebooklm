@@ -6,9 +6,9 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-# Teaching Resource: Using Google Notebook in K-12 Education
+# Teaching Resource: Using Gemini Notebook in K-12 Education
 
-This activity is designed for K-12 teachers who want to explore how Google Notebook can support classroom learning — both as a tool for teachers to prepare materials, and as a guided tool for students to practise critical thinking, comparison, and comprehension skills.
+This activity is designed for K-12 teachers who want to explore how Gemini Notebook can support classroom learning — both as a tool for teachers to prepare materials, and as a guided tool for students to practise critical thinking, comparison, and comprehension skills.
 
 The example below uses three versions of a well-known fairytale to demonstrate comparison and perspective-taking — skills that connect to the BC curriculum across multiple subject areas and grade levels. The same approach works with any set of texts relevant to your class.
 
@@ -17,7 +17,7 @@ The example below uses three versions of a well-known fairytale to demonstrate c
 * [English Language Arts](https://curriculum.gov.bc.ca/curriculum/english-language-arts/3/core) — e.g., "stories can be understood from different perspectives"
 * [ADST Curriculum](https://curriculum.gov.bc.ca/curriculum/adst) — applied digital skills and critical evaluation of AI outputs
 
-> **Note:** Google Notebook is a Google product and requires a Google account. Before using it with students, check your district's policies on student data privacy and approved tools. For younger students, consider running the tool as a whole-class demonstration rather than having each student use it individually.
+> **Note:** Gemini Notebook is a Google product and requires a Google account. Before using it with students, check your district's policies on student data privacy and approved tools. For younger students, consider running the tool as a whole-class demonstration rather than having each student use it individually.
 
 If you get stuck at any point, ask the instructor.
 
@@ -31,9 +31,9 @@ Step 1 - Getting started
    * <a href="images/3-pigs-2.pdf" download>Document 2</a>
    * <a href="images/3-pigs-3.pdf" download>Document 3</a>
 
-2. In Google Notebook, click **Create** to start a new notebook. Name it something like "Three Little Pigs — Classroom Demo."
+2. In Gemini Notebook, click **Create** to start a new notebook. Name it something like "Three Little Pigs — Classroom Demo."
 
-   ![Google Notebook Create new button](images/nblm-create.png)
+   ![Gemini Notebook Create new button](images/nblm-create.png)
 
 3. Upload all three documents.
 
@@ -60,9 +60,9 @@ Present those similarities and differences as a T-chart with
 two columns: Similarities | Differences.
 ```
 
-> **Teaching tip:** Have students predict similarities and differences **before running the prompt**. Compare their predictions to Google Notebook's output.
+> **Teaching tip:** Have students predict similarities and differences **before running the prompt**. Compare their predictions to Gemini Notebook's output.
 >   — where did they agree?
->   - Where did Google Notebook miss something students caught?
+>   - Where did Gemini Notebook miss something students caught?
 
 ### Venn diagram prompt:
 ```
@@ -71,7 +71,7 @@ a three-circle Venn diagram. List what is unique to each version
 and what they all share in the centre.
 ```
 
-Google Notebook will describe the sections in text. Students can then draw or fill in a physical or digital Venn diagram from that description — connecting the AI output to a hands-on task.
+Gemini Notebook will describe the sections in text. Students can then draw or fill in a physical or digital Venn diagram from that description — connecting the AI output to a hands-on task.
 
 ### Perspective and theme prompt:
 ```
@@ -80,7 +80,7 @@ Which version is most sympathetic to the wolf, and which is most
 sympathetic to the pigs? Use evidence from each text.
 ```
 
-> **Reflection**: Do you agree with Google Notebook's answer? Can you find a passage it missed that changes the answer?
+> **Reflection**: Do you agree with Gemini Notebook's answer? Can you find a passage it missed that changes the answer?
 
 ### Character and setting details prompts:
 ```
@@ -124,10 +124,10 @@ Grade 4 students.
 
 {: .step}
 
-Step 4 - Google Notebook as a teacher preparation tool
+Step 4 - Gemini Notebook as a teacher preparation tool
 {: .label .label-step}
 
-Beyond classroom activities, Google Notebook is a powerful tool for teachers to prepare materials from their own documents. Try these with the Three Little Pigs notebook or swap in your own course readings.
+Beyond classroom activities, Gemini Notebook is a powerful tool for teachers to prepare materials from their own documents. Try these with the Three Little Pigs notebook or swap in your own course readings.
 
 ### Generate comprehension questions
 ```
@@ -162,7 +162,7 @@ way a story is told. Include: learning objectives, materials needed,
 activity sequence with timing, and one formative assessment idea.
 ```
 
-> **Important:** Always review any lesson plan or student-facing material Google Notebook generates before using it. Check for factual accuracy, age-appropriateness, and alignment with your actual curriculum outcomes. Google Notebook does not know your students, your school context, or your specific curriculum documents unless you upload them.
+> **Important:** Always review any lesson plan or student-facing material Gemini Notebook generates before using it. Check for factual accuracy, age-appropriateness, and alignment with your actual curriculum outcomes. Gemini Notebook does not know your students, your school context, or your specific curriculum documents unless you upload them.
 
 {: .step}
 
@@ -186,10 +186,10 @@ that would help students meet this outcome.
 
 {: .step}
 
-Step 6 - Critical AI literacy — teaching students to evaluate Google Notebook
+Step 6 - Critical AI literacy — teaching students to evaluate Gemini Notebook
 {: .label .label-step}
 
-One of the most valuable things you can do with Google Notebook in a classroom is use it to teach students to think critically about AI output. Try this structured activity:
+One of the most valuable things you can do with Gemini Notebook in a classroom is use it to teach students to think critically about AI output. Try this structured activity:
 
 1. Run any of the comparison prompts above as a class.
 2. Display the output on screen.
@@ -206,8 +206,8 @@ This builds the habit of treating AI output as a **starting point for thinking**
 ## Reflection
 
 * Which of the classroom activities in this page would you use first with your students, and at what grade level?
-* What would you need to check or prepare before using Google Notebook with a class?
-* How might you use Google Notebook for your own lesson preparation — separate from using it with students?
+* What would you need to check or prepare before using Gemini Notebook with a class?
+* How might you use Gemini Notebook for your own lesson preparation — separate from using it with students?
 * What concerns do you have about using AI tools in a K-12 classroom, and how might you address them?
 
 ---
@@ -216,7 +216,7 @@ This builds the habit of treating AI output as a **starting point for thinking**
 
 * Did you run at least **two comparison prompts** and check the output against the source texts?
 * Did you try at least **one teacher preparation prompt** (comprehension questions, lesson plan, or differentiated summary)?
-* Can you identify **one appropriate and one inappropriate** use of Google Notebook with K-12 students?
+* Can you identify **one appropriate and one inappropriate** use of Gemini Notebook with K-12 students?
 * Do you have a clear next step for how you might use this in your own teaching context?
 
 ---
