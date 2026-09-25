@@ -9,9 +9,9 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 By the end of this activity, you will be able to:
 
-- Use Google Notebook to **brainstorm questions, angles, and follow-up ideas** grounded in your sources.  
+- Use Gemini Notebook to **brainstorm questions, angles, and follow-up ideas** grounded in your sources.  
 - Turn readings into **research questions, project ideas, or assignment prompts**.  
-- Guide Google Notebook to **build on your own thinking**, not just generate random ideas.  
+- Guide Gemini Notebook to **build on your own thinking**, not just generate random ideas.  
 - Capture the best ideas in a reusable format (outline, list of RQs, or action plan).
 
 
@@ -21,7 +21,7 @@ Step 1 - Brainstorming & Ideation for Research Questions
 <img src="images/nblm-brain-storm.jpeg" style="float:right;width:400px;padding:10px;" alt="decorative">
 In this activity, we'll explore how GenAI can help you explore a group of journal articles and a video for gaps in the literature and potential research questions to fill those gaps or explore a related topic. 
 
-> NOTE: Like all other Generative AI tools, Google Notebook will sometimes make mistakes, although because you are providing it with training data, it will likely make fewer mistakes than general purpose Generative AI tools. Always research any factual claims it makes if you are not a subject area expert. 
+> NOTE: Like all other Generative AI tools, Gemini Notebook will sometimes make mistakes, although because you are providing it with training data, it will likely make fewer mistakes than general purpose Generative AI tools. Always research any factual claims it makes if you are not a subject area expert. 
 
 If you have any questions or get stuck as you work through this exercise, please ask the instructor for assistance.
 {: .step}
@@ -29,14 +29,14 @@ If you have any questions or get stuck as you work through this exercise, please
 Step 2 - Getting Started
 {: .label .label-step}
 
-Let's go back to the notebook with the three journal articles we've already created, and add a YouTube video to the notebook so that there will be four items for Google Notebook to draw information from:
+Let's go back to the notebook with the three journal articles we've already created, and add a YouTube video to the notebook so that there will be four items for Gemini Notebook to draw information from:
 
-1. Click on the **Google Notebook logo** on the top right of the screen, which will take you out of the current notebook and to the main Google Notebook screen.
+1. Click on the **Gemini Notebook logo** on the top right of the screen, which will take you out of the current notebook and to the main Gemini Notebook screen.
 2. Click on the **The Digital Badge Ecosystem in Libraries** notebook that you created in the previous activity.
 4. Click on the **Add Source** button above the list of journal articles in this notebook.<br>
-<img src="images/nblm-new-source2.png" style="width:300px;padding:10px;" alt="Adding a new source document to Google Notebook"><br>
+<img src="images/nblm-new-source2.png" style="width:300px;padding:10px;" alt="Adding a new source document to Gemini Notebook"><br>
 5. Click on the **YouTube** button in the bottom middle of the page.<br>
-<img src="images/nblm-new-youtube.png" style="width:300px;padding:10px;" alt="Adding a YouTube video to a Google Notebook notebook"><br>
+<img src="images/nblm-new-youtube.png" style="width:300px;padding:10px;" alt="Adding a YouTube video to a Gemini Notebook notebook"><br>
 7. Next **paste the following web address** into the text box: ```https://www.youtube.com/watch?v=zdJM7gJAJiw```<br>
 <img src="images/nblm-youtube-url.png" style="width:600px;padding:10px;" alt="Adding a YouTube URL"><br>
 {: .step}
@@ -58,7 +58,7 @@ Step 4 - Research Question Generation
 
 1. Create a list of possible research questions by typing the following into the chat box and press Enter: ```Based on the limitations and gaps mentioned in all three journal articles, propose 3-4 potential research questions that could address these gaps.```
   > **Reflection**: Do the research questions look reasonable?<br>
-  > **Reflection**: Do you already have the expertise to critically evaluate these research questions, or do you need to do more background reading to become expert enough in the subject to critically evaluate the Google Notebook generated research questions?
+  > **Reflection**: Do you already have the expertise to critically evaluate these research questions, or do you need to do more background reading to become expert enough in the subject to critically evaluate the Gemini Notebook generated research questions?
 2. Suggest interdisciplinary research questions that combine methodological approaches from these articles by typing the following into the chat box and press Enter: ```Suggest interdisciplinary research questions that combine methodological approaches from all sources.```
   > **Reflection**: Do these research questions look more or less interesting to you than the research questions generated by the previous prompt?
 3. Ask for an emerging list of research areas or technologies that could provide new insights by typing the following into the chat box and press Enter: ```What emerging research areas or technologies could provide new insights into the topics covered in all the sources?```
@@ -74,7 +74,7 @@ Step 5 - Refinement and Evaluation
 ```  - Question C```<br>
   > - **Reflection**: How do the critiques for each question look to you?
   > - **Reflection**: Do any of the critiques change your evaluation of how good they are a research questions?
-2. Ask Google Notebook to suggest potential methodological approaches for addressing each research question you used in step 1 above (replacing QUESTION A, B, & C with your questions):
+2. Ask Gemini Notebook to suggest potential methodological approaches for addressing each research question you used in step 1 above (replacing QUESTION A, B, & C with your questions):
   - ```Suggest potential methodological approaches for addressing each generated research question: QUESTION A```<br>
   - ```Suggest potential methodological approaches for addressing each generated research question: QUESTION B```<br>
   - ```Suggest potential methodological approaches for addressing each generated research question: QUESTION C```<br>
