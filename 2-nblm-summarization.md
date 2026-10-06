@@ -57,3 +57,4 @@ Avoid generic prompts like “summarize this.” You’ll get vague, forgettable
 ```Create a 180–220 word summary for parents explaining how the University Makerspace (Library Digital Scholarship Commons) helps with co-op job searches and post-graduation employment. Use plain language, include three concrete benefits supported by evidence from Document 1, and include inline citations.```
 
 {: .step}
+[NEXT STEP: RQ Brainstorming](3-nblm-brainstorming.html){: .btn .btn-blue }
