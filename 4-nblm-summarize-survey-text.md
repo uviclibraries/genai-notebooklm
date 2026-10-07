@@ -47,7 +47,7 @@ Step 2 - Initial Exploration of Survey Question 1 Responses
   - **Reflection**: In my response, two instructors are highlighted for being particularly expert and helpful. Do we know if that is because these two instructors teach most of the workshops, and equally expert and helpful instructors teach only a handful of workshops so aren't highlighted by Gemini Notebook? You don't have the data to evaluate this question, but it would be something to explore if this was your research project.
 4. Gemini Notebook provides linkable citations for the factual claims or interpretations it makes. Let's see if these citations can help validate Gemini Notebook's claims:
   - Click on the first citation link which is a **1** in a little grey circle.
-  - The Source guide with appear on the right side of the Gemini Notebook interface. Please read the highlighted passage to see if it supports the claim that it's supposed to support. Does it seem accurate?<br>
+  - The Source guide will appear on the right side of the Gemini Notebook interface. Please read the highlighted passage to see if it supports the claim that it's supposed to support. Does it seem accurate?<br>
 <img src="images/nblm-citation-check.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Citation Check"><br>
   - Click on the second citation link which is a **2** in a little grey circle. Does the highlighted passage support the claim that it's supposed to support?
   - Feel free to check out further citations in the document to see how it's done.
