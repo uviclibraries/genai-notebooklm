@@ -92,9 +92,7 @@ Step 3 - Studio Tools
   > - **Reflection**: What do you think of the quality of the audio overview it created?
   > - **Reflection**: Can you think of any ways that this type of audio overview summary could be useful?
   > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created audio overview summary?
-4. **Video Overview**: 
-5. **Infographic**: 
-6. **Slide Deck**: 
+
 {: .step}
 
-[NEXT STEP: Creating Presentations](7-k-12-educators.html){: .btn .btn-blue }
+[NEXT STEP: Creating Presentations](informal-credentials.html){: .btn .btn-blue }
