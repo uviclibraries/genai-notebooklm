@@ -1,3 +1,4 @@
+<!--
 ---
 layout: default
 title: 7 - K-12 Educators
@@ -5,6 +6,7 @@ nav_order: 8
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
+-->
 
 # Teaching Resource: Using Gemini Notebook in K-12 Education
 
