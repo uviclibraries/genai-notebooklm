@@ -25,8 +25,6 @@ By the end of this activity, you will be able to:
 Step 1 - Getting Started
 {: .label .label-step}
 
-Let's go back to the notebook with the three journal articles we've already created, and add a YouTube video to the notebook so that there will be four items for Gemini Notebook to draw information from:
-
 1. Download the following two documents, each with survey question responses, to use as training data for your notebook in this activity. When you do this for your own survey data, please note that you'll need to export the responses for each survey question you want to analyze into separate documents in a format that Gemini Notebook accepts (like TXT or PDF formats). Please make note of where your web browser is saving the survey response PDF files for this exercise (usually in your Downloads or Desktop folders):
    - <a href="images/survey-question-1.pdf" download>Survey Question Response 1</a>
    - <a href="images/survey-question-2.pdf" download>Survey Question Response 2</a>
