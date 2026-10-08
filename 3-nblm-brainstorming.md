@@ -78,10 +78,6 @@ Step 5 - Refinement and Evaluation
   - ```Suggest potential methodological approaches for addressing each generated research question: QUESTION A```<br>
   - ```Suggest potential methodological approaches for addressing each generated research question: QUESTION B```<br>
   - ```Suggest potential methodological approaches for addressing each generated research question: QUESTION C```<br>
-3. Next let's see if we can identify any potential challenges or limitations for each research question in turn:
-  - ```Suggest potential methodological approaches for addressing each generated research question: QUESTION A```<br>
-  - ```Suggest potential methodological approaches for addressing each generated research question: QUESTION B```<br>
-  - ```Suggest potential methodological approaches for addressing each generated research question: QUESTION C```<br>
 {: .step}
 
 OPTIONAL: Work Through This Activity With Your Own Topic!
