@@ -63,20 +63,23 @@ Step 3 – Use Notebook Guide: Reports & Study Guides
 
 Now we use the **Notebook Guide / Studio** panel to generate more structured outputs.
 
-1. Open the **Notebook Guide / Studio** panel (exact name may vary by UI version).  
-2. Choose a template like:
-   - **Briefing Doc / Report**
-   - **Study Guide**
-   - **FAQ / Q&A**
+1. Open the **Notebook Guide / Studio** panel (exact name may vary by UI version).
+2. Select which sources to include:
+   - Start with **1–2 sources**, not the entire notebook.
+   - 
+3. Choose the Reports option
 
-3. Set a clear **audience and purpose**, e.g.:
+4. In the pop-up box, select Document
+5. Click on the edit button (the pencil) for one of the templates, e.g.:
+   - **Briefing Doc**
+   - **Study Guide**
+Or do the same for a template from one of the suggested templates.
+
+6. In the box labelled **Describe the report you want to create** and under the automatically generated instructions, set a clear **audience and purpose**:
    - “Write a 300–400 word briefing for my supervisor who has not read these papers.”
    - “Create a study guide for a midterm exam, including key terms and short explanations.”
-
-4. Select which sources to include:
-   - Start with **1–2 sources**, not the entire notebook.
-
-5. Generate the output and skim:
+     
+9. Generate the output and skim:
    - Are key ideas represented?
    - Are there sections that look too generic or “AI-ish”?
 
