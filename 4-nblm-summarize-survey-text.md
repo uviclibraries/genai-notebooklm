@@ -72,15 +72,15 @@ Step 3 - Studio Tools
    - Click on the **Select all sources** checkbox on the bottom right of the window.
 2. **Reports**:
   - Reports are a quick way to summarize and understand the contents of the survey feedback information in your notebook in a general way. **NOTE**: Gemini Notebook does not provide inline citations in this type of document like it does when it responds to your prompts, which makes verifying factual claims more time-consuming.
-  - To create a briefing document, simpley click on the **Reports** button on the right side of the page. You will be given options to choose from, as well as the ability to use one of a few predefined prompts, or type in your own prompt. It will take 30-60 seconds to generate the briefing document.<br>
-  - Once it is finished creating your briefing document, simpley click on the document link directly below Studio Buttons on the right side of the page, and scan through the summary
+  - To create a briefing document, simply click on the **Reports** button on the right side of the page. You will be given options to choose from, as well as the ability to use one of a few predefined prompts, or type in your own prompt. It will take 30-60 seconds to generate the briefing document.<br>
+  - Once it is finished creating your briefing document, simply click on the document link directly below Studio Buttons on the right side of the page, and scan through the summary
   > - **Reflection**: What do you think of the quality of the Summary?
   > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created summary?
 3. **Data Table**: Create a customize table of data based on your prompt.
-  - To create a data table, simpley click on the **Data Table** button on the right side of the page.
+  - To create a data table, simply click on the **Data Table** button on the right side of the page.
   - Provide a prompt for your data table. For example ```Create a table with feedback for specific instructors. Include: workshop, instructor name, and a quote of the feedback given.```
   - It will take 30-60 seconds to generate the briefing document.<br>
-  - Once it is finished creating your briefing document, simpley click on the document link directly below Studio Buttons on the right side of the page, and scan through the summary
+  - Once it is finished creating your briefing document, simply click on the document link directly below Studio Buttons on the right side of the page, and scan through the summary
   > - **Reflection**: What do you think of the quality of the data in the table?
   > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created table?
 4. **Audio Overview**:
@@ -94,5 +94,3 @@ Step 3 - Studio Tools
   > - **Reflection**: Are there any potential drawbacks or problems you can think of with this type of GenAI-created audio overview summary?
 
 {: .step}
-
-[NEXT STEP: Creating Presentations](informal-credentials.html){: .btn .btn-blue }
