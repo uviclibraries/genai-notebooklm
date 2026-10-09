@@ -24,18 +24,18 @@ Step 1 – Create your first notebook
 {: .label .label-step}
 
 1. Open [notebooklm.google](https://notebooklm.google/){:target="_blank"} and sign in.  
-2. Click **New notebook**.  
+2. Click **New notebook**. <br>
 <img src="images/1-new-notebook.png" style="width:600px;padding:10px;" alt="decorative">
 3. Give it a **purposeful title**, e.g.:
    - “Literature Review”
    - “Thesis – Methodology Sources”
-   - “Workshop Demo – Gemini Notebook”
+   - “Workshop Demo – Gemini Notebook”<br>
 <img src="images/1-title.png" style="width:400px;padding:10px;" alt="decorative">
 4. Add **at least 2–3 sources**:
    - Either find a document of your own, or you can download this [Journal Article](assets/badges.pdf){:target="_blank"} to use as a source in the next step.
    - Click **Add source** → upload your own PDF, or the Journal Article PDF above if you downloaded it, or if you use Google Drive you can select a Google Doc/Slide/Sheet.
    - Also, paste a URL to a publicly accessible article or page. You can use this URL if you'd like: https://richmccue.com/2025/12/27/create-a-high-quality-infographic-for-your-course-outline-in-less-than-2-minutes/ 
-   - (Optional) Add a YouTube link or audio file. Here's a YouTube link if you'd like to use it: https://www.youtube.com/watch?v=-88S0CoNGp8
+   - (Optional) Add a YouTube link or audio file. Here's a YouTube link if you'd like to use it: https://www.youtube.com/watch?v=-88S0CoNGp8<br>
 <img src="images/1-add-sources.png" style="width:600px;padding:10px;" alt="decorative">
 > **Pro tip:** Mix formats in one notebook (PDF + web page + slides). Gemini Notebook is good at weaving them together, but you’ll want to know which source each idea came from.
 
