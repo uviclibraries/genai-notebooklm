@@ -44,7 +44,8 @@ Step 1 – Create your first notebook
 Step 2 – Explore the source summaries
 {: .label .label-step}
 
-1. In the **left panel**, click on a **single source** (one PDF, one webpage).  
+1. In the **left panel**, click on a **single source** (one PDF, one webpage).  <br>
+<img src="images/1-select-doc.png" style="width:600px;padding:10px;" alt="decorative">
 2. Look at the **source summary** that Gemini Notebook generates:
    - Main summary paragraph(s),
    - Key topics,
