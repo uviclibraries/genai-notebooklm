@@ -34,7 +34,7 @@ Let's go back to the notebook with the three journal articles we've already crea
 1. Click on the **Gemini Notebook logo** on the top right of the screen, which will take you out of the current notebook and to the main Gemini Notebook screen.
 2. Click on the **The Digital Badge Ecosystem in Libraries** notebook that you created in the previous activity.
 4. Click on the **Add Source** button above the list of journal articles in this notebook.<br>
-<img src="images/nblm-new-source2.png" style="width:300px;padding:10px;" alt="Adding a new source document to Gemini Notebook"><br>
+<img src="images/gemini-notebook-new-source-2.png" style="width:300px;padding:10px;" alt="Adding a new source document to Gemini Notebook"><br>
 5. Click on the **YouTube** button in the bottom middle of the page.<br>
 <img src="images/nblm-new-youtube.png" style="width:300px;padding:10px;" alt="Adding a YouTube video to a Gemini Notebook notebook"><br>
 7. Next **paste the following web address** into the text box: ```https://www.youtube.com/watch?v=zdJM7gJAJiw```<br>
