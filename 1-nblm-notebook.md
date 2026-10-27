@@ -6,7 +6,7 @@ parent: Workshop Activities
 ---
 
 # Getting Started with Gemini Notebook’s _Notebook Guide_
-<img src="images/5-notebooklm-logo.png" style="float:right;width:280px;padding:10px;" alt="decorative">
+<img src="images/5-gemini-notebook-logo.png" style="float:right;width:280px;padding:10px;" alt="decorative">
 
 > **Quick idea:** In this activity you’ll turn a small pile of readings, notes, or webpages into a **personal AI assistant** that actually knows your stuff and cites it back to you.
 
