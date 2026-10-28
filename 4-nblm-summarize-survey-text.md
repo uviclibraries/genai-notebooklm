@@ -29,7 +29,7 @@ Step 1 - Getting Started
    - <a href="images/survey-question-1.pdf" download>Survey Question Response 1</a>
    - <a href="images/survey-question-2.pdf" download>Survey Question Response 2</a>
 3. Create a new notebook by clicking on the blue **New notebook** button on the right side of the screen.
-<img src="images/nblm-create-new.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="Gemini Notebook Create new button"><br>
+<img src="images/gemini-notebook-create-new.png" style="width:600px;padding:10px;border: 1px solid #555;" alt="Gemini Notebook Create new button"><br>
 4. Upload the two documents you downloaded by clicking on the blue **choose file** link in the middle of the page. You'll need to either select the two documents, and add them together, or do as the video below shows and add them individually:<br>
 <img src="images/nblm-add-surveys3.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="Add Survey Documents"><br>
 5. Good job! You're now ready to explore ways to summarize the survey responses!
